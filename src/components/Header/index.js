@@ -4,7 +4,6 @@ import { Link } from 'react-router';
 import cx from 'classnames';
 
 import logo from 'app/logo.svg';
-import { DONATION_LINK } from 'app/components/DonateButton';
 import Icon from 'app/components/Icon';
 import LoginCTA from '../LoginCTA';
 import DonateButton from 'app/components/DonateButton';
@@ -33,16 +32,13 @@ const LINKS = [
 ];
 
 const SOCIALS = [
-  link('paypal', DONATION_LINK),
-  link('twitter', 'https://twitter.com/joshhunt'),
-  link('twitter', 'https://twitter.com/Jakosaur'),
-  link('github', 'https://github.com/joshhunt/destinySets')
+  link('github', 'https://github.com/BrianWhiting/DestinyCollections-Legacy')
 ];
 
 const SiteName = () => (
   <div className={styles.siteName}>
     <img src={logo} className={styles.logo} alt="" />
-    <div>Destiny Sets</div>
+    <div>Destiny Collections</div>
   </div>
 );
 
@@ -60,17 +56,6 @@ const SiteLinks = ({ showDataExplorerLink }) => (
         {name}
       </Link>
     ))}
-
-    {showDataExplorerLink && (
-      <a
-        className={styles.link}
-        href="https://data.destinysets.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Data Explorer
-      </a>
-    )}
   </Fragment>
 );
 
