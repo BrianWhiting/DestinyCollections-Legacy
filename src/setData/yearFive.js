@@ -443,61 +443,17 @@ export default ([
           }
         ]
       },
-      {
-        name: _(
-          'DestinyActivityDefinition[2823159265].displayProperties.name',
-          'Duality'
-        ),
-        id: 'year-five-duality',
-        description: 'Complete encounters in the Duality dungeon.',
-        sections: [
-          {
-            name: 'Weapons',
-            season: 17,
-            itemGroups: [
-              [3664831848],
-              [
-                1780464822,
-                3000847393,
-                2026087437,
-                2263839058,
-                3652506829,
-                2194955522
-              ]
-            ]
-          },
-          {
-            name: 'Hunter Armor',
-            season: 17,
-            items: [3262689948, 322599957, 4289018379, 2364756343, 3070295330]
-          },
-          {
-            name: 'Titan Armor',
-            season: 17,
-            items: [2610749098, 2616310259, 3570529565, 2351264197, 737550160]
-          },
-          {
-            name: 'Warlock Armor',
-            season: 17,
-            items: [630469185, 1468388696, 561897072, 3798520466, 3742442925]
-          },
-          {
-            name: 'Extras',
-            season: 17,
-            items: [488052106, 383734239, 383734232]
-          }
-        ]
-      },
+    ]
+  },
+  {
+    name: 'Raids and Dungeons',
+    sets: [
       {
         name: _(
           'DestinyActivityDefinition[2906950631].displayProperties.name',
           'Vow of the Disciple'
         ),
         id: 'year-five-vow-of-the-disciple',
-        description: _(
-          'DestinyCollectibleDefinition[3070552038].sourceString',
-          'Vow of the Disciple raid'
-        ),
         sections: [
           {
             name: 'Weapons',
@@ -546,14 +502,54 @@ export default ([
       },
       {
         name: _(
+          'DestinyActivityDefinition[2823159265].displayProperties.name',
+          'Duality'
+        ),
+        id: 'year-five-duality',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 17,
+            itemGroups: [
+              [3664831848],
+              [
+                1780464822,
+                3000847393,
+                2026087437,
+                2263839058,
+                3652506829,
+                2194955522
+              ]
+            ]
+          },
+          {
+            name: 'Hunter Armor',
+            season: 17,
+            items: [3262689948, 322599957, 4289018379, 2364756343, 3070295330]
+          },
+          {
+            name: 'Titan Armor',
+            season: 17,
+            items: [2610749098, 2616310259, 3570529565, 2351264197, 737550160]
+          },
+          {
+            name: 'Warlock Armor',
+            season: 17,
+            items: [630469185, 1468388696, 561897072, 3798520466, 3742442925]
+          },
+          {
+            name: 'Extras',
+            season: 17,
+            items: [488052106, 383734239, 383734232]
+          }
+        ]
+      },
+      {
+        name: _(
           'DestinyActivityDefinition[1374392663].displayProperties.name',
           'King\'s Fall'
         ),
         id: 'year-five-kings-fall',
-        description: _(
-          'DestinyCollectibleDefinition[2100640553].sourceString',
-          'King\'s Fall raid'
-        ),
         sections: [
           {
             name: 'Weapons',
@@ -599,7 +595,57 @@ export default ([
             items: [3889064943, 528682407, 866034301, 983194593, 983194592]
           }
         ]
-      }
+      },
+      {
+        name: _(
+          'DestinyActivityDefinition[2823159265].displayProperties.name',
+          'Spire of the Watcher'
+        ),
+        id: 'year-five-spire-of-the-watcher',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 19,
+            itemGroups: [
+              [
+                4174431791, // Hieararchy of Needs
+              ],
+              [
+                4070357005, // Seventh Seraph Carbine
+                1555959830, // Seventh Seraph Officer Revolver
+                3138208275, // Liminal Vigil
+                2306182339, // Wilderflight
+                8293111, // Long Arm
+                487205709, // Terminus Horizon
+              ],
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 19,
+            items: [2976233114, 918537443, 597199405, 2839517205, 3006077984], // TM-Earp Custom Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 19,
+            items: [2599025960, 1480429241, 3088058655, 119121067, 506181038], // TM-Cogburn Custom Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 19,
+            items: [2014814167, 1088225118, 3185363346, 1932168248, 3780604323], // TM-Moss Custom Set
+          },
+          {
+            name: 'Extras',
+            season: 19,
+            items: [
+              2017375168, // Into the Sunset (Sparrow)
+              2026109716, // Pillory Partition (Emblem)
+              2026109717, // Flight of Soteria (Emblem)
+            ],
+          },
+        ],
+      },
     ]
   },
   {
