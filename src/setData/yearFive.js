@@ -1,20 +1,12 @@
-// @flow
-import type { SetPage } from '../types';
-// import * as common from './common';
 import * as eververseAndEvents from './common/eververseAndEvents';
-import { i18nDefinitionString as _ } from './utils';
 
 export default ([
   {
     name: 'Activities',
     sets: [
       {
-        name: _(
-          'DestinyActivityModeDefinition[2394616003].displayProperties.name',
-          'Strikes'
-        ),
+        name: 'Strikes',
         id: 'year-five-strikes',
-        description: 'Complete necessary pursuits from Commander Zavala.',
         sections: [
           {
             name: 'Weapons',
@@ -117,12 +109,8 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityModeDefinition[1164760504].displayProperties.name',
-          'Crucible'
-        ),
+        name: 'Crucible',
         id: 'year-five-crucible',
-        description: 'Complete necessary pursuits from Lord Shaxx.',
         sections: [
           {
             name: 'Weapons',
@@ -192,12 +180,8 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityModeDefinition[1848252830].displayProperties.name',
-          'Gambit'
-        ),
+        name: 'Gambit',
         id: 'year-five-gambit',
-        description: 'Complete necessary pursuits from the Drifter.',
         sections: [
           {
             name: 'Weapons',
@@ -262,15 +246,8 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityModeDefinition[1826469369].displayProperties.name',
-          'Iron Banner'
-        ),
+        name: 'Iron Banner',
         id: 'year-five-iron-banner',
-        description: _(
-          'DestinyCollectibleDefinition[1158218425].sourceString',
-          'Complete Iron Banner matches and earn rank-up packages from Lord Saladin.'
-        ),
         sections: [
           {
             name: 'Weapons',
@@ -331,12 +308,8 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityModeDefinition[1673724806].displayProperties.name',
-          'Trials of Osiris'
-        ),
+        name: 'Trials of Osiris',
         id: 'year-five-trials-of-osiris',
-        description: 'Complete challenges in the Trials of Osiris.',
         sections: [
           {
             name: 'Weapons',
@@ -398,10 +371,6 @@ export default ([
       {
         name: 'The Witch Queen Campaign',
         id: 'year-five-witch-queen-campaign',
-        description: _(
-          'DestinyCollectibleDefinition[2825706382].sourceString',
-          'The Witch Queen campaign'
-        ),
         big: false,
         sections: [
           {
@@ -419,7 +388,6 @@ export default ([
       {
         name: 'Legend and Master Lost Sectors',
         id: 'year-five-lost-sectors',
-        description: 'Solo Legend and Master Lost Sectors',
         big: false,
         sections: [
           {
@@ -449,33 +417,35 @@ export default ([
     name: 'Raids and Dungeons',
     sets: [
       {
-        name: _(
-          'DestinyActivityDefinition[2906950631].displayProperties.name',
-          'Vow of the Disciple'
-        ),
+        name: 'Vow of the Disciple',
         id: 'year-five-vow-of-the-disciple',
         sections: [
           {
+            name: 'Exotic Weapon',
+            season: 16,
+            items: [3505113722],
+          },
+          {
             name: 'Weapons',
             season: 16,
-            itemGroups: [
-              [
-                3505113722,
+            items: [
                 3428521585,
                 3886416794,
                 613334176,
                 768621510,
                 2534546147,
                 999767358
-              ],
-              [
-                786352912,
-                1941816543,
-                4038592169,
-                2943293195,
-                1466006054,
-                2886339027
-              ]
+            ]
+          },
+          {
+            name: 'Weapons (Adept)',
+            items: [
+              786352912,
+              1941816543,
+              4038592169,
+              2943293195,
+              1466006054,
+              2886339027
             ]
           },
           {
@@ -501,25 +471,24 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityDefinition[2823159265].displayProperties.name',
-          'Duality'
-        ),
+        name: 'Duality',
         id: 'year-five-duality',
         sections: [
           {
+            name: 'Exotic Weapon',
+            season: 17,
+            items: [3664831848],
+          },
+          {
             name: 'Weapons',
             season: 17,
-            itemGroups: [
-              [3664831848],
-              [
-                1780464822,
-                3000847393,
-                2026087437,
-                2263839058,
-                3652506829,
-                2194955522
-              ]
+            items: [
+              2263839058,
+              2194955522,
+              1780464822,
+              3000847393,
+              2026087437,
+              3652506829
             ]
           },
           {
@@ -545,33 +514,35 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityDefinition[1374392663].displayProperties.name',
-          'King\'s Fall'
-        ),
+        name: 'King\'s Fall',
         id: 'year-five-kings-fall',
         sections: [
           {
+            name: 'Exotic Weapon',
+            season: 18,
+            items: [1802135586],
+          },
+          {
             name: 'Weapons',
             season: 18,
-            itemGroups: [
-              [
-                1802135586,
-                2221264583,
-                3228096719,
-                3969066556,
-                431721920,
-                1937552980,
-                1321506184
-              ],
-              [
-                3407395594,
-                3503019618,
-                3904516037,
-                291092617,
-                1184692845,
-                3248429089
-              ]
+            items: [
+              2221264583,
+              3228096719,
+              3969066556,
+              431721920,
+              1937552980,
+              1321506184
+            ]
+          },
+          {
+            name: 'Weapons (Harrowed)',
+            items: [
+              3407395594,
+              3503019618,
+              3904516037,
+              291092617,
+              1184692845,
+              3248429089
             ]
           },
           {
@@ -597,27 +568,26 @@ export default ([
         ]
       },
       {
-        name: _(
-          'DestinyActivityDefinition[2823159265].displayProperties.name',
-          'Spire of the Watcher'
-        ),
+        name: 'Spire of the Watcher',
         id: 'year-five-spire-of-the-watcher',
         sections: [
           {
+            name: 'Exotic Weapon',
+            season: 19,
+            items: [
+              4174431791, // Hieararchy of Needs
+            ]
+          },
+          {
             name: 'Weapons',
             season: 19,
-            itemGroups: [
-              [
-                4174431791, // Hieararchy of Needs
-              ],
-              [
-                4070357005, // Seventh Seraph Carbine
-                1555959830, // Seventh Seraph Officer Revolver
-                3138208275, // Liminal Vigil
-                2306182339, // Wilderflight
-                8293111, // Long Arm
-                487205709, // Terminus Horizon
-              ],
+            items: [
+              4070357005, // Seventh Seraph Carbine
+              1555959830, // Seventh Seraph Officer Revolver
+              3138208275, // Liminal Vigil
+              2306182339, // Wilderflight
+              8293111, // Long Arm
+              487205709, // Terminus Horizon
             ],
           },
           {
@@ -652,9 +622,8 @@ export default ([
     name: 'Seasonal Content',
     sets: [
       {
-        name: 'Season 16',
+        name: 'Season of the Risen',
         id: 'year-five-season-16',
-        description: 'Complete seasonal activities from Season of the Risen.',
         sections: [
           {
             name: 'Pursuit Weapon',
@@ -664,7 +633,7 @@ export default ([
           {
             name: 'Weapons',
             season: 16,
-            items: [1248372789, 232928045, 4096943616, 1572896086]
+            items: [2097055732, 4067556514, 1248372789, 232928045, 4096943616, 1572896086]
           },
           {
             name: 'Hunter Armor',
@@ -699,9 +668,8 @@ export default ([
         ]
       },
       {
-        name: 'Season 17',
+        name: 'Season of the Haunted',
         id: 'year-five-season-17',
-        description: 'Complete seasonal activities from Season of the Haunted.',
         sections: [
           {
             name: 'Pursuit Weapon',
@@ -711,12 +679,10 @@ export default ([
           {
             name: 'Weapons',
             season: 17,
-            items: [1366394399, 2323544076, 254636484, 1959650777]
-          },
-          {
-            name: 'The Derelict Leviathan Weapons',
-            season: 17,
-            items: [3055790362, 2490988246, 502356570, 3107853529]
+            itemGroups: [
+              [3055790362, 2490988246, 502356570, 3107853529],
+              [2778013407, 1366394399, 1478986057, 2323544076, 254636484, 1959650777],
+            ],
           },
           {
             name: 'Hunter Armor',
@@ -741,9 +707,8 @@ export default ([
         ]
       },
       {
-        name: 'Season 18',
+        name: 'Season of Plunder',
         id: 'year-five-season-18',
-        description: 'Complete seasonal activities from Season of Plunder.',
         sections: [
           {
             name: 'Pursuit Weapon',
@@ -778,9 +743,8 @@ export default ([
         ]
       },
       {
-        name: 'Season 19',
+        name: 'Season of the Seraph',
         id: 'year-five-season-19',
-        description: 'Complete seasonal activities from Season of the Seraph.',
         sections: [
           {
             name: 'Pursuit Weapon',
@@ -840,15 +804,8 @@ export default ([
     name: 'Destinations',
     sets: [
       {
-        name: _(
-          'DestinyPlaceDefinition[2244580325].displayProperties.name',
-          'Court of Savathûn, Throne World'
-        ),
+        name: 'Court of Savathûn, Throne World',
         id: 'year-five-throne-world',
-        description: _(
-          'DestinyCollectibleDefinition[3257565710].sourceString',
-          'Found by exploring the Throne World'
-        ),
         sections: [
           {
             name: 'Weapons',
@@ -907,155 +864,228 @@ export default ([
     ],
   },
   {
+    name: 'Season Passes',
+    sets: [
+      {
+        name: 'Season of the Risen',
+        id: 'year-five-season-16-pass',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 16,
+            items: [
+              1763584999,
+              682653408,
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 16,
+            items: [2246957026, 1545024715, 141592453, 3061239773, 3092577752],
+          },
+          {
+            name: 'Titan Armor',
+            season: 16,
+            items: [3600144112, 3356351041, 1921240599, 131771827, 4049560038],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 16,
+            items: [1055855089, 3967373896, 3141291584, 349391650, 2068446973],
+          },
+          {
+            name: 'Other',
+            season: 16,
+            items: [
+              339904227,
+              3157549001,
+              2082826653,
+              1337054696,
+              2073952954,
+              997314999,
+              997314998,
+              2425962977,
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Season of the Haunted',
+        id: 'year-five-season-17-pass',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 17,
+            items: [
+              1234150730,
+              1934353448,
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 17,
+            items: [1819090317, 2471652988, 2311637476, 1474580870, 3479925049],
+          },
+          {
+            name: 'Titan Armor',
+            season: 17,
+            items: [3022208769, 3860128280, 2691634736, 2319853394, 2043350637],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 17,
+            items: [443668396, 3934510181, 3100242363, 3857279207, 1881519186],
+          },
+          {
+            name: 'Other',
+            season: 17,
+            items: [
+              2989179500,
+              493352427,
+              2523952013,
+              634549439,
+              2027044330,
+              3816300537,
+              3195867806,
+              3195867807,
+              467976170,
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Season of Plunder',
+        id: 'year-five-season-18-pass',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 18,
+            items: [
+              374573733,
+              1879832548,
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 18,
+            items: [3646077812, 2518482829, 1637920051, 3189281871, 3843346026],
+          },
+          {
+            name: 'Titan Armor',
+            season: 18,
+            items: [853974266, 2625211587, 3783523469, 717258357, 2363365760],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 18,
+            items: [3138802235, 344693226, 1375858206, 3678872452, 705485351],
+          },
+          {
+            name: 'Other',
+            season: 18,
+            items: [
+              823286729,
+              382975121,
+              1561622944,
+              1302968378,
+              3861400487,
+              3607696740,
+              2639800745,
+              2639800744,
+              3851215879,
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Season of the Seraph',
+        id: 'year-five-season-19-pass',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 19,
+            items: [
+              219145368, // The Manticore
+              [1880238324], // Scorpionflight (The Manticore Ornament)
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 19,
+            items: [832039575, 4200520990, 1214186834, 324936184, 1851004515], // Hardened Basilisk Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 19,
+            items: [4092823443, 1585830050, 1692726662, 4096009948, 2435175535], // Hardened Basilisk
+          },
+          {
+            name: 'Warlock Armor',
+            season: 19,
+            items: [2752126238, 2022099023, 1523304617, 2596599281, 3303607908], // Hardened Basilisk Set
+          },
+          {
+            name: 'Other',
+            season: 19,
+            items: [
+              781932118, // Tripwire Dodge (Emote)
+              1382109741, // Spy Goggles (Emote)
+              3620647249, // Stylish Draw (Finisher)
+              140806329, // Infiltrator Shell (Ghost Shell)
+              1025446168, // Mechanica Projection (Ghost Projection)
+              1068790731, // Intercepted Transmission (Sparrow)
+              2255551160, // Seraphim Cloak (Shader)
+              2255551161, // Carrhae Black (Shader)
+              2498169544, // Seraph Reboot Entrance (Transmat Effect)
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Eververse',
+    sets: [
+      eververseAndEvents.EVERVERSE_Y5_S16,
+      eververseAndEvents.EVERVERSE_Y5_S17,
+      eververseAndEvents.EVERVERSE_Y5_S18,
+      eververseAndEvents.EVERVERSE_Y5_S19,
+    ],
+  },
+  {
     name: 'Other',
     sets: [
       {
         name: 'Earned While Leveling',
         id: 'year-five-rare-armor',
-        description: 'Earn these armor pieces while leveling.',
         big: false,
         sections: [
           {
-            name: 'Armor',
+            name: 'Hunter Armor',
             season: 16,
             itemGroups: [
               [2891906302, 2120302383, 502477449, 2270345041, 2282780740],
-              [2474203178, 2479764339, 2229615005, 2214718277, 3691602896],
-              [4172753441, 674128952, 3783871056, 3004363890, 3135586957]
-            ]
-          }
-        ]
-      },
-      {
-        name: _(
-          'DestinyPresentationNodeDefinition[3110685926].displayProperties.name',
-          'Season Pass'
-        ),
-        description:
-          'Free Track is available to all Destiny 2 Players. Paid Track is available to owners of the current Season Pass.',
-        id: 'year-five-season-passes',
-        big: false,
-        sections: [
-          {
-            name: 'Free Track',
-            season: 16,
-            items: [1763584999, 2097055732, 4067556514]
-          },
-          {
-            name: 'Free Track',
-            season: 17,
-            items: [1234150730, 2778013407, 1478986057]
-          },
-          {
-            name: 'Free Track',
-            season: 18,
-            items: [374573733, 1298815317, 820890091]
-          },
-          {
-            name: 'Free Track',
-            season: 19,
-            items: [
-              219145368, // The Manticore
-              3103325054, // Retrofit Escapade
-              2978226043, // Judgment of Kelgorath
             ],
           },
           {
-            name: 'Paid Track',
+            name: 'Titan Armor',
             season: 16,
             itemGroups: [
-              [682653408],
-              [2246957026, 1545024715, 141592453, 3061239773, 3092577752],
-              [3600144112, 3356351041, 1921240599, 131771827, 4049560038],
-              [1055855089, 3967373896, 3141291584, 349391650, 2068446973],
-              [
-                339904227,
-                3157549001,
-                2082826653,
-                1337054696,
-                2073952954,
-                997314999,
-                997314998,
-                2425962977
-              ]
-            ]
+              [2474203178, 2479764339, 2229615005, 2214718277, 3691602896],
+            ],
           },
           {
-            name: 'Paid Track',
-            season: 17,
+            name: 'Warlock Armor',
+            season: 16,
             itemGroups: [
-              [1934353448],
-              [1819090317, 2471652988, 2311637476, 1474580870, 3479925049],
-              [3022208769, 3860128280, 2691634736, 2319853394, 2043350637],
-              [443668396, 3934510181, 3100242363, 3857279207, 1881519186],
-              [
-                2989179500,
-                493352427,
-                2523952013,
-                634549439,
-                2027044330,
-                3816300537,
-                3195867806,
-                3195867807,
-                467976170
-              ]
-            ]
-          },
-          {
-            name: 'Paid Track',
-            season: 18,
-            itemGroups: [
-              [1879832548],
-              [3646077812, 2518482829, 1637920051, 3189281871, 3843346026],
-              [853974266, 2625211587, 3783523469, 717258357, 2363365760],
-              [3138802235, 344693226, 1375858206, 3678872452, 705485351],
-              [
-                823286729,
-                382975121,
-                1561622944,
-                1302968378,
-                3861400487,
-                3607696740,
-                2639800745,
-                2639800744,
-                3851215879
-              ]
-            ]
-          },
-          {
-            name: 'Paid Track',
-            season: 19,
-            itemGroups: [
-              [1880238324], // Scorpionflight (The Manticore Ornament)
-              [832039575, 4200520990, 1214186834, 324936184, 1851004515], // Hardened Basilisk Set (Hunter)
-              [4092823443, 1585830050, 1692726662, 4096009948, 2435175535], // Hardened Basilisk Set (Titan)
-              [2752126238, 2022099023, 1523304617, 2596599281, 3303607908], // Hardened Basilisk Set (Warlock)
-              [
-                781932118, // Tripwire Dodge (Emote)
-                1382109741, // Spy Goggles (Emote)
-                3620647249, // Stylish Draw (Finisher)
-                140806329, // Infiltrator Shell (Ghost Shell)
-                1025446168, // Mechanica Projection (Ghost Projection)
-                1068790731, // Intercepted Transmission (Sparrow)
-                2255551160, // Seraphim Cloak (Shader)
-                2255551161, // Carrhae Black (Shader)
-                2498169544, // Seraph Reboot Entrance (Transmat Effect)
-              ],
+              [4172753441, 674128952, 3783871056, 3004363890, 3135586957]
             ],
           },
         ],
       },
-      eververseAndEvents.EVERVERSE_Y5,
       {
-        name: _(
-          'DestinyVendorDefinition[3163810067].displayProperties.name',
-          'Legendary Engrams'
-        ),
+        name: 'Legendary Engrams',
         id: 'year-five-legendary-engram',
-        description: _(
-          'DestinyCollectibleDefinition[4273799635].sourceString',
-          'Open Legendary engrams and earn faction rank-up packages.'
-        ),
         big: false,
         sections: [
           {
@@ -1096,8 +1126,8 @@ export default ([
               2566006935, // Fioitura-59
             ],
           },
-        ]
-      }
-    ]
-  }
-]: SetPage);
+        ],
+      },
+    ],
+  },
+]);
