@@ -5017,6 +5017,7 @@ export const EVERVERSE_Y5_S18 = {
           13476582, // Overflowing Treasure Projection
           13476583, // Hazardous Projection
           13476576, // If It Fits Projection
+          13476580, // Plunder Projection
         ],
       ],
     },
@@ -5163,7 +5164,6 @@ export const EVERVERSE_Y5_S19 = {
           3806521906, // Drilldown Shell
           461938196, // Edenic Shell
           3806521909, // Exotech Shell
-          // 140806329, // Infiltrator Shell - Not Being Sold?
           3806521911, // Lunar Lagomorph Shell
           3806521910, // Overcharged Shell
           3806521908, // Repulsor Shell
@@ -5173,7 +5173,7 @@ export const EVERVERSE_Y5_S19 = {
           143766269, // Clue Projection
           143766264, // Lunar Rabbit Projection
           143766267, // Secure Projection
-          // 143766265, // Seraph Projection - Not Being Sold?
+          143766265, // Seraph Projection
         ],
       ],
     },
