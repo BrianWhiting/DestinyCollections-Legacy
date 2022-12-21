@@ -787,6 +787,13 @@ export default ([
             items: [2974824815, 1259550198, 2710316218, 2471829328, 1934312075], // Warmind's Avatar Set
           },
           {
+            name: 'Operation: Seraph\'s Shield',
+            season: 19,
+            items: [
+              1473821207, // Revision Zero
+            ],
+          },
+          {
             name: 'Extras',
             season: 19,
             items: [
