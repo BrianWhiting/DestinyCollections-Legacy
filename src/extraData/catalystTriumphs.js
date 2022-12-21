@@ -15,8 +15,8 @@ export default {
   347366834: 836516980, // Ace of Spades
   3211806999: 1233471745, // Izanagi's Burden
   400096939: 591600693, // Outbreak Perfected
-  2816212794: 748675128, // Bad JuJu
-  //: 2660706768 // Bastion
+  2816212794: 748675128, // Bad Juju
+  // 2415517654: 2660706768, // Bastion
   3512014804: 3663964046, // Lumina
   2357297366: 2744473468, // Witherhoard
   3856705927: 1107121513, // Hawkmoon
@@ -28,8 +28,7 @@ export default {
   2179048386: 3574136388, // Forerunner
   2130065553: 3835718947, // Arbalest
   46524085: 494981303, // Osteo Striga
-  1234150730: 3022631571, // Trespasser
-  417164956: 1060652297, // Jötunn
+  1802135586: 773758208, //  Touch of Malice
 
   // Energy weapons
   4190156464: 4178028503, // Merciless
@@ -48,7 +47,7 @@ export default {
   3413860063: 3531533350, // Lord of Wolves
   3524313097: 1107018752, // Eriana's Vow
   4017959782: 3644944303, // Symmetry
-  //: 3068761227 // Devil's Ruin
+  // 3824106094: 3068761227 // Devil's Ruin
   776191470: 1586771061, // Tommy's Matchbook
   1665952087: 1940645774, // The Fourth Horseman
   1363238943: 3567687058, // Ruinous Effigy
@@ -58,8 +57,12 @@ export default {
   3761898871: 2329638530, // Lorentz Driver
   3588934839: 3628100770, // Le Monarque
   2812324401: 1163649614, // Dead Messenger
+  1234150730: 3022631571, // Trespasser
+  417164956: 1060652297, // Jötunn
+  4174431791: 185032465, // Hierarchy of Needs
+  2603483885: 1226048594, // Cloudstrike
 
-  // Heavy weapons
+  // Power weapons
   3549153979: 3371896300, // The Prospector
   1508896098: 2387948227, // The Wardcliff Coil
   3580904581: 206322164, // Tractor Cannon
@@ -74,21 +77,7 @@ export default {
   2084878005: 1514331782, // Heir Apparent
   2232171099: 2254190310, // Deathbringer
   1363886209: 1855685192, // Gjallarhorn
-  1763584999: 263158944 // Grand Overture
-
-  // 1364093401: 0, // The Last Word
-  // 2694576561: 0, // Two-Tailed Fox
-  // 2376481550: 0, // Anarchy
-  // 3413860062: 0, // The Chaperone
-  // 3973202132: 0, // Thorn
-  // 2044500762: 0, // The Queenbreaker
-  // 1852863732: 0, // Wavesplitter
-  // 2130065553: 0, // Arbalest
-  // 2069224589: 0, // One Thousand Voices
-  // 3110698812: 0, // Tarrabah
-  // 3325463374: 0, // Thunderlord
-  // 1201830623: 0, // Truth
-  // 417164956: 0, // Jötunn
-  // 814876684: 0, // Wish-Ender
-  // 204878059: 0, // Malfeasance
+  1763584999: 263158944, // Grand Overture
+  3664831848: 1629497825, // Heartshadow
+  3325463374: 2571854597, // Thunderlord
 };
