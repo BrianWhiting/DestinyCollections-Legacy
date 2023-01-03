@@ -59,8 +59,10 @@ export default {
   2812324401: 1163649614, // Dead Messenger
   1234150730: 3022631571, // Trespasser
   417164956: 1060652297, // Jötunn
-  4174431791: 185032465, // Hierarchy of Needs
   2603483885: 1226048594, // Cloudstrike
+  219145368: 1439993428, // The Manticore
+  4174431791: 185032465, // Hierarchy of Needs
+  1473821207: 1144463862, // Revision Zero
 
   // Power weapons
   3549153979: 3371896300, // The Prospector
