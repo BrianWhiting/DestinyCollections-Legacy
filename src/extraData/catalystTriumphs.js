@@ -60,9 +60,9 @@ export default {
   1234150730: 3022631571, // Trespasser
   417164956: 1060652297, // Jötunn
   2603483885: 1226048594, // Cloudstrike
-  219145368: 1439993428, // The Manticore
+  219145368: 1144463862, // The Manticore
   4174431791: 185032465, // Hierarchy of Needs
-  1473821207: 1144463862, // Revision Zero
+  1473821207: 1439993428, // Revision Zero
 
   // Power weapons
   3549153979: 3371896300, // The Prospector
