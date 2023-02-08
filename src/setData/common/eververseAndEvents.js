@@ -4719,7 +4719,6 @@ export const EVERVERSE_Y5_S16 = {
           2371951503,
           2371951500,
           2371951501,
-          2371951498,
         ]
       ],
     },
@@ -4859,7 +4858,6 @@ export const EVERVERSE_Y5_S17 = {
           1490733294,
           1490733295,
           1490733288,
-          1490733289,
         ],
         [
           779991370,
@@ -5017,7 +5015,6 @@ export const EVERVERSE_Y5_S18 = {
           13476582, // Overflowing Treasure Projection
           13476583, // Hazardous Projection
           13476576, // If It Fits Projection
-          13476580, // Plunder Projection
         ],
       ],
     },
@@ -5173,7 +5170,6 @@ export const EVERVERSE_Y5_S19 = {
           143766269, // Clue Projection
           143766264, // Lunar Rabbit Projection
           143766267, // Secure Projection
-          143766265, // Seraph Projection
         ],
       ],
     },
