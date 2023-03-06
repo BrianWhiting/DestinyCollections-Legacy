@@ -31,7 +31,7 @@ export default function AppRouter() {
           <Redirect from="/solstice-2020" to="/solstice" />
           <Route path="/solstice" component={SolsticeOfHeroes} />
 
-          <Route path="/" component={Inventory} setData={sets.yearFive} />
+          <Route path="/" component={Inventory} setData={sets.yearSix} />
 
           <Route path="/base" component={Inventory} setData={sets.baseGame} />
 
@@ -49,15 +49,13 @@ export default function AppRouter() {
 
           <Route path="/year-2" component={Inventory} setData={sets.yearTwo} />
 
-          <Route
-            path="/year-3"
-            component={Inventory}
-            setData={sets.yearThree}
-          />
+          <Route path="/year-3" component={Inventory} setData={sets.yearThree} />
 
           <Route path="/year-4" component={Inventory} setData={sets.yearFour} />
 
           <Route path="/year-5" component={Inventory} setData={sets.yearFive} />
+
+          <Route path="/year-6" component={Inventory} setData={sets.yearSix} />
 
           <Route
             path="/eververseandevents"

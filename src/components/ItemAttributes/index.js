@@ -10,7 +10,8 @@ const ELEMENTAL_DAMAGE_CLASS = {
   3: s.solarDamage,
   4: s.voidDamage,
   // 5: Raid,
-  6: s.stasisDamage
+  6: s.stasisDamage,
+  7: s.strandDamage,
 };
 
 const AMMO_TYPE = {
@@ -40,6 +41,8 @@ export default function ItemAttributes({ className, item }) {
     return null;
   }
 
+  console.log(item.damageTypes);
+
   const ammoType = item.equippingBlock && item.equippingBlock.ammoType;
   const elementalDamageClass =
     item && item.damageTypes && item.damageTypes.length > 0
@@ -57,7 +60,7 @@ export default function ItemAttributes({ className, item }) {
           {item.damageTypes[0] && item.damageTypes[0] !== 1 && (
             <div className={s.elementalDamageIcon} />
           )}
-          <div>600</div>
+          <div>1600</div>
         </div>
       )}
 
