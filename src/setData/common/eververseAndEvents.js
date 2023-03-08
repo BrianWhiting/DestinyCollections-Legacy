@@ -5646,3 +5646,156 @@ export const MOMENTS_OF_TRIUMPH_Y5 = {
     },
   ],
 };
+
+// Year 6
+
+export const EVERVERSE_Y6_S20 = {
+  name: 'Season of Defiance',
+  id: 'eververse-y6-s20',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 20,
+      itemGroups: [
+        [3700916624, 3457020513, 119812535, 657001811, 2248131846], // Limitless Subversion Get
+        [657001809], // Thanatic Instinct
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 20,
+      itemGroups: [
+        [3747440012, 2943314501, 1801140251, 3290540999, 157959730], // Cogent Beat Set
+        [3290540997], // Potentiate Treads
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 20,
+      itemGroups: [
+        [1298138613, 4268949060, 3323294780, 1904627822, 780195249], // Technologic Set
+        [1904627820], // Astrotracts
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 20,
+      itemGroups: [
+        [
+          3546298141, // Alhidade (Crimson)
+          1763562841, // Archon Prime (Outbreak Perfected)
+          1080813018, // Calefactor (Forerunner)
+          1083910840, // Chronos Exegesis (No Time to Explain)
+          1465571843, // Heat Sink (Eriana's Vow)
+          172636124, // Karesansui (Jade Rabbit)
+          3802939618, // O Fortune Mine (Bad Juju)
+          2919419217, // Omnipotentia (Tractor Cannon)
+          3184365082, // Shiro's Watch (Trespasser)
+          4289552726, // Whaler's Whim
+        ],
+        [],
+        [
+          3334797172, // Acolyte's Ambition (Wormhusk Crown)
+          794569992, // Seiðr (Young Ahamkara's Spine)
+          1178901683, // Hjörþrimul (Loreley Splendor Helm)
+          2803692309, // Augmented Auspice (Synthoceps)
+          913296044, // Phoenix Renascence (Dawn Chorus)
+          3303992972, // Occisor Draconum (Sunbracers)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 20,
+      items: [
+        1319111096, // Experimental Mishap
+        3935877167, // Simon Says
+        1647410496, // Spray and Pray
+        3925759907, // The Deep Lore
+        833814918, // Touch Grass
+        2998318818, // Arcade Games
+        876863186, // Pick a Card
+        3944509828, // Flamenco Dance
+        874852815, // Keeping Time
+        2691542534, // Mandolin-sistence
+        3341812647, // Polar Dance
+        3986847739, // Quick Cardio
+        916211206, // Torturous Dance
+        1425343929, // Can't Go On
+        1470061456, // Come at Me
+        501953713, // Right This Way
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 20,
+      itemGroups: [
+        [
+          1649523395, // Astrologic Shell
+          1649523396, // Clean Lines Shell
+          1649523398, // Decadent Shell
+          1649523397, // Kit Shell
+          1649523399, // Mark II Shell
+          1649523394, // Sweeper Shell
+        ],
+        [
+          1553560936, // Ahamkara Skull Projection
+          1553560937, // Defiant Projection
+          1553560941, // Magic Trick Projection
+          1553560939, // Side Eye Projection
+          1553560938, // Spicy Ramen Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 20,
+      items: [
+        3725889193, // Assembly Rider
+        3725889199, // Lucid Dream
+        3725889195, // Proto.Type-A
+        3725889194, // Serpent's Reach
+        3725889198, // Sweeper Simulant
+        3725889192, // Vice Cruiser
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 20,
+      items: [
+        1533314821, // Assembly Stinger
+        1533314822, // Gilded Prowler
+        1533314823, // Slipstream i.3
+        1533314820, // SynthOwl
+        1533314819, // Vestian Hawk
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 20,
+      items: [
+        2980357722, // Ego Malign
+        2980357723, // Erebos Glance
+        2980357721, // Springtide Faint
+        2980357720, // Velvet Intention
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 20,
+      items: [
+        3879162082, // Lattice Entrance
+        3879162083, // Shadow Legion Entrance
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 20,
+      items: [
+        1776342454, // Thread the Needle
+        1780821704, // Top Rope
+        1255782625, // Gossamer Volley
+      ],
+    },
+  ],
+};
