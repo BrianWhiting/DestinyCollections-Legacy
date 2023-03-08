@@ -221,12 +221,12 @@ export default ([
                 268260372, // Regnant
                 2508948099, // Caretaker
               ],
-              // [
-              //   1580095978, // Imperial Decree
-              //   2699262254, // Goldtusk
-              //   2626817462, // Throne-Cleaver
-              //   502550538, // Death's Razor
-              // ],
+              [
+                318443586, // Imperial Decree
+                3371413057, // Goldtusk
+                3371413059, // Throne-Cleaver
+                3371413056, // Death's Razor
+              ],
             ],
           },
           {
@@ -244,14 +244,15 @@ export default ([
             season: 20,
             items: [3056490591, 3031934630, 988330314, 2549387168, 1159113819], // Unyielding Favor Set
           },
-          // {
-          //   name: 'Exotic Mission',
-          //   season: 20,
-          //   items: [
-          //     2012273462, // Scribetrace Shell (Ghost Shell)
-          //     908153538, // Brimful of Asher (Emblem)
-          //   ],
-          // },
+          {
+            name: '//node.ovrd.AVALON//',
+            season: 20,
+            items: [
+              3118061005, // Vexcalibur
+              2012273462, // Scribetrace Shell (Ghost Shell)
+              908153538, // Brimful of Asher (Emblem)
+            ],
+          },
           {
             name: 'Extras',
             season: 20,

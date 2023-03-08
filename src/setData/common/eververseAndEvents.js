@@ -5697,10 +5697,10 @@ export const EVERVERSE_Y6_S20 = {
         [
           3334797172, // Acolyte's Ambition (Wormhusk Crown)
           794569992, // Seiðr (Young Ahamkara's Spine)
-          2803692309, // Augmented Auspice (Synthoceps)
           1178901683, // Hjörþrimul (Loreley Splendor Helm)
-          3303992972, // Occisor Draconum (Sunbracers)
+          2803692309, // Augmented Auspice (Synthoceps)
           913296044, // Phoenix Renascence (Dawn Chorus)
+          3303992972, // Occisor Draconum (Sunbracers)
         ],
       ],
     },
