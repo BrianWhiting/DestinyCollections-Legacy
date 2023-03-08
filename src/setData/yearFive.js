@@ -369,23 +369,6 @@ export default ([
         ]
       },
       {
-        name: 'The Witch Queen Campaign',
-        id: 'year-five-witch-queen-campaign',
-        big: false,
-        sections: [
-          {
-            name: 'Weapons',
-            season: 16,
-            items: [2607304614, 2595497736, 3175851496]
-          },
-          {
-            name: 'Extras',
-            season: 16,
-            items: [787024997]
-          }
-        ]
-      },
-      {
         name: 'Legend and Master Lost Sectors',
         id: 'year-five-lost-sectors',
         big: false,
@@ -815,9 +798,36 @@ export default ([
         id: 'year-five-throne-world',
         sections: [
           {
+            name: 'Exotic Weapons',
+            season: 16,
+            items: [
+              46524085,
+              542203595,
+              2535142413,
+              14194600,
+              2812324400,
+            ],
+          },
+          {
             name: 'Weapons',
             season: 16,
-            items: [297296830, 1526296434, 1994645182]
+            itemGroups: [
+              [
+                2607304614,
+                1526296434,
+                2595497736,
+                297296830,
+                1994645182,
+                3175851496,
+              ],
+              [],
+              [
+                927567426,
+                1399109800,
+                3865728990,
+                2721157927,
+              ],
+            ],
           },
           {
             name: 'Hunter Armor',
@@ -835,26 +845,15 @@ export default ([
             items: [1795262004, 201529677, 4115572467, 872328719, 2026031146]
           },
           {
-            name: 'Wellspring',
-            season: 16,
-            items: [
-              927567426,
-              1399109800,
-              3865728990,
-              2721157927,
-              3499782248,
-              816686753
-            ]
-          },
-          {
-            name: 'The Enclave',
-            season: 16,
-            items: [542203595, 2535142413, 14194600]
-          },
-          {
             name: 'Extras',
             season: 16,
-            items: [528474811, 2641682052]
+            items: [
+              3499782248,
+              528474811,
+              787024997,
+              2641682052,
+              816686753,
+            ]
           }
         ]
       }
