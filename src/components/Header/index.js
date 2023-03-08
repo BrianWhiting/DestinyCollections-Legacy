@@ -26,10 +26,6 @@ const LINKS = [
   link('Year 3', '/year-3'),
   link('Year 2', '/year-2'),
   link('Year 1', '/year-1'),
-  link('Strikes', '/strike-gear'),
-  link('All Items', '/all-items'),
-  link('Catalysts', '/catalysts'),
-  link('Mods', '/mods')
 ];
 
 const SOCIALS = [
