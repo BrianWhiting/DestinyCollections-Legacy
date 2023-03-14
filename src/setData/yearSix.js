@@ -170,12 +170,17 @@ export default ([
               1491665733, // Briar's Contempt
             ],
           },
-          // {
-          //   name: 'Weapons (Adept)',
-          //   season: 20,
-          //   items: [
-          //   ],
-          // },
+          {
+            name: 'Weapons (Adept)',
+            season: 20,
+            items: [
+              342514437, // Rufus's Fury (Adept)
+              1986287028, // Mykel's Reverence (Adept)
+              522366885, // Nessa's Oblation (Adept)
+              495442100, // Koraxis's Distress (Adept)
+              2890082420, // Briar's Contempt (Adept)
+            ],
+          },
           {
             name: 'Hunter Armor',
             season: 20,
