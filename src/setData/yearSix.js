@@ -145,58 +145,67 @@ export default ([
       },
     ],
   },
-  // {
-  //   name: 'Raids and Dungeons',
-  //   sets: [
-  //     {
-  //       name: 'The Root of Darkness',
-  //       id: 'year-six-the-root-of-darkness',
-  //       sections: [
-  //         {
-  //           name: 'Exotic Weapon',
-  //           season: 20,
-  //           items: [
-  //           ],
-  //         },
-  //         {
-  //           name: 'Weapons',
-  //           season: 20,
-  //           items: [
-  //           ],
-  //         },
-  //         {
-  //           name: 'Weapons (Adept)',
-  //           season: 20,
-  //           items: [
-  //           ],
-  //         },
-  //         {
-  //           name: 'Hunter Armor',
-  //           season: 20,
-  //           items: [],
-  //         },
-  //         {
-  //           name: 'Titan Armor',
-  //           season: 20,
-  //           items: [],
-  //         },
-  //         {
-  //           name: 'Warlock Armor',
-  //           season: 20,
-  //           items: [],
-  //         },
-  //         {
-  //           name: 'Extras',
-  //           season: 20,
-  //           items: [
-  //             908153541, // A Good Night's Sleep (Emblem)
-  //             908153540, // Terrors Uprooted (Emblem)
-  //           ],
-  //         },
-  //       ],
-  //     },
-  //   ]
-  // },
+  {
+    name: 'Raids and Dungeons',
+    sets: [
+      {
+        name: 'Root of Nightmares',
+        id: 'year-six-root-of-nightmares',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 20,
+            items: [
+              3371017761, // Conditional Finality
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 20,
+            items: [
+              484515708, // Rufus's Fury
+              231031173, // Mykel's Reverence
+              135029084, // Nessa's Oblation
+              2972949637, // Koraxis's Distress
+              1491665733, // Briar's Contempt
+            ],
+          },
+          // {
+          //   name: 'Weapons (Adept)',
+          //   season: 20,
+          //   items: [
+          //   ],
+          // },
+          {
+            name: 'Hunter Armor',
+            season: 20,
+            items: [3810243376, 3608027009, 2787963735, 807905267, 621315878], // Trepidation Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 20,
+            items: [3475635982, 630432767, 824228793, 3846650177, 2138394740], // Agony Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 20,
+            items: [4123705451, 2445962586, 2597227950, 3702434452, 2915322487], // Detestation Set
+          },
+          {
+            name: 'Extras',
+            season: 20,
+            items: [
+              3287231362, // Dream Demon (Sparrow)
+              3403636746, // Gift of Cruelty (Ship)
+              908153540, // Terrors Uprooted (Emblem)
+              56137738, // Oxidized Lead (Shader)
+              56137739, // Opaline Shatter (Shader)
+            ],
+          },
+        ],
+      },
+    ]
+  },
   {
     name: 'Seasonal Content',
     sets: [
