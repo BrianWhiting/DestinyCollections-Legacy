@@ -166,6 +166,7 @@ export default ([
               484515708, // Rufus's Fury
               231031173, // Mykel's Reverence
               135029084, // Nessa's Oblation
+              1471212226, // Acasia's Dejection
               2972949637, // Koraxis's Distress
               1491665733, // Briar's Contempt
             ],
@@ -177,6 +178,7 @@ export default ([
               342514437, // Rufus's Fury (Adept)
               1986287028, // Mykel's Reverence (Adept)
               522366885, // Nessa's Oblation (Adept)
+              3493494807, // Acasia's Dejection (Adept)
               495442100, // Koraxis's Distress (Adept)
               2890082420, // Briar's Contempt (Adept)
             ],
