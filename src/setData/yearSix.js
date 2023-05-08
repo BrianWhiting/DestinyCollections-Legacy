@@ -54,6 +54,7 @@ export default ([
             items: [
               613634302, // Unbroken Projection (Ghost Projection)
               3041031340, // Crucible Horizon (Shader)
+              908153550, // Crucible Ascendant Division (Emblem)
             ],
           },
         ]
@@ -204,6 +205,7 @@ export default ([
             items: [
               3287231362, // Dream Demon (Sparrow)
               3403636746, // Gift of Cruelty (Ship)
+              908153541, // A Good Night's Sleep (Emblem)
               908153540, // Terrors Uprooted (Emblem)
               56137738, // Oxidized Lead (Shader)
               56137739, // Opaline Shatter (Shader)
@@ -352,16 +354,16 @@ export default ([
       },
     ],
   },
-  // {
-  //   name: 'Holiday & Special Events',
-  //   sets: [
-  //     eververseAndEvents.GUARDIAN_GAMES_Y6,
-  //     eververseAndEvents.SOLSTICE_Y6,
-  //     eververseAndEvents.FESTIVAL_OF_THE_LOST_Y6,
-  //     eververseAndEvents.DAWNING_Y6,
-  //     eververseAndEvents.MOMENTS_OF_TRIUMPH_Y6,
-  //   ],
-  // },
+  {
+    name: 'Holiday & Special Events',
+    sets: [
+      eververseAndEvents.GUARDIAN_GAMES_Y6,
+      // eververseAndEvents.SOLSTICE_Y6,
+      // eververseAndEvents.FESTIVAL_OF_THE_LOST_Y6,
+      // eververseAndEvents.DAWNING_Y6,
+      // eververseAndEvents.MOMENTS_OF_TRIUMPH_Y6,
+    ],
+  },
   {
     name: 'Season Passes',
     sets: [

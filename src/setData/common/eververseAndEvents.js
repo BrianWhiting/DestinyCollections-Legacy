@@ -3817,24 +3817,24 @@ export const GUARDIAN_GAMES_Y4 = {
       name: 'Hunter Armor',
       season: 13,
       itemGroups: [
+        [1991946241, 2829865752, 4107663664, 1289590866, 3459379565],
         [539974843],
-        [1991946241, 2829865752, 4107663664, 1289590866, 3459379565]
       ]
     },
     {
       name: 'Titan Armor',
       season: 13,
       itemGroups: [
+        [3690574071, 2763985022, 873100338, 3607928024, 1043883715],
         [3371868783],
-        [3690574071, 2763985022, 873100338, 3607928024, 1043883715]
       ]
     },
     {
       name: 'Warlock Armor',
       season: 13,
       itemGroups: [
+        [2984964098, 2324505451, 4166401701, 3416263037, 3288350712],
         [3628145148],
-        [2984964098, 2324505451, 4166401701, 3416263037, 3288350712]
       ]
     },
     {
@@ -5242,24 +5242,24 @@ export const GUARDIAN_GAMES_Y5 = {
       name: 'Hunter Armor',
       season: 16,
       itemGroups: [
+        [4140869021, 2603400972, 1625014740, 3249133238, 2410421545],
         [223597399],
-        [4140869021, 2603400972, 1625014740, 3249133238, 2410421545]
       ]
     },
     {
       name: 'Titan Armor',
       season: 16,
       itemGroups: [
+        [3581751827, 1074758434, 4036779270, 3584938332, 484260847],
         [617617371],
-        [3581751827, 1074758434, 4036779270, 3584938332, 484260847]
       ]
     },
     {
       name: 'Warlock Armor',
       season: 16,
       itemGroups: [
+        [2353359390, 1623332175, 4029022121, 2197832433, 1514358116],
         [1599443272],
-        [2353359390, 1623332175, 4029022121, 2197832433, 1514358116]
       ]
     },
     {
@@ -5740,7 +5740,6 @@ export const EVERVERSE_Y6_S20 = {
         ],
         [
           1553560936, // Ahamkara Skull Projection
-          1553560937, // Defiant Projection
           1553560941, // Magic Trick Projection
           1553560939, // Side Eye Projection
           1553560938, // Spicy Ramen Projection
@@ -5795,6 +5794,102 @@ export const EVERVERSE_Y6_S20 = {
         1776342454, // Thread the Needle
         1780821704, // Top Rope
         1255782625, // Gossamer Volley
+      ],
+    },
+  ],
+};
+
+export const GUARDIAN_GAMES_Y6 = {
+  name: 'Guardian Games',
+  id: 'year-six-guardian-games',
+  description: 'Acquirable during the 2023 Guardian Games event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 16,
+      items: [
+        1389546626, // Taraxippos
+        3559361670, // The Title
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 16,
+      itemGroups: [
+        [650418244, 597612829, 462395043, 2538781119, 4039169178], // Aspiring Challenger Set
+        [366019830], // Serpent's Glory Mantle
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 16,
+      itemGroups: [
+        [4256854144, 1822927441, 4097505799, 1654077219, 983967254], // Enduring Conqueror Set
+        [537041732], // Lion's Reign Mark
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 16,
+      itemGroups: [
+        [3159710857, 568239104, 754884040, 3941026874, 2881439013], // Resolute Champion Set
+        [1013401891], // Phoenix's Ascent Bond
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 16,
+      items: [
+        133558437, // Championship Dance
+        3632912674, // Curling Shuffle
+        1799214498, // Gladiator Blows
+        1577190509, // Darts
+        3470431947, // Weightlifter
+        946867072, // Free Throw
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 16,
+      itemGroups: [
+        [
+          682455839, // Gridiron Shell
+          682455836, // Padded Armor Shell
+          682455838, // Tug-of-War Shell
+        ],
+        [
+          247604608, // Medal Collector Projection
+          247604609, // Pumping Iron Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 16,
+      items: [
+        3493861052, // Barnstormer
+        2779499874, // Luminous Paragon
+        3493861055, // Shadow Box
+        3493861054, // Triple Bogey
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 16,
+      items: [
+        1147673599, // Stygian Courser
+        1147673598, // Victor's Palanquin
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 16,
+      items: [
+        637391773, // Give 'Em the Chair (Finisher)
+        4048242887, // Burnished Acclaim (Shader)
+        2132252935, // Coronal Bloom (Shader)
+        3369249323, // Colorful Motes Effects (Transmat Effect)
       ],
     },
   ],

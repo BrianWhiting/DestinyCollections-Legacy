@@ -33,6 +33,7 @@ export default ([
       eververseAndEvents.FESTIVAL_OF_THE_LOST_Y5,
       eververseAndEvents.DAWNING_Y5,
       eververseAndEvents.MOMENTS_OF_TRIUMPH_Y5,
+      eververseAndEvents.GUARDIAN_GAMES_Y6,
     ]
   },
   {
