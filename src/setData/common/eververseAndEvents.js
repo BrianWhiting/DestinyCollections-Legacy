@@ -5657,7 +5657,7 @@ export const EVERVERSE_Y6_S20 = {
       name: 'Hunter Armor',
       season: 20,
       itemGroups: [
-        [3700916624, 3457020513, 119812535, 657001811, 2248131846], // Limitless Subversion Get
+        [3700916624, 3457020513, 119812535, 657001811, 2248131846], // Limitless Subversion Set
         [657001809], // Thanatic Instinct
       ],
     },
@@ -5794,6 +5794,153 @@ export const EVERVERSE_Y6_S20 = {
         1776342454, // Thread the Needle
         1780821704, // Top Rope
         1255782625, // Gossamer Volley
+      ],
+    },
+  ],
+};
+
+export const EVERVERSE_Y6_S21 = {
+  name: 'Season of the Deep',
+  id: 'eververse-y6-s21',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 21,
+      itemGroups: [
+        [1622736333, 2275402172, 3435270692, 1661210822, 4179100793], // Anointed Set
+        [3617188871], // Deep Hydra
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 21,
+      itemGroups: [
+        [2457721283, 3129225874, 3781404502, 3530567468, 3111031679], // Godsbane Set
+        [681317097], // Heartrend
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 21,
+      itemGroups: [
+        [1687001996, 882876485, 373307931, 1230102983, 3025094706], // Ancestral Set
+        [3184395484], // Hart of Steel
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 21,
+      itemGroups: [
+        [
+          4073089126, // Dreaming Clarity (Monte Carlo)
+          3671432115, // Hibernal Thorns (Winterbite)
+          4229892878, // Outrunner (Arbalest)
+          4013202920, // Erinyes-SG1 (Conditional Finality)
+          4118865571, // Icthyic Flight (Quicksilver Storm)
+          467730932, // MARA Multi-Tool (MIDA Multi-Tool)
+          683481680, // Vexplosion (Sunshot)
+        ],
+        [],
+        [
+          1531149066, // Olmstead's Downfall (Blight Ranger)
+          210405799, // Pressure Stabilizer (Gyrfalcon's Hauberk)
+          1351606481, // Chivalry's Chill (Cadmus Ridge Lancecap)
+          491397307, // Achorage (Point-Contact Cannon Brace)
+          255749842, // Ionic Fringe (Fallen Sunstar)
+          1855640001, // Phoenix Fusion (Starfire Protocol)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 21,
+      items: [
+        3317580397, // Bailing Water
+        3336918147, // Circling Sharks
+        2707077022, // Gadgeteer
+        852886749, // Peace by the Water
+        1427413670, // Kiddie Pool
+        1799025280, // Row Your Boat
+        3937296308, // A Tiny Friend
+        3486934470, // Catch of the Day
+        1253363681, // Crabcore
+        764167970, // Down Under Dance
+        153780217, // Stargazer
+        4027855847, // You Say Dance
+        311770902, // All Done
+        2203341951, // Cherubic
+        2195978880, // Mime Time
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 21,
+      itemGroups: [
+        [
+          3193788495, // Clicker
+          408388873, // Constant Vigilance Shell
+          408388872, // Digital Pet Shell
+          408388874, // Maglev Shell
+          408388875, // ROV Shell
+          408388879, // Scribe's Shell
+        ],
+        [
+          1748123664, // All Together Now
+          1748123671, // Pouka Pal
+          1748123670, // MARA Monitor
+          1748123669, // Coronal Halo
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 21,
+      items: [
+        709001493, // Quarantine Runner
+        4205434517, // Assymetric Force
+        4205434516, // Bright Nostalgia
+        4205434518, // Frictionless Freedom
+        4205434519, // JJ-2 Research Rover
+        4205434515, // Overpacked
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 21,
+      items: [
+        3385828109, // Blooming Terror
+        1810171918, // Kemper Research Model
+        1810171919, // Prototype Submersible
+        1810171917, // Rapid Response
+        1810171915, // Scrivener's Skipper
+        1810171916, // StarRacer 95
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 21,
+      items: [
+        4279097967, // Methane Explorer
+        4279097966, // Aquatic Iridescence
+        4279097965, // Dreamcycle
+        4279097964, // Solar Shrapnel
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 21,
+      items: [
+        3809728843, // Resurrected Shadow
+        3809728842, // Unspun Fate
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 21,
+      items: [
+        2731430472, // From Nowhere
+        4101461867, // Perfect Strike
+        3960449356, // Whirling Chaos
       ],
     },
   ],
