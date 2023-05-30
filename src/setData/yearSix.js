@@ -358,46 +358,51 @@ export default ([
           },
         ],
       },
-      // {
-      //   name: 'Ghosts of the Deep',
-      //   id: 'year-six-ghosts-of-the-deep',
-      //   sections: [
-      //     {
-      //       name: 'Exotic Weapon',
-      //       season: 21,
-      //       items: [],
-      //     },
-      //     {
-      //       name: 'Weapons',
-      //       season: 21,
-      //       items: [
-      //       ],
-      //     },
-      //     {
-      //       name: 'Hunter Armor',
-      //       season: 21,
-      //       items: [],
-      //     },
-      //     {
-      //       name: 'Titan Armor',
-      //       season: 21,
-      //       items: [],
-      //     },
-      //     {
-      //       name: 'Warlock Armor',
-      //       season: 21,
-      //       items: [],
-      //     },
-      //     {
-      //       name: 'Extras',
-      //       season: 21,
-      //       items: [
-      //         2069797998, // A Grave Matter (Emblem)
-      //         2069797999, // Regicide (Emblem)
-      //       ],
-      //     },
-      //   ],
-      // },
+      {
+        name: 'Ghosts of the Deep',
+        id: 'year-six-ghosts-of-the-deep',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 21,
+            items: [1441805468], // The Navigator
+          },
+          {
+            name: 'Weapons',
+            season: 21,
+            items: [
+              1125217994, // New Pacific Epitaph
+              1757202961, // Greasy Luck
+              3262192268, // No Survivors
+              839786290, // Cold Comfort
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 21,
+            items: [896458489, 409820272, 42941848, 726878794, 2733403573], // Taken King Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 21,
+            items: [2324998093, 2977663932, 2978918436, 2363472582, 3722748537], // Taken King Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 21,
+            items: [540625098, 587762963, 457617725, 322717029, 1961182320], // Taken King Set
+          },
+          {
+            name: 'Extras',
+            season: 21,
+            items: [
+              2274944459, // Recalcitrant Host (Sparrow)
+              2069797999, // Regicide (Emblem)
+              2069797998, // A Grave Matter (Emblem)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
