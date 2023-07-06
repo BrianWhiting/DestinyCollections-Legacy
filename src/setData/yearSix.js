@@ -520,6 +520,11 @@ export default ([
             items: [1063769568, 2966283697, 1685051367, 2797536515, 2400549110], // NPA "Weir-Walker" Set
           },
           {
+            name: 'Deep Dives: Whetstone',
+            season: 21,
+            items: [940371471], // Wicked Implement
+          },
+          {
             name: 'Extras',
             season: 21,
             items: [

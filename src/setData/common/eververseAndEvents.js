@@ -5691,7 +5691,7 @@ export const EVERVERSE_Y6_S20 = {
           3802939618, // O Fortune Mine (Bad Juju)
           2919419217, // Omnipotentia (Tractor Cannon)
           3184365082, // Shiro's Watch (Trespasser)
-          4289552726, // Whaler's Whim
+          4289552726, // Whaler's Whim (Wish-Ender)
         ],
         [],
         [
@@ -5839,6 +5839,7 @@ export const EVERVERSE_Y6_S21 = {
           4118865571, // Icthyic Flight (Quicksilver Storm)
           467730932, // MARA Multi-Tool (MIDA Multi-Tool)
           683481680, // Vexplosion (Sunshot)
+          2763305228, // Agkistrodon-5sr (Wicked Implement)
         ],
         [],
         [
