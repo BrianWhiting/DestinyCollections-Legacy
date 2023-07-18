@@ -619,7 +619,7 @@ export default ([
     name: 'Holiday & Special Events',
     sets: [
       eververseAndEvents.GUARDIAN_GAMES_Y6,
-      // eververseAndEvents.SOLSTICE_Y6,
+      eververseAndEvents.SOLSTICE_Y6,
       // eververseAndEvents.FESTIVAL_OF_THE_LOST_Y6,
       // eververseAndEvents.DAWNING_Y6,
       // eververseAndEvents.MOMENTS_OF_TRIUMPH_Y6,
