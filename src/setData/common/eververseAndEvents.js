@@ -5947,6 +5947,154 @@ export const EVERVERSE_Y6_S21 = {
   ],
 };
 
+export const EVERVERSE_Y6_S22 = {
+  name: 'Season of the Witch',
+  id: 'eververse-y6-s22',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 22,
+      itemGroups: [
+        [4006618466, 3304686155, 2763032581, 525933917, 1419050584], // Hinterland Set
+        [1419050585], // Most Cunning
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 22,
+      itemGroups: [
+        [3245063382, 154189735, 717296081, 3626420201, 2488268524], // Biosphere Explorer Set
+        [2488268525], // Contingent Charge
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 22,
+      itemGroups: [
+        [573904327, 2815573838, 2798400866, 603684680, 2446854323], // Ossuary Set
+        [2446854322], // Royal Favor
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 22,
+      itemGroups: [
+        [
+          1787190130, // Anomalous Domain (Deterministic Chaos)
+          73064000, // Ceremonial Arsenal (The Navigator)
+          1102224360, // Dancing Harlequin (The Huckleberry)
+          3494457418, // Flowing Phoenix (Final Warning)
+          1396812221, // Future Past (Hierarchy of Needs)
+          3804935529, // Infinite Quiver (Le Monarque)
+          3341687311, // Inner Beauty (Grand Overture)
+        ],
+        [],
+        [
+          2950397668, // Europan Scout Visor (Cyrtarachne's Facade)
+          3806882035, // Nucleosynthetic Sheathe (Caliban's Hand)
+          1033559059, // Reticule Lock (Abeyant Leap)
+          3132516484, // Secondary Energy (Armamentarium)
+          3355604850, // Tyrian Gloves (Contraverse Hold)
+          291384463, // Efficient Pursuit (Swarmers)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 22,
+      items: [
+        2100117443, // Jumpmaster
+        2565792257, // Nothing to See Here
+        4117871848, // Weekday Dance
+        2899462804, // Yo-Yo Trick
+        753547630, // Boosted Backflip
+        3143740107, // Knighting Ceremony
+        1379770228, // Risky Archery
+        217395526, // Forlorn Photograph
+        1152180525, // Hoverboard
+        2234799665, // Magic Wand
+        1965972175, // Samba Dance
+        726895548, // Square Dance
+        393730274, // Slap Fight
+        2466147587, // Unyielding March
+        3596399040, // Eerie Hands
+        1124392320, // Olfactory Gesture
+        663616072, // Wicked Taunt
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 22,
+      itemGroups: [
+        [
+          3834005436, // Safety Monitor Shell
+          3834005437, // Scavenged Shell
+          3834005438, // Desecrated Shell
+          3834005439, // Skidder Shell
+          3834005432, // Sheriff Shell
+          3834005433, // Saturniid Shell
+        ],
+        [
+          3957254719, // Mouthwatering Projection
+          3957254714, // Platonic Projection
+          3957254713, // Sylvan Projection
+          3957254712, // Time-Lost Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 22,
+      items: [
+        1522633032, // Chemical Burn
+        1522633033, // Wasteland Racer
+        1522633034, // Roaring Primeval
+        1522633035, // Grass Guzzler
+        1522633036, // Sekhmet Rig
+        1522633037, // Lucent Seeker
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 22,
+      items: [
+        2762201084, // Deep Space Hauler
+        2762201085, // Nightghast
+        2762201086, // Blight or Flight
+        2762201087, // Exoplanet Harvester
+        2762201080, // Pronghorn
+        2762201081, // Bipectinate Craft
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 22,
+      items: [
+        3236196107, // Coleoptera
+        3236196106, // Gamekeeper
+        3236196104, // Luminous Void
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 22,
+      items: [
+        2493836484, // Crystalline Breakout
+        2493836485, // Highly Commendable
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 22,
+      items: [
+        615678437, // Improvised Hammer
+        2568406512, // Instinctive Archery
+        857014233, // Unblockable
+      ],
+    },
+  ],
+};
+
 export const GUARDIAN_GAMES_Y6 = {
   name: 'Guardian Games',
   id: 'year-six-guardian-games',
