@@ -719,14 +719,22 @@ export default ([
           {
             name: 'Weapons',
             season: 21,
-            items: [
-              1875512595, // Kept Confidence
-              4132072834, // Locus Locutus
-              2779821308, // Brya's Love
-              3347946548, // The Eremite
-              2922749929, // Semiotician
-              105306149, // Eleatic Principle
-            ],
+            itemGroups: [
+              [
+                1875512595, // Kept Confidence
+                4132072834, // Locus Locutus
+                2779821308, // Brya's Love
+                3347946548, // The Eremite
+                2922749929, // Semiotician
+                105306149, // Eleatic Principle
+              ],
+              [
+                1974641289, // Nightshade
+                1999754402, // The Showrunner
+                1296429091, // Deadpan Delivery
+                781498181, // Persuader
+              ],
+            ]
           },
           {
             name: 'Hunter Armor',
