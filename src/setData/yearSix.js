@@ -408,6 +408,27 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Ritual Armor Set',
+        id: 'year-six-ritual-armor-set',
+        sections: [
+          {
+            name: 'Hunter Armor',
+            season: 22,
+            items: [4006618466, 3304686155, 2763032581, 525933917, 1419050584], // Hinterland Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 22,
+            items: [3245063382, 154189735, 717296081, 3626420201, 2488268524], // Biosphere Explorer Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 22,
+            items: [573904327, 2815573838, 2798400866, 603684680, 2446854323], // Ossuary Set
+          },
+        ],
+      },
     ],
   },
   {
@@ -522,57 +543,72 @@ export default ([
           },
         ],
       },
-      // {
-      //   name: 'Crota\'s End',
-      //   id: 'year-six-crotas-end',
-      //   sections: [
-      //     {
-      //       name: 'Exotic Weapon',
-      //       season: 22,
-      //       items: [
-      //       ],
-      //     },
-      //     {
-      //       name: 'Weapons',
-      //       season: 22,
-      //       items: [
-      //       ],
-      //     },
-      //     {
-      //       name: 'Weapons (Adept)',
-      //       season: 22,
-      //       items: [
-      //       ],
-      //     },
-      //     {
-      //       name: 'Hunter Armor',
-      //       season: 22,
-      //       items: [], //  Set
-      //     },
-      //     {
-      //       name: 'Titan Armor',
-      //       season: 22,
-      //       items: [], //  Set
-      //     },
-      //     {
-      //       name: 'Warlock Armor',
-      //       season: 22,
-      //       items: [], //  Set
-      //     },
-      //     {
-      //       name: 'Extras',
-      //       season: 22,
-      //       items: [
-      //         , //  (Sparrow)
-      //         , //  (Ship)
-      //         , //  (Emblem)
-      //         , //  (Emblem)
-      //         , //  (Shader)
-      //         , //  (Shader)
-      //       ],
-      //     },
-      //   ],
-      // },
+      {
+        name: 'Crota\'s End',
+        id: 'year-six-crotas-end',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 22,
+            items: [
+              1034055198, // Necrochasm
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 22,
+            items: [
+              1432682459, // Fang of Ir Yût
+              3163900678, // Swordbreaker
+              120706239, // Word of Crota
+              1098171824, // Oversoul Edict
+              833898322, // Abyss Defiant
+              2828278545, // Song of Ir Yût
+              3319810953, // Eidolon Ally
+              3319810952, // Husk of the Pit
+            ],
+          },
+          {
+            name: 'Weapons (Adept)',
+            season: 22,
+            items: [
+              128782990, // Fang of Ir Yût (Adept)
+              1239700299, // Swordbreaker (Adept)
+              3926103986, // Word of Crota (Adept)
+              578105049, // Oversoul Edict (Adept)
+              3782662983, // Abyss Defiant (Adept)
+              407511664, // Song of Ir Yût (Adept)
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 22,
+            items: [859929450, 441033139, 3714937821, 175883909, 1306415888],
+          },
+          {
+            name: 'Titan Armor',
+            season: 22,
+            items: [1328334240, 3189374833, 1261894567, 3020524483, 2401746614],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 22,
+            items: [1964816829, 427348780, 1386180724, 1497538390, 2130010697],
+          },
+          {
+            name: 'Extras',
+            season: 22,
+            items: [
+              2091889892, // Crota's Exile (Sparrow)
+              1934481780, // War's Lament (Ship)
+              54004488, // Illuminated Peril (Emblem)
+              54004489, // A Broken Throne (Emblem)
+              634576124, // Warped Rachis (Shader)
+              634576125, // Shed Carapace (Shader)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
