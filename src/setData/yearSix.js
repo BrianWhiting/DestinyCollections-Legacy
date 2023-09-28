@@ -156,6 +156,7 @@ export default ([
             items: [
               15821600, // Readied Projection (Ghost Projection)
               3358389466, // Sanguine Splash (Shader)
+              54004491, // Vermillion Defender (Emblem)
             ],
           },
         ],
@@ -415,17 +416,17 @@ export default ([
           {
             name: 'Hunter Armor',
             season: 22,
-            items: [4006618466, 3304686155, 2763032581, 525933917, 1419050584], // Hinterland Set
+            items: [961336327, 3202902670, 2923110818, 1415574152, 2147003635], // Hinterland Set
           },
           {
             name: 'Titan Armor',
             season: 22,
-            items: [3245063382, 154189735, 717296081, 3626420201, 2488268524], // Biosphere Explorer Set
+            items: [2004218725, 2784895540, 2726926924, 3072634174, 1130718081], // Biosphere Explorer Set
           },
           {
             name: 'Warlock Armor',
             season: 22,
-            items: [573904327, 2815573838, 2798400866, 603684680, 2446854323], // Ossuary Set
+            items: [937008222, 4035914127, 309859049, 357023793, 1624024996], // Ossuary Set
           },
         ],
       },

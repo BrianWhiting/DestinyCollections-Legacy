@@ -5955,7 +5955,6 @@ export const EVERVERSE_Y6_S22 = {
       name: 'Hunter Armor',
       season: 22,
       itemGroups: [
-        [4006618466, 3304686155, 2763032581, 525933917, 1419050584], // Hinterland Set
         [1419050585], // Most Cunning
       ],
     },
@@ -5963,7 +5962,6 @@ export const EVERVERSE_Y6_S22 = {
       name: 'Titan Armor',
       season: 22,
       itemGroups: [
-        [3245063382, 154189735, 717296081, 3626420201, 2488268524], // Biosphere Explorer Set
         [2488268525], // Contingent Charge
       ],
     },
@@ -5971,7 +5969,6 @@ export const EVERVERSE_Y6_S22 = {
       name: 'Warlock Armor',
       season: 22,
       itemGroups: [
-        [573904327, 2815573838, 2798400866, 603684680, 2446854323], // Ossuary Set
         [2446854322], // Royal Favor
       ],
     },
