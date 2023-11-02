@@ -6287,3 +6287,116 @@ export const SOLSTICE_Y6 = {
     },
   ],
 };
+
+export const FESTIVAL_OF_THE_LOST_Y6 = {
+  name: 'Festival of the Lost',
+  id: 'year-six-festival-of-the-lost',
+  description: 'Acquirable during the 2023 Festival of the Lost event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 18,
+      items: [
+        177568179, // Horror Story
+        3103255595, // Jurassic Green
+        3871226707, // Mechabre
+        413901114, // Acosmic
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 18,
+      itemGroups: [
+        [2669452287, 2603319494, 2273494378, 2586806208, 2910312059], // Mygalomorph Set
+      ]
+    },
+    {
+      name: 'Titan Armor',
+      season: 18,
+      itemGroups: [
+        [2015081171, 3844528610, 765946822, 1593707036, 1083938223], // Crawling Chaos Set
+      ]
+    },
+    {
+      name: 'Warlock Armor',
+      season: 18,
+      itemGroups: [
+        [1082381334, 2286474983, 4256068881, 1039280681, 2156531500], // Carapace Set
+      ]
+    },
+    {
+      name: 'Masks',
+      season: 18,
+      items: [
+        1808095284, // Calus Mask
+        1808095287, // Clovis Bray Mask
+        1808095286, // Mara Sov Mask
+        1808095285, // Nimbus Mask
+        1808095282, // Pouka Mask
+        1808095283, // Tormentor Mask
+        1971240964, // Disciple Mask
+        1971240965, // Good Boy Mask
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 18,
+      itemGroups: [
+        [
+          1390684733, // Pumpkin Carving
+          1512491423, // Vampiric Pose
+          1182552175, // Imprecise Snack
+          2095897862, // Skeletal Dance
+          127603177, // Zombie Shuffle
+          1843912327, // Accursed Sun
+        ],
+      ]
+    },
+    {
+      name: 'Ghosts',
+      season: 18,
+      itemGroups: [
+        [
+          3299468272, // Confection Shell
+          3299468275, // Heart-Powered Shell
+          3299468273, // Spinneret Shell
+
+        ],
+        [
+          1219457027, // Cobwebbed Projection
+          1219457026, // Ominous Projection
+        ]
+      ]
+    },
+    {
+      name: 'Sparrows',
+      season: 18,
+      items: [
+        2149696880, // Stygian Steed
+        2149696881, // The Mourner
+        2149696883, // Sugary Staple
+      ]
+    },
+    {
+      name: 'Ships',
+      season: 18,
+      items: [
+        346066663, // Nyxpterón
+        61740555, // Extra-Terrestrial Vehicle
+        61740554, // Fairytale Flight
+      ]
+    },
+    {
+      name: 'Extras',
+      season: 18,
+      items: [
+        3696163951, // Bashing Pumpkins (Finisher)
+        2355278665, // Clinging Cobweb (Shader)
+        3586026952, // Magical Transformation (Shader)
+        2355278664, // Roseate Gleam (Shader)
+        1298644738, // Sugar Rush (Transmat Effect)
+      ]
+    }
+  ]
+};
