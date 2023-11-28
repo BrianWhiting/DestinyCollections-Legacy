@@ -796,6 +796,8 @@ export default ([
               2757631052, // Sparagmos (Ship)
               2119182608, // Laminos (Sparrow)
               54004493, // Cartomancy (Emblem)
+              54004494, // Twisted Space (Emblem)
+              3304608321, // Forbidden Wish (Shader)
             ],
           },
         ],
