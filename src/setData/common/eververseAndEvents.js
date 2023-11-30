@@ -6092,6 +6092,153 @@ export const EVERVERSE_Y6_S22 = {
   ],
 };
 
+export const EVERVERSE_Y6_S23 = {
+  name: 'Season of the Wish',
+  id: 'eververse-y6-s23',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 23,
+      itemGroups: [
+        [1305696043, 3881343770, 1100688750, 1308779348, 1843137591], // White Wolf Set
+        [3018855040], // Antique Filigree
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 23,
+      itemGroups: [
+        [1534425129, 3620801440, 1708576744, 2315741018, 3410674117], // Kaer Morhen Set
+        [186642270], // Vital Plate
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 23,
+      itemGroups: [
+        [2180162034, 2604938459, 3509617717, 1054978637, 2207212296], // Hexer Set
+        [3122132988], // Galactic North
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 23,
+      itemGroups: [
+        [
+          534742271, // Augmented Apotheosis (Divinity)
+          3339775, // Spacetime Weft (Leviathan's Breath)
+          1503941894, // Extravagant Wishcraft (One Thousand Voices)
+          2610892819, // The Business End (Sweet Business)
+          3575125069, // Essentialism (Thorn)
+          489304975, // Immaterial Messenger (Wish-Keeper)
+          138477739, // Corrupted Logic (Necrochasm)
+        ],
+        [],
+        [
+          2768155748, // Armory Exhibition (Assassin's Cowl)
+          1520805160, // Digital Variance (Star-Eater Scales)
+          2686985268, // Aurora Sacrifice (Hallowfire Heart)
+          3319881022, // Adamantine Rebirth (Loreley Splendor)
+          4275997599, // Beast Whisperer (Claws of Ahamkara)
+          1911956235, // Crystalline Lodestar (Osmiomancy Gloves)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 23,
+      items: [
+        3410091351, // Barrel Bath
+        603260947, // Roller Coaster
+        1269848819, // Destructive Wizard
+        3147056182, // Cozy Campfire
+        1007524098, // Mystical Reading
+        719418628, // Magic Lamp
+        1495645910, // Friendly Feet Dance
+        1938642515, // Take Out the Trash
+        3761778185, // Steepled Stare
+        1015546978, // Let Me Tell Ya
+        865390479, // Hot Gossip
+        368543999, // Unacceptable
+        1678716313, // Warrior Stance
+        3084441100, // Curtsy
+        334868148, // Time's Ticking
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 23,
+      itemGroups: [
+        [
+          3733702441, // Wolven Shell
+          1944917699, // Razorscale Shell
+          1944917698, // Photoelectric Shell
+          1944917697, // Scarred Shell
+          1944917696, // Arcade Shell
+        ],
+        [
+          1425631487, // Ether Engine
+          1425631484, // Daily Bread
+          1425631485, // Lunar Dragon
+          1425631482, // Brainfreeze
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 23,
+      items: [
+        952431287, // Roach-VGH
+        3188399959, // Ferrous Roar
+        3188399958, // Afterglow
+        3188399957, // Mercenary Spirit
+        3188399956, // Pinballer
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 23,
+      items: [
+        2949538031, // Wolven Storm
+        2110175471, // Steelsky
+        2110175470, // Laser Cutter
+        2110175469, // Abominable Insignia
+        2110175468, // Waverider
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 23,
+      items: [
+        965288075, // Neon Splash
+        965288078, // Long Journeys
+        965288079, // Minimalism
+        965288076, // Cloudstriding Couture
+        965288077, // Ablaze
+        965288072, // Princely Presence
+        965288073, // Spark of Jow
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 23,
+      items: [
+        1377026844, // Inflorescence
+        1377026845, // Phosphene Stimulus
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 23,
+      items: [
+        3569428060, // Force Damage
+        3448684752, // Fatal Uppercut
+        705872752, // Flood of Anger
+      ],
+    },
+  ],
+};
+
 export const GUARDIAN_GAMES_Y6 = {
   name: 'Guardian Games',
   id: 'year-six-guardian-games',
