@@ -701,6 +701,51 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Warlord\'s Ruin',
+        id: 'year-six-warlords-ruin',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 23,
+            items: [3886719505], // Buried Bloodline
+          },
+          {
+            name: 'Weapons',
+            season: 23,
+            items: [
+              839344841, // Vengeful Whisper
+              2806569825, // Naeem's Lance
+              3381450498, // Indebted Kindness
+              3668817296, // Dragoncult Sickle
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 23,
+            items: [220527011, 1316592242, 1450838966, 1717830540, 822042719], // Dark Age Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 23,
+            items: [2792429007, 652593750, 3788388762, 1864873008, 3012281579], // Dark Age Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 23,
+            items: [3007862180, 2572175997, 787709443, 601360799, 3981499770], // Dark Age Set
+          },
+          {
+            name: 'Extras',
+            season: 23,
+            items: [
+              4141762315, // Zira's Shell (Ghost Shell)
+              1465090517, // Shattered Fortress (Emblem)
+              1465090516, // Tattered Regalia (Emblem)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
