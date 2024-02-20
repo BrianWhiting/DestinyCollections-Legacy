@@ -6641,3 +6641,26 @@ export const DAWNING_Y6 = {
     },
   ],
 };
+
+export const MOMENTS_OF_TRIUMPH_Y6 = {
+  name: 'Moments of Triumph',
+  id: 'year-six-moments-of-triumph',
+  description: 'Earned during the 2023 Moments of Triumph event.',
+  big: false,
+  sections: [
+    {
+      name: 'Ghosts',
+      season: 23,
+      items: [
+        717171677, // Laurel Shell
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 23,
+      items: [
+        2545880781, // Fire-Gilt Quadriga
+      ],
+    },
+  ],
+};
