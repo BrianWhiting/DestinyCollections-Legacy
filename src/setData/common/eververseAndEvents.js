@@ -6102,6 +6102,7 @@ export const EVERVERSE_Y6_S23 = {
       itemGroups: [
         [1305696043, 3881343770, 1100688750, 1308779348, 1843137591], // White Wolf Set
         [3018855040], // Antique Filigree
+        [1305696042, 3881343771, 1100688751, 1308779349, 1843137590], // Vakarian Set
       ],
     },
     {
@@ -6110,6 +6111,7 @@ export const EVERVERSE_Y6_S23 = {
       itemGroups: [
         [1534425129, 3620801440, 1708576744, 2315741018, 3410674117], // Kaer Morhen Set
         [186642270], // Vital Plate
+        [1534425128, 3620801441, 1708576745, 2315741019, 3410674116], // N7 Set
       ],
     },
     {
@@ -6118,6 +6120,7 @@ export const EVERVERSE_Y6_S23 = {
       itemGroups: [
         [2180162034, 2604938459, 3509617717, 1054978637, 2207212296], // Hexer Set
         [3122132988], // Galactic North
+        [2180162035, 2604938458, 3509617716, 1054978636, 2207212297], // Shadow Broker Set
       ],
     },
     {
@@ -6175,6 +6178,7 @@ export const EVERVERSE_Y6_S23 = {
           1944917698, // Photoelectric Shell
           1944917697, // Scarred Shell
           1944917696, // Arcade Shell
+          3733702440, // Enhanced Defense Shell
         ],
         [
           1425631487, // Ether Engine
@@ -6193,6 +6197,7 @@ export const EVERVERSE_Y6_S23 = {
         3188399958, // Afterglow
         3188399957, // Mercenary Spirit
         3188399956, // Pinballer
+        952431286, // Alliance Drop Ship
       ],
     },
     {
@@ -6204,6 +6209,7 @@ export const EVERVERSE_Y6_S23 = {
         2110175470, // Laser Cutter
         2110175469, // Abominable Insignia
         2110175468, // Waverider
+        2949538030, // Alliance Scout Frigate
       ],
     },
     {
