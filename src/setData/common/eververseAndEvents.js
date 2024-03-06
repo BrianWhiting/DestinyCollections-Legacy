@@ -6103,6 +6103,7 @@ export const EVERVERSE_Y6_S23 = {
         [1305696043, 3881343770, 1100688750, 1308779348, 1843137591], // White Wolf Set
         [3018855040], // Antique Filigree
         [1305696042, 3881343771, 1100688751, 1308779349, 1843137590], // Vakarian Set
+        [3147967308, 2302265093, 2589509851, 2225137287, 1329210098], // Warrior's Memorial Set
       ],
     },
     {
@@ -6112,6 +6113,7 @@ export const EVERVERSE_Y6_S23 = {
         [1534425129, 3620801440, 1708576744, 2315741018, 3410674117], // Kaer Morhen Set
         [186642270], // Vital Plate
         [1534425128, 3620801441, 1708576745, 2315741019, 3410674116], // N7 Set
+        [652459914, 658124243, 564463357, 4263484965, 2026451248], // Fenrir's Bane Set
       ],
     },
     {
@@ -6121,6 +6123,7 @@ export const EVERVERSE_Y6_S23 = {
         [2180162034, 2604938459, 3509617717, 1054978637, 2207212296], // Hexer Set
         [3122132988], // Galactic North
         [2180162035, 2604938458, 3509617716, 1054978636, 2207212297], // Shadow Broker Set
+        [1141791675, 2642649962, 1886970526, 1681861892, 1216597671], // Skaldic Chant Set
       ],
     },
     {
@@ -6135,6 +6138,8 @@ export const EVERVERSE_Y6_S23 = {
           3575125069, // Essentialism (Thorn)
           489304975, // Immaterial Messenger (Wish-Keeper)
           138477739, // Corrupted Logic (Necrochasm)
+          4175323631, // Gilded Cage (Whisper of the Worm)
+          2113116241, // Thor's Bellow (Thunderlord)
         ],
         [],
         [
@@ -6179,12 +6184,14 @@ export const EVERVERSE_Y6_S23 = {
           1944917697, // Scarred Shell
           1944917696, // Arcade Shell
           3733702440, // Enhanced Defense Shell
+          1392418732, // Heimdall Shell
         ],
         [
           1425631487, // Ether Engine
           1425631484, // Daily Bread
           1425631485, // Lunar Dragon
           1425631482, // Brainfreeze
+          1425631483, // Cloudy Projection
         ],
       ],
     },
@@ -6198,6 +6205,7 @@ export const EVERVERSE_Y6_S23 = {
         3188399957, // Mercenary Spirit
         3188399956, // Pinballer
         952431286, // Alliance Drop Ship
+        2511583696, // Winged Wolf
       ],
     },
     {
@@ -6210,6 +6218,7 @@ export const EVERVERSE_Y6_S23 = {
         2110175469, // Abominable Insignia
         2110175468, // Waverider
         2949538030, // Alliance Scout Frigate
+        1382713362, // Sessrúmnir
       ],
     },
     {
@@ -6223,6 +6232,7 @@ export const EVERVERSE_Y6_S23 = {
         965288077, // Ablaze
         965288072, // Princely Presence
         965288073, // Spark of Jow
+        885144427, // Warrior's Iron
       ],
     },
     {
@@ -6666,6 +6676,108 @@ export const MOMENTS_OF_TRIUMPH_Y6 = {
       season: 23,
       items: [
         2545880781, // Fire-Gilt Quadriga
+      ],
+    },
+  ],
+};
+
+export const GUARDIAN_GAMES_Y6_2 = {
+  name: 'Guardian Games',
+  id: 'year-six-guardian-games_2',
+  description: 'Acquirable during the 2024 Guardian Games event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 20,
+      items: [
+        3007479950, // Taraxippos
+        655712834, // The Title
+        657927352, // Hullabaloo
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 20,
+      itemGroups: [
+        [710694221, 1363360060, 3102003364, 749168710, 3845833465], // Viper's Zeal Set
+        [2720753042], // Allstar Mantle
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 20,
+      itemGroups: [
+        [3955736323, 798307794, 817283478, 1199546220, 146910655], // Lion's Might Set
+        [3720087872], // Allstar Mark
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 20,
+      itemGroups: [
+        [4054029966, 1208826751, 4136254009, 130076865, 1155452660], // Hawk's Fury Set
+        [25524335], // Allstar Bond
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 20,
+      items: [
+        1458722318, // The Perfect Putt
+        3946321634, // Exercise Cycle
+        4204482447, // Fouetté Turn
+        392504592, // Touchdown Dance
+        2915137853, // Toy Hula Hoop
+        3613955012, // Let's Hear Some Noise
+        4018523064, // Out of Breath
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 20,
+      itemGroups: [
+        [
+          1963513388, // Capped Shell
+          1963513391, // Classy Shell
+          1963513389, // Tasseled Shell
+        ],
+        [
+          1357354098, // Fervent Fan Projection
+          1357354099, // Titled Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 20,
+      items: [
+        2894282039, // Allstar Vector
+        2928555615, // The Torpedo
+        2928555612, // Bucephalus III
+        2928555613, // Richly Caparisoned
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 20,
+      items: [
+        1099926165, // Championship Advantage
+        1099926164, // Para Bellum IV
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 20,
+      items: [
+        2191200811, // Served (Finisher)
+        4095784502, // Fighting Colors (Shader)
+        3510413604, // Champion Keepsake (Shader)
+        211863483, // Prizewinner (Shader)
+        2113350276, // Proud Sigil (Transmat Effect)
+        2113350277, // Stalwart Sigil (Transmat Effect)
+        4004720050, // Best of the Best (Emblem)
+        4004720051, // The Very Best (Emblem)
       ],
     },
   ],

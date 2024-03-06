@@ -93,10 +93,14 @@ export default ([
               [
                 1151688091, // Undercurrent
                 2450917538, // Uzume RR4
+                1332123064, // Wild Style
+                2889501828, // The Slammer
               ],
               [
                 672957262, // Undercurrent (Adept)
                 1891996599, // Uzume RR4 (Adept)
+                959037361, // Wild Style (Adept)
+                1354727549, // The Slammer (Adept)
               ],
             ],
           },
@@ -313,6 +317,8 @@ export default ([
             items: [
               2189073092, // Lethal Abundance
               1764868900, // Riiswalker
+              1218113510, // Tusk of the Boar
+              3211624072, // Multimach CCX
             ],
           },
           {
@@ -410,10 +416,14 @@ export default ([
               [
                 1401300690, // Eye of Sol
                 4248997900, // Incisor
+                1968410628, // The Prophet
+                1820994983, // The Summoner
               ],
               [
                 2059255495, // Eye of Sol (Adept)
                 2421180981, // Incisor (Adept)
+                3019024381, // The Prophet (Adept)
+                1292594730, // The Summoner (Adept)
               ],
             ],
           },
@@ -742,6 +752,24 @@ export default ([
               4141762315, // Zira's Shell (Ghost Shell)
               1465090517, // Shattered Fortress (Emblem)
               1465090516, // Tattered Regalia (Emblem)
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Prophecy',
+        id: 'year-six-prophecy',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 23,
+            items: [
+              2969415423, // Judgment
+              435821041, // Relentless
+              1013434963, // Adjudicator
+              3483591058, // Prosecutor
+              435821040, // Darkest Before
+              4097972038, // A Sudden Death
             ],
           },
         ],
@@ -1086,6 +1114,7 @@ export default ([
       eververseAndEvents.FESTIVAL_OF_THE_LOST_Y6,
       eververseAndEvents.DAWNING_Y6,
       eververseAndEvents.MOMENTS_OF_TRIUMPH_Y6,
+      eververseAndEvents.GUARDIAN_GAMES_Y6_2,
     ],
   },
   {
