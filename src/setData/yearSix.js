@@ -531,6 +531,84 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Into the Light',
+        id: 'year-six-into-the-light',
+        sections: [
+          {
+            name: 'Exotic Weapons',
+            season: 20,
+            items: [
+              1983149589, // Whisper of the Worm
+              3824673936, // Outbreak Perfected
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 20,
+            itemGroups: [
+              [
+                4043921923, // The Mountaintop (Limited Edition)
+                2499720827, // Midnight Coup (Limited Edition)
+                2533990645, // Blast Furnace (Limited Edition)
+                205225492, // Hung Jury SR4 (Limited Edition)
+                570866107, // Succession (Limited Edition)
+                2480074702, // Forbearance (Limited Edition)
+                3757612024, // Luna's Howl (Limited Edition)
+                3851176026, // Elsie's Rifle (Limited Edition)
+                3098328572, // The Recluse (Limited Edition)
+                2228325504, // Edge Transit (Limited Edition)
+                211732170, // Hammerhead (Limited Edition)
+                243425374, // Falling Guillotine (Limited Edition)
+              ],
+              [
+                568611922, // The Mountaintop
+                2763843898, // Midnight Coup
+                2372514508, // Blast Furnace
+                1453235079, // Hung Jury SR4
+                3612338554, // Succession
+                568611921, // Forbearance
+                2763843899, // Luna's Howl
+                2372514509, // Elsie's Rifle
+                1050806815, // The Recluse
+                568611923, // Edge Transit
+                1896309757, // Hammerhead
+                1815105249, // Falling Guillotine
+              ],
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 22,
+            items: [1578980268, 774854757, 1069426107, 697623783, 4145670226], // Parade Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 22,
+            items: [2005792304, 1803575937, 1443654743, 3298421491, 3571974182], // Parade Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 22,
+            items: [3954873325, 778605916, 2759477316, 4034821350, 3969341593], // Parade Set
+          },
+          {
+            name: 'Extras',
+            season: 21,
+            items: [
+              3671448995, // Karve of the Worm (Ship)
+              3671448994, // Vimana Junker (Ship)
+              2653012760, // Blue Steel (Shader)
+              2653012761, // Superblack (Shader)
+              2770607183, // Reborn BRAVE (Emblem)
+              2770607179, // Atraks Dethroned (Emblem)
+              2770607176, // Elevated Above Nezarec (Emblem)
+              2770607178, // Exalted Beyond Oryx (Emblem)
+              2770607177, // Rhulk Subdued (Emblem)
+            ],
+          },
+        ]
+      }
     ],
   },
   {
