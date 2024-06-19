@@ -6255,6 +6255,186 @@ export const EVERVERSE_Y6_S23 = {
   ],
 };
 
+export const EVERVERSE_Y7_S24 = {
+  name: 'Episode: Echoes',
+  id: 'eververse-y7-s24',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 24,
+      itemGroups: [
+        [1669802417, 286457096, 1785321216, 1387796450, 1137037245], // Spectral Displacer Set
+        [2086582259], // The Rat King's Crown
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 24,
+      itemGroups: [
+        [626394151, 2867960494, 1580591042, 1080528808, 1270621203], // Apex Draconic Set
+        [3857998309], // The Rat King's Crown
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 24,
+      itemGroups: [
+        [1749549488, 1547333121, 3404498647, 3042178675, 1237850790], // Flayer's Dominion Set
+        [2911227736], // The Rat King's Crown
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 24,
+      itemGroups: [
+        [
+          670974744, // Opalized Nobility (Rat King)
+          371705660, // Unconditional Love (Conditional Finality)
+          2877175449, // Aldrovanda (Witherhoard)
+          210156316, // Tritone (Euphony)
+          2063193740, // The Lost, Found (Khvostov 7G-0X)
+          2402948371, // One Shot (Still Hunt)
+          2134412545, // Fifty-Third (Ace of Spades)
+          // 452729034, // Damascene Conductivity (Cloudstrike)
+          // 3853428074, // Dubito, Ergo Cogito (Ergo Sum)
+          // 2329953306, // Galtine Protocol (Vexcalibur)
+          // 1733558474, // Lost Heir (Buried Bloodline)
+          // 4100080019, // Vast Expanse (Microcosm)
+        ],
+        [],
+        [
+          1123887434, // Identity Weft (Relativism)
+          2514253483, // Offensive Realism (Balance of Power)
+          3031640271, // Sincerity (Gifted Conviction)
+          318506724, // Hellenistic Principle (Stoicism)
+          1743478019, // Illogical Fallacy (Wishful Ignorance)
+          2207821261, // Momentous Potential (Hazardous Propulsion)
+          23014852, // Truth of Being (Solipsism)
+          4119756758, // Asclepieion (Speaker's Sight)
+          654235565, // Aeonian Emptiness (Mataiodoxía)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 24,
+      items: [
+        // 1659826773, // Gardening Guardian
+        1899449533, // Good Computing
+        314204143, // Incor-purr-ial Cat
+        715484621, // Natural 20
+        557739763, // S-M-R-T Dance
+        // 555593932, // Sweetheart Dance
+        // 571415409, // Birthday Cake
+        // 4006361954, // Royal Groove Dance
+        // 1758773207, // Dressing Fancy
+        // 66879345, // Power Stance Dance
+        // 2503847319, // Pumped-Up Dance
+        // 2162351761, // Sand in the Eyes
+        19045559, // Sophisticated Spy
+        1985296041, // You Fail
+        2179658116, // You Pass
+        // 962014544, // Jaunty Dance
+        // 1561473764, // Chef's Kiss
+        // 4019955898, // Painfully Slow Clap
+        439115189, // Shadowboxing
+        // 2629907242, // Swagger March
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 24,
+      itemGroups: [
+        [
+          3363660171, // Eye Tyrant Shell
+          3988979186, // Fervent Shell
+          3988979190, // Ratkin Shell
+          3988979191, // Penumbral Shell
+          // 3988979185, // C-6 Shell
+          // 2749628923, // Disciple's Shell
+          // 3988979189, // Golf-Tango Shell
+          // 3988979188, // IX Shell
+          // 3988979187, // Keramos Shell
+        ],
+        [
+          260136042, // Rat Royalty Projection
+          260136032, // Echoing Portal Projection
+          260136041, // Galloping Projection
+          260136040, // Ouroborian Projection
+          // 260136043, // Best Bet Projection
+          // 260136047, // Eclipsing Projection
+          // 260136045, // Fungal Projection
+          // 260136046, // Muffintop Projection
+          // 260136044, // Pineapple Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 24,
+      items: [
+        2652312625, // Owlbear Chariot
+        2089383942, // Reliant
+        2089383938, // Pack Rat
+        2089383939, // Azimuth Runner
+        // 2089383936, // Messenger-IX
+        // 2089383943, // Ostrakon
+        // 2089383941, // Red Veteran
+        // 2089383937, // Sierra-Whiskey
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 24,
+      items: [
+        4269714569, // Queen of Dragons
+        1750509742, // Old Faithful
+        1750509738, // Mischief
+        1750509739, // Eclipse Hunter
+        // 1750509737, // Alfa-Zulu
+        // 1750509741, // Colonel's Lament
+        // 1750509736, // Jovian-IX
+        // 1750509743, // Kerameikos
+        // 1350491133, // Nacre
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 24,
+      items: [
+        3097902844, // Twisting Strands
+        3097902845, // Shards of Stillness
+        3097902846, // Dyed Finality
+        3097902847, // Long Since Lost
+        3097902842, // Crown of Vermin
+        3097902832, // Aces Full of Kings
+        3097902841, // Groovadelic
+        3097902843, // Shifting Crossphase
+        // 4163975820, // Lubraean Luxury
+        // 3097902840, // Royal Protector
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 24,
+      items: [
+        957900358, // Orrery Entrance
+        // 957900359, // Renewal Entrance
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 24,
+      items: [
+        3044988165, // Boot to the Head
+        67519906, // Bigby's Fist
+        // 131676177, // Cartwheel Kick
+        // 4184628733, // Outlaw Diplomacy
+      ],
+    },
+  ],
+};
+
 export const GUARDIAN_GAMES_Y6 = {
   name: 'Guardian Games',
   id: 'year-six-guardian-games',

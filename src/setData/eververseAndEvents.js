@@ -56,6 +56,7 @@ export default ([
       eververseAndEvents.EVERVERSE_Y6_S21,
       eververseAndEvents.EVERVERSE_Y6_S22,
       eververseAndEvents.EVERVERSE_Y6_S23,
+      eververseAndEvents.EVERVERSE_Y7_S24,
     ]
   }
 ]: SetPage);

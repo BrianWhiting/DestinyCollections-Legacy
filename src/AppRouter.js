@@ -22,13 +22,14 @@ export default function AppRouter() {
     <Provider store={store}>
       <Router history={browserHistory}>
         <Route component={App}>
-          <Route path="/" component={Inventory} setData={sets.yearSix} />
+          <Route path="/" component={Inventory} setData={sets.yearSeven} />
           <Route path="/year-1" component={Inventory} setData={sets.yearOne} />
           <Route path="/year-2" component={Inventory} setData={sets.yearTwo} />
           <Route path="/year-3" component={Inventory} setData={sets.yearThree} />
           <Route path="/year-4" component={Inventory} setData={sets.yearFour} />
           <Route path="/year-5" component={Inventory} setData={sets.yearFive} />
           <Route path="/year-6" component={Inventory} setData={sets.yearSix} />
+          <Route path="/year-7" component={Inventory} setData={sets.yearSeven} />
         </Route>
       </Router>
     </Provider>
