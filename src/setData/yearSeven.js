@@ -427,6 +427,7 @@ export default ([
             items: [
               3561203890, // Tesselation
               1645318917, // Penrose Gilt (Tesselation Ornament)
+              1350491133, // Nacre (Ship)
               1289092817, // Pyramidic Vessel (Ship)
               2525637070 , // Unified Theory (Sparrow)
               210874516, // Final Shell (Ghost Shell)
@@ -448,7 +449,7 @@ export default ([
     name: 'Season Passes',
     sets: [
       {
-        name: 'Echoes',
+        name: 'Episode: Echoes',
         id: 'year-seven-season-24-pass',
         sections: [
           {

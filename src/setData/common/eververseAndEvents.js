@@ -6295,11 +6295,11 @@ export const EVERVERSE_Y7_S24 = {
           2063193740, // The Lost, Found (Khvostov 7G-0X)
           2402948371, // One Shot (Still Hunt)
           2134412545, // Fifty-Third (Ace of Spades)
+          3853428074, // Dubito, Ergo Cogito (Ergo Sum)
+          1733558474, // Lost Heir (Buried Bloodline)
+          4100080019, // Vast Expanse (Microcosm)
           // 452729034, // Damascene Conductivity (Cloudstrike)
-          // 3853428074, // Dubito, Ergo Cogito (Ergo Sum)
           // 2329953306, // Galtine Protocol (Vexcalibur)
-          // 1733558474, // Lost Heir (Buried Bloodline)
-          // 4100080019, // Vast Expanse (Microcosm)
         ],
         [],
         [
@@ -6324,18 +6324,18 @@ export const EVERVERSE_Y7_S24 = {
         314204143, // Incor-purr-ial Cat
         715484621, // Natural 20
         557739763, // S-M-R-T Dance
-        // 555593932, // Sweetheart Dance
+        555593932, // Sweetheart Dance
         // 571415409, // Birthday Cake
         // 4006361954, // Royal Groove Dance
         // 1758773207, // Dressing Fancy
         // 66879345, // Power Stance Dance
-        // 2503847319, // Pumped-Up Dance
-        // 2162351761, // Sand in the Eyes
+        2503847319, // Pumped-Up Dance
+        2162351761, // Sand in the Eyes
         19045559, // Sophisticated Spy
         1985296041, // You Fail
         2179658116, // You Pass
         // 962014544, // Jaunty Dance
-        // 1561473764, // Chef's Kiss
+        1561473764, // Chef's Kiss
         // 4019955898, // Painfully Slow Clap
         439115189, // Shadowboxing
         // 2629907242, // Swagger March
@@ -6350,10 +6350,9 @@ export const EVERVERSE_Y7_S24 = {
           3988979186, // Fervent Shell
           3988979190, // Ratkin Shell
           3988979191, // Penumbral Shell
+          3988979188, // IX Shell
+          3988979189, // Golf-Tango Shell
           // 3988979185, // C-6 Shell
-          // 2749628923, // Disciple's Shell
-          // 3988979189, // Golf-Tango Shell
-          // 3988979188, // IX Shell
           // 3988979187, // Keramos Shell
         ],
         [
@@ -6361,11 +6360,11 @@ export const EVERVERSE_Y7_S24 = {
           260136032, // Echoing Portal Projection
           260136041, // Galloping Projection
           260136040, // Ouroborian Projection
-          // 260136043, // Best Bet Projection
+          260136044, // Pineapple Projection
+          260136043, // Best Bet Projection
           // 260136047, // Eclipsing Projection
           // 260136045, // Fungal Projection
           // 260136046, // Muffintop Projection
-          // 260136044, // Pineapple Projection
         ],
       ],
     },
@@ -6377,10 +6376,10 @@ export const EVERVERSE_Y7_S24 = {
         2089383942, // Reliant
         2089383938, // Pack Rat
         2089383939, // Azimuth Runner
-        // 2089383936, // Messenger-IX
+        2089383936, // Messenger-IX
+        2089383937, // Sierra-Whiskey
         // 2089383943, // Ostrakon
         // 2089383941, // Red Veteran
-        // 2089383937, // Sierra-Whiskey
       ],
     },
     {
@@ -6391,11 +6390,10 @@ export const EVERVERSE_Y7_S24 = {
         1750509742, // Old Faithful
         1750509738, // Mischief
         1750509739, // Eclipse Hunter
-        // 1750509737, // Alfa-Zulu
+        1750509736, // Jovian-IX
+        1750509737, // Alfa-Zulu
         // 1750509741, // Colonel's Lament
-        // 1750509736, // Jovian-IX
         // 1750509743, // Kerameikos
-        // 1350491133, // Nacre
       ],
     },
     {
@@ -6410,7 +6408,6 @@ export const EVERVERSE_Y7_S24 = {
         3097902832, // Aces Full of Kings
         3097902841, // Groovadelic
         3097902843, // Shifting Crossphase
-        // 4163975820, // Lubraean Luxury
         // 3097902840, // Royal Protector
       ],
     },
@@ -6428,8 +6425,8 @@ export const EVERVERSE_Y7_S24 = {
       items: [
         3044988165, // Boot to the Head
         67519906, // Bigby's Fist
-        // 131676177, // Cartwheel Kick
-        // 4184628733, // Outlaw Diplomacy
+        131676177, // Cartwheel Kick
+        4184628733, // Outlaw Diplomacy
       ],
     },
   ],
