@@ -440,11 +440,12 @@ export default ([
       },
     ],
   },
-  // {
-  //   name: 'Holiday & Special Events',
-  //   sets: [
-  //   ],
-  // },
+  {
+    name: 'Holiday & Special Events',
+    sets: [
+      eververseAndEvents.SOLSTICE_Y7,
+    ],
+  },
   {
     name: 'Season Passes',
     sets: [

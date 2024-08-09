@@ -6866,7 +6866,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
   sections: [
     {
       name: 'Weapons',
-      season: 20,
+      season: 23,
       items: [
         3007479950, // Taraxippos
         655712834, // The Title
@@ -6875,7 +6875,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Hunter Armor',
-      season: 20,
+      season: 23,
       itemGroups: [
         [710694221, 1363360060, 3102003364, 749168710, 3845833465], // Viper's Zeal Set
         [2720753042], // Allstar Mantle
@@ -6883,7 +6883,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Titan Armor',
-      season: 20,
+      season: 23,
       itemGroups: [
         [3955736323, 798307794, 817283478, 1199546220, 146910655], // Lion's Might Set
         [3720087872], // Allstar Mark
@@ -6891,7 +6891,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Warlock Armor',
-      season: 20,
+      season: 23,
       itemGroups: [
         [4054029966, 1208826751, 4136254009, 130076865, 1155452660], // Hawk's Fury Set
         [25524335], // Allstar Bond
@@ -6899,7 +6899,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Emotes',
-      season: 20,
+      season: 23,
       items: [
         1458722318, // The Perfect Putt
         3946321634, // Exercise Cycle
@@ -6912,7 +6912,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Ghosts',
-      season: 20,
+      season: 23,
       itemGroups: [
         [
           1963513388, // Capped Shell
@@ -6927,7 +6927,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Sparrows',
-      season: 20,
+      season: 23,
       items: [
         2894282039, // Allstar Vector
         2928555615, // The Torpedo
@@ -6937,7 +6937,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Ships',
-      season: 20,
+      season: 23,
       items: [
         1099926165, // Championship Advantage
         1099926164, // Para Bellum IV
@@ -6945,7 +6945,7 @@ export const GUARDIAN_GAMES_Y6_2 = {
     },
     {
       name: 'Extras',
-      season: 20,
+      season: 23,
       items: [
         2191200811, // Served (Finisher)
         4095784502, // Fighting Colors (Shader)
@@ -6955,6 +6955,108 @@ export const GUARDIAN_GAMES_Y6_2 = {
         2113350277, // Stalwart Sigil (Transmat Effect)
         4004720050, // Best of the Best (Emblem)
         4004720051, // The Very Best (Emblem)
+      ],
+    },
+  ],
+};
+
+export const SOLSTICE_Y7 = {
+  name: 'Solstice',
+  id: 'year-seven-solstice',
+  description: 'Acquirable during the 2024 Solstice event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 24,
+      items: [
+        586671776, // Something New
+        2326578623, // Fortunate Star
+        4169225313, // Compass Rose
+        4106757302, // Crowning Duologue
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 24,
+      itemGroups: [
+        [2818971729, 1477100072, 2323339168, 2112508290, 1250597597], // Sublime Set
+        [659709387, 2852373306, 4040221326, 238335348, 63348567], // Lambent Luster Ornament Set
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 24,
+      itemGroups: [
+        [3297537117, 2184423372, 2138467220, 2830258806, 3306754793], // Sublime Set
+        [107607117, 760272956, 576069028, 146081606, 1319899129], // Lambent Luster Ornament Set
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 24,
+      itemGroups: [
+        [628413376, 2489453969, 2217751623, 1896146275, 2933249366], // Sublime Set
+        [1105341592, 1569145193, 1861087035, 3355614447, 307805822], // Lambent Luster Ornament Set
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 24,
+      items: [
+        317350029, // Traveler Prism Power
+        932194044, // Building Castles
+        1015730268, // Getting Shade
+        2936183184, // Hang Ten
+        1430606515, // Lovely Look
+        1590407914, // Countdown
+        1666450988, // Righteous
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 24,
+      itemGroups: [
+        [
+          2822855551, // Angler Shell
+          2822855549, // Quadcopter Shell
+          2822855550, // Sunny Day Shell
+        ],
+        [
+          1332486448, // Fireworks Projection
+          1332486449, // Vacation Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 24,
+      items: [
+        166080283, // King of the Sea
+        166080281, // Midway Goer
+        166080282, // Surfer's Friend
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 24,
+      items: [
+        2266083651, // A Fair Wind
+        1153991043, // Hovering Elanine
+        1153991042, // Ramen-Shop Rambler
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 24,
+      items: [
+        2581389132, // Spare Bowl (Finisher)
+        2185878931, // Splashy Surprise (Finisher)
+        343789489, // Raising Seafoam (Shader)
+        343789488, // Worn-in Comfort (Shader)
+        3814697630, // Celebratory Entrance (Transmat Effect)
+        3814697631, // Pyrotechnic Entrance (Transmat Effect)
+        3267552998, // Fantastically Forged (Emblem)
       ],
     },
   ],
