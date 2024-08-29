@@ -290,12 +290,13 @@ export default ([
         name: 'Episode: Echoes',
         id: 'year-seven-season-24',
         sections: [
-          // {
-          //   name: 'Exotic Weapon',
-          //   season: 24,
-          //   items: [
-          //   ],
-          // },
+          {
+            name: 'Exotic Weapon',
+            season: 24,
+            items: [
+              3698448090, // Choir of One
+            ],
+          },
           {
             name: 'Pursuit Weapon',
             season: 24,
@@ -349,6 +350,8 @@ export default ([
               1658124147, // Semitone Sift (Ship)
               4082425931, // Crawlway Sink (Sparrow)
               2847579031, // Catalogue of Curiosities (Emblem)
+              2847579030, // Before Aurora (Emblem)
+              2847579034, // Transient Whisperer (Emblem)
             ],
           },
         ],
