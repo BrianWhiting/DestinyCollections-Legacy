@@ -6329,7 +6329,6 @@ export const EVERVERSE_Y7_S24 = {
         571415409, // Birthday Cake
         4006361954, // Royal Groove Dance
         1758773207, // Dressing Fancy
-        // 66879345, // Power Stance Dance
         2503847319, // Pumped-Up Dance
         2162351761, // Sand in the Eyes
         19045559, // Sophisticated Spy
@@ -6337,7 +6336,6 @@ export const EVERVERSE_Y7_S24 = {
         2179658116, // You Pass
         962014544, // Jaunty Dance
         1561473764, // Chef's Kiss
-        // 4019955898, // Painfully Slow Clap
         439115189, // Shadowboxing
         2629907242, // Swagger March
       ],
@@ -6409,7 +6407,7 @@ export const EVERVERSE_Y7_S24 = {
         3097902832, // Aces Full of Kings
         3097902841, // Groovadelic
         3097902843, // Shifting Crossphase
-        // 3097902840, // Royal Protector
+        3097902840, // Royal Protector
       ],
     },
     {
@@ -6428,6 +6426,159 @@ export const EVERVERSE_Y7_S24 = {
         67519906, // Bigby's Fist
         131676177, // Cartwheel Kick
         4184628733, // Outlaw Diplomacy
+      ],
+    },
+  ],
+};
+
+export const EVERVERSE_Y7_S25 = {
+  name: 'Episode: Revenant',
+  id: 'eververse-y7-s25',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 25,
+      itemGroups: [
+        [2510616325, 2074930140, 3830128482, 104011902, 2728951387], // Plaguebreaker Set
+        // [2510616324, 2074930141, 3830128483, 104011903, 2728951386], // Jade Filament Set
+        [
+          2074930143, // Gr1p-EE5
+          104011900, // Sacred Strategy
+        ],
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 25,
+      itemGroups: [
+        [4048003361, 1614076656, 4219373094, 1445226306, 1064257847], // Plaguebreaker Set
+        // [4048003360, 1614076657, 4219373095, 1445226307, 1064257846], // Jade Filament Set
+        [
+          1064257845, // For Pride
+          1614076659, // War Rigger
+        ],
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 25,
+      itemGroups: [
+        [2641635768, 2537775153, 3601179225, 2896410379, 2421131124], // Plaguebreaker Set
+        // [2641635769, 2537775152, 3601179224, 2896410378, 2421131125], // Jade Filament Set
+        [
+          3601179227, // Hermetic Robes
+          3601179226, // Tempest Caller Robes
+        ]
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 25,
+      itemGroups: [
+        [
+          757170832, // Ancient Hunger (Touch of Malice)
+          1780436207, // Dead Again (Dead Man's Tale)
+          1263222790, // Early Warning (Forerunner)
+          3356471746, // Oathsworn (Wish-Ender)
+          3013531032, // Occupational Hazard (Ice Breaker)
+          620653272, // Pocket Ace (Ace of Spades)
+          3415496404, // Rowe's Legacy (Centrifuse)
+          4067547603, // Shatterheart (Coldheart)
+          1326838584, // Solid State (Quicksilver Storm)
+          2417206937, // Vanagandr (Gjallarhorn)
+        ],
+        [],
+        [
+          1862310405, // Luck of the Draw (Lucky Pants)
+          203343079, // Ren 2.0 (St0mp-EE5)
+          928791518, // Sacred Tactics (Gyrfalcon's Hauberk)
+          1402259017, // For Redemption (Second Chance)
+          3801917265, // Keep It Clean (Actium War Rig)
+          587087990, // Rising Star (Cuirass of the Falling Star)
+          1814605874, // Don't Look Back (Getaway Artist)
+          1716953313, // Hermetic Hood (Cenotaph Mask)
+          313852049, // Risen From Scrap (Fallen Sunstar)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 25,
+      items: [
+        1437648898, // Grill Master
+        3514747882, // Metal Detector
+        3919593928, // Fireteam Picnic
+        1412750098, // Friendly Flowers
+        86755843, // Boulder Chase
+        3159426227, // High-Energy Dance
+        1305811795, // Jazz Sax
+        2885138742, // Pied Piper
+        147146226, // Dramatic Faint
+        153963357, // That's Bait
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 25,
+      itemGroups: [
+        [
+          2001163202, // Deep Whisper Shell
+          2001163206, // Lepus Major Shell
+          2001163200, // Restored Future Shell
+          2001163203, // Avuncular Vagrant Shell
+          2001163201, // Strandsplitter Shell
+          // 2001163207, // Loyal Rover Shell
+        ],
+        [
+          1807439485, // Cheeseburger Projection
+          1807439487, // Corvidae Projection
+          1807439486, // Plagued Projection
+          1807439481, // Sagittae Projection
+          1807439484, // Toe Beans Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 25,
+      items: [
+        2801372710, // Blightspeed
+        2801372706, // No-Mind
+        2801372708, // Retrostretch
+        2801372711, // Derelict Duty
+        2801372709, // Jade Weft
+        // 2801372707, // Dread Rover
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 25,
+      items: [
+        1576539042, // Distant Transfer
+        1576539046, // Daito White Rabbit
+        1576539040, // Golden Age Booster
+        1576539043, // Kitbashed Flyer
+        1576539041, // Stormweaver
+        // 1576539047, // Golden Age Skimmer
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 25,
+      items: [
+        1364828722, // Astrallaris
+        1364828725, // Hapalochlaena
+        1364828724, // Masonry
+        1364828723, // Mod Cerise
+        1364828726, // Necrostatic
+        1364828727, // Sanguis
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 25,
+      items: [
+        1187026582, // Rain of Arrows
       ],
     },
   ],

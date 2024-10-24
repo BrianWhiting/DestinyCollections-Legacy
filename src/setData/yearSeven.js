@@ -16,6 +16,13 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 25,
+            items: [
+              2039776723, // Wicked Sister
+            ],
+          },
+          {
             name: 'Nightfall: The Ordeal Weapons',
             season: 24,
             itemGroups: [
@@ -38,6 +45,20 @@ export default ([
             ],
           },
           {
+            name: 'Nightfall: The Ordeal Weapons',
+            season: 25,
+            itemGroups: [
+              [
+                2298039571, // Rake Angle
+                3293524502, // PLUG ONE.1
+              ],
+              [
+                3997086838, // Rake Angle (Adept)
+                3106557243, // PLUG ONE.1 (Adept)
+              ],
+            ],
+          },
+          {
             name: 'Hunter Armor',
             season: 24,
             items: [1740966079, 1674833286, 2870974250, 1233862528, 3507791931], // Wall-watcher Set
@@ -56,8 +77,16 @@ export default ([
             name: 'Extras',
             season: 24,
             items: [
-              2918825526, // Crest Rising Projections (Ghost Projection)
+              2918825526, // Crest Rising Projection (Ghost Projection)
               2256700934, // Smoking Hearth (Shader)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              116255027, // Paws Up Projection (Ghost Projection)
+              2728125437, // Graffik (Shader)
             ],
           },
         ],
@@ -72,6 +101,14 @@ export default ([
             itemGroups: [
               [4152016199], // Better Devils
               [3754408118], // The Riposte
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 25,
+            itemGroups: [
+              [1051949956], // Anonymous Autumn
+              [2035738085], // Deadlock
             ],
           },
           {
@@ -98,6 +135,15 @@ export default ([
               2847579035, // Clunky Exposition (Emblem)
             ],
           },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              293950482, // Target Lock Projection (Ghost Projection)
+              1402619496, // Goldwork (Shader)
+              3508476915, // Pitiless (Emblem)
+            ],
+          },
         ],
       },
       {
@@ -109,6 +155,13 @@ export default ([
             season: 24,
             items: [
               3962575203, // Hush
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 25,
+            items: [
+              2199554524, // Bygones
             ],
           },
           {
@@ -134,6 +187,14 @@ export default ([
               437837326, // Jademurmur (Shader)
             ],
           },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              3784465547, // Rainmaker Projection (Ghost Projection)
+              1563709621, // Iridocytes (Shader)
+            ],
+          },
         ],
       },
       {
@@ -153,11 +214,42 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 25,
+            items: [
+              480368036, // Tinasha's Mastery
+              2896109856, // Archon's Thunder
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 25,
+            items: [144007143, 2385676654, 1567525250, 173787496, 791521235], // Iron Intent Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 25,
+            items: [546003581, 3303502828, 2651216180, 3949234966, 3860977161], // Iron Intent Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 25,
+            items: [2117889178, 60193507, 2576944173, 1981173269, 690855456], // Iron Intent Set
+          },
+          {
             name: 'Extras',
             season: 24,
             items: [
               2847579029, // Ollywocket (Emblem)
               1207934455, // Hammershock (Shader)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              3508476920, // Canis Lupus (Emblem)
+              2959387570, // Cruel Patina (Shader)
             ],
           },
         ],
@@ -184,6 +276,20 @@ export default ([
               ],
             ],
           },
+          {
+            name: 'Weapons',
+            season: 25,
+            itemGroups: [
+              [
+                2300143112, // Yesterday's Question
+                3009199534, // Tomorrow's Answer
+              ],
+              [
+                2378785953, // Yesterday's Question (Adept)
+                303107619, // Tomorrow's Answer (Adept)
+              ],
+            ],
+          },
         ],
       },
       {
@@ -206,6 +312,21 @@ export default ([
               [
                 50291571, // Speaker's Sight
                 1955548646, // Mataiodoxía
+              ],
+            ],
+          },
+          {
+            name: 'Armor',
+            season: 24,
+            itemGroups: [
+              [
+                322173891, // Mask of Fealty
+              ],
+              [
+                1188437342, // Blastwave Striders
+              ],
+              [
+                4060793397, // Rime-coat Raiment
               ],
             ],
           },
@@ -281,6 +402,71 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Vesper\'s Host',
+        id: 'year-seven-vespers-host',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 25,
+            items: [1111334348], // Ice Breaker
+          },
+          {
+            name: 'Weapons',
+            season: 25,
+            items: [
+              4232480042, // VS Pyroelectric Propellant
+              93061497, // VS Gravitic Arrest
+              1762785663, // VS Velocity Baton
+              1762785662, // VS Chill Inhibitor
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 25,
+            items: [283230886, 3592158071, 2436714433, 1105725465, 3219219484], // Spacewalk Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 25,
+            items: [2244013188, 1808327005, 1615763427, 4132376063, 514586330], // Spacewalk Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 23,
+            items: [1446639859, 3234613634, 4190676582, 1025368892, 213803727], // Spacewalk Set
+          },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              3031600404, // VS Tech Sledge (Sparrow)
+              3508476927, // Anomalous (Emblem)
+              3508476924, // Station's Savior (Emblem)
+              788073488, // Vespertine (Emblem)
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Garden of Salvation',
+        id: 'year-seven-garden-of-salvation',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 25,
+            items: [
+              3621336854, // Accrued Redemption
+              2241507890, // Sacred Provenance
+              1992309064, // Reckless Oracle
+              2720651699, // Zealot's Reward
+              963574173, // Ancient Gospel
+              2145441168, // Prophet of Doom
+              147444292, // Omniscient Eye
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -352,6 +538,72 @@ export default ([
               2847579031, // Catalogue of Curiosities (Emblem)
               2847579030, // Before Aurora (Emblem)
               2847579034, // Transient Whisperer (Emblem)
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Episode: Revenant',
+        id: 'year-seven-season-25',
+        sections: [
+          // {
+          //   name: 'Exotic Weapon',
+          //   season: 25,
+          //   items: [
+          //   ],
+          // },
+          {
+            name: 'Pursuit Weapon',
+            season: 25,
+            itemGroups: [[4176873718], [3068567829, 3068567831, 3068567830]], // Fair Judgment and Ornaments
+          },
+          {
+            name: 'Weapons',
+            season: 25,
+            itemGroups: [
+              [
+                2599338624, // Liturgy
+                2823644677, // Exuviae
+                3423493037, // Red Tape
+                3830941962, // Vantage Point
+                2913577176, // Scavenger's Fate
+                414045521, // Insurmountable
+                3818198556, // Sovereignty
+                825495813, // Noxious Vetiver
+                2599338625, // Bitter/Sweet
+                4224667951, // Heretic's Fervor
+              ],
+              [
+                2598420927, // Chroma Rush
+                2761869150, // Ignition Code
+                3433930495, // Gridskipper
+                2130875369, // Sojourner's Tale
+              ],
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 25,
+            items: [2068231004, 3464581845, 1479557835, 745736759, 4131241442], // Shadestalker Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 25,
+            items: [96550318, 1121856799, 3983920985, 43003873, 1427680276], // Shadestalker Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 25,
+            items: [294976891, 1754155306, 2121930590, 410486468, 1493134439], // Shadestalker Set
+          },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              20991506, // Spectroscopic Shell (Ghost Shell)
+              3489448910, // Old Rancor (Sparrow)
+              3508476925, // Curse Splitter (Emblem)
+              3508476914, // Fell Revival (Emblem)
             ],
           },
         ],
@@ -433,7 +685,9 @@ export default ([
               1350491133, // Nacre (Ship)
               1289092817, // Pyramidic Vessel (Ship)
               2525637070 , // Unified Theory (Sparrow)
+              2413351959, // Argent Turbo (Sparrow)
               210874516, // Final Shell (Ghost Shell)
+              1254994288, // Arcology Vault Shell (Ghost Shell)
               3665453361, // Abstract Meditation (Emote)
               54004492, // Paracausal Path (Emblem)
               2790542794, // Prismatic Horizon (Emblem)
@@ -498,8 +752,8 @@ export default ([
               2283845662, // Cavalry Charge (Emote)
               980381603, // The Final Slice (Finisher)
               478550150, // Spectrum Shell (Ghost Shell)
-              2834883850, // Polychroma (Ship)
               408004171, // Vex Mantle Projection (Ghost Projection)
+              2834883850, // Polychroma (Ship)
               1833819184, // Unbridled Iridescence (Sparrow)
               1106076229, // Unsated Curiosity (Shader)
               1106076228, // Unwavering Gallantry (Shader)
@@ -510,13 +764,71 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Episode: Revenant',
+        id: 'year-seven-season-25-pass',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 25,
+            items: [
+              2350354266, // Alethonym
+              887402982, // Pure Sapphire (Alethonym Ornament)
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 25,
+            itemGroups: [
+              [4146568779, 2044265402, 2642766862, 3725194740, 2960861399], // Heretical Set
+              [4146568778], // Totembreaker's Mask
+            ],
+          },
+          {
+            name: 'Titan Armor',
+            season: 25,
+            itemGroups: [
+              [542252663, 3910630910, 1262408882, 459606616, 1433192259], // Heretical Set
+              [542252662], // Totembreaker's Helm
+            ],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 25,
+            itemGroups: [
+              [284415714, 3877450699, 3806393477, 1098698461, 2462411480], // Heretical Set
+              [284415715], // Totembreaker's Hood
+            ],
+          },
+          {
+            name: 'Other',
+            season: 25,
+            items: [
+              3676474804, // Cooperative Alchemy (Emote)
+              1153955185, // Vampire Hunter (Emote)
+              357532844, // My Boomstick (Emote)
+              4049234040, // Powerful Potion (Emote)
+              2469258004, // Through the Heart (Finisher)
+              3186756437, // Restless Dreams (Ghost Shell)
+              2020056988, // Revenant Projection (Ghost Projection)
+              3177513121, // Dissected Carve (Ship)
+              3039049959, // Rustpiercer (Sparrow)
+              3656515094, // Shas'ki (Shader)
+              3656515092, // Splicer Mint (Shader)
+              3656515093, // Tetanus (Shader)
+              185033940, // Gold Plating (Transmat Effect)
+              185033941, // Umbral Harbinger (Transmat Effect)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
     name: 'Eververse',
     sets: [
       eververseAndEvents.EVERVERSE_Y7_S24,
-      // eververseAndEvents.EVERVERSE_Y7_S25,
+      eververseAndEvents.EVERVERSE_Y7_S25,
       // eververseAndEvents.EVERVERSE_Y7_S26,
     ],
   },
@@ -539,6 +851,29 @@ export default ([
               499245245, // Ded Gramarye IV
               2800870005, // The Domino
               3615421669, // Suspectum-4fr
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 25,
+            items: [
+              2848549302, // Neoptolemus II
+              3612142623, // Live Fire
+              3753063346, // Legato-11
+              4200122994, // Veleda-F
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Xûr at the Tower',
+        id: 'year-seven-xûr',
+        sections: [
+          {
+            name: 'Skimmers',
+            season: 25,
+            items: [
+              3158812152, // The Xûrfboard
             ],
           },
         ],
