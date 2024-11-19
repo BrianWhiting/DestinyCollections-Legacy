@@ -700,7 +700,8 @@ export default ([
   {
     name: 'Holiday & Special Events',
     sets: [
-      eververseAndEvents.SOLSTICE_Y7,
+      eververseAndEvents.SOLSTICE_2024,
+      eververseAndEvents.FESTIVAL_OF_THE_LOST_2024,
     ],
   },
   {

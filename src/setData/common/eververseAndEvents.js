@@ -7112,9 +7112,9 @@ export const GUARDIAN_GAMES_Y6_2 = {
   ],
 };
 
-export const SOLSTICE_Y7 = {
-  name: 'Solstice',
-  id: 'year-seven-solstice',
+export const SOLSTICE_2024 = {
+  name: 'Solstice - 2024',
+  id: 'solstice-2024',
   description: 'Acquirable during the 2024 Solstice event.',
   big: false,
   sections: [
@@ -7209,6 +7209,127 @@ export const SOLSTICE_Y7 = {
         3814697630, // Celebratory Entrance (Transmat Effect)
         3814697631, // Pyrotechnic Entrance (Transmat Effect)
         3267552998, // Fantastically Forged (Emblem)
+      ],
+    },
+  ],
+};
+
+export const FESTIVAL_OF_THE_LOST_2024 = {
+  name: 'Festival of the Lost - 2024',
+  id: 'festival-of-the-lost-2024',
+  description: 'Acquirable during the 2024 Festival of the Lost event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 25,
+      items: [
+        3558681245, // BrayTech Werewolf
+        689294985, // Jurassic Green
+        3649985571, // Arcane Embrace
+        2477980485, // Mechabre
+        425681240, // Acosmic
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 25,
+      itemGroups: [
+        [177150401, 1015069912, 410537200, 3345201682, 3591083053], // Cataclysmic Spellbinder Set
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 25,
+      itemGroups: [
+        [1379889389, 2498589276, 128069444, 1459837414, 1337933721], // Mystic Lightbane Set
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 25,
+      itemGroups: [
+        [2173237160, 1054640441, 1146380447, 3988299563, 2859470126], // Cursed Arcana Set
+      ],
+    },
+    {
+      name: 'Masks',
+      season: 25,
+      items: [
+        1460790369, // Cursed Thrall Mask
+        1460790370, // Finalized Ghost
+        1460790368, // Kadi 55-30 Mask
+        1460790372, // Nezarec Mask
+        1460790373, // Runner Mask
+        1460790371, // Tower Staff Mask
+        1067975722, // Cayde-6 Mask
+        1067975723, // Witness Mask
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 25,
+      itemGroups: [
+        [
+          3175295830, // Ghostly Messenger
+          1863732222, // Trick or Trio
+          889173106, // Have a Balloon
+          1069380472, // Knock Knock
+          1351738498, // Pumpkin Possession
+          2105396169, // Jump Scare
+          1818656374, // Peekaboo
+        ],
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 25,
+      itemGroups: [
+        [
+          3645474285, // Eternal Shell
+          3645474286, // Interstellar Shell
+          3645474287, // Clairvoyant Shell
+
+        ],
+        [
+          2314189924, // Eliksir Projection
+          2314189926, // Incantation Projection
+          2314189925, // Whimsical Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 25,
+      items: [
+        4123860739, // Nightlight
+        3782991997, // Conductive Hubris
+        3782991998, // Grotesque Lapis
+        3782991999, // Phosphoric Phantom
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 25,
+      items: [
+        1305141227, // Decollated Dread
+        1305141224, // Nevermore
+        1305141225, // The Wretched Bough
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 25,
+      items: [
+        3160643158, // Colony Crush (Finisher)
+        3900456246, // Stone-Cold Smash (Finisher)
+        3508476926, // Headless Fun (Emblem)
+        54004490, // Spectral Carapace (Emblem)
+        2752635127, // Eclipsed Tempest (Shader)
+        798985558, // Sugarcoated (Shader)
+        2752635126, // Lustrous Allure (Shader)
+        1781585292, // Luminous Cocoon (Transmat Effect)
+        1781585293, // Umbral Harbinger (Transmat Effect)
       ],
     },
   ],
