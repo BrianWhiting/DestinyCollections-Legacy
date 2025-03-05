@@ -6440,10 +6440,12 @@ export const EVERVERSE_Y7_S25 = {
       season: 25,
       itemGroups: [
         [2510616325, 2074930140, 3830128482, 104011902, 2728951387], // Plaguebreaker Set
-        // [2510616324, 2074930141, 3830128483, 104011903, 2728951386], // Jade Filament Set
+        [1760150243, 2431654834, 2370020598, 3257350604, 2124105119], // Doki Doki Destiny Set
+        [2510616324, 2074930141, 3830128483, 104011903, 2728951386], // Jade Filament Set
         [
           2074930143, // Gr1p-EE5
           104011900, // Sacred Strategy
+          1784694924, // Blanka Helmet
         ],
       ],
     },
@@ -6452,10 +6454,12 @@ export const EVERVERSE_Y7_S25 = {
       season: 25,
       itemGroups: [
         [4048003361, 1614076656, 4219373094, 1445226306, 1064257847], // Plaguebreaker Set
-        // [4048003360, 1614076657, 4219373095, 1445226307, 1064257846], // Jade Filament Set
+        [2872020159, 2805887366, 3419235114, 2364916608, 4056052795], // Doki Doki Destiny Set
+        [4048003360, 1614076657, 4219373095, 1445226307, 1064257846], // Jade Filament Set
         [
           1064257845, // For Pride
           1614076659, // War Rigger
+          1809209864, // Blanka Helmet
         ],
       ],
     },
@@ -6464,10 +6468,12 @@ export const EVERVERSE_Y7_S25 = {
       season: 25,
       itemGroups: [
         [2641635768, 2537775153, 3601179225, 2896410379, 2421131124], // Plaguebreaker Set
-        // [2641635769, 2537775152, 3601179224, 2896410378, 2421131125], // Jade Filament Set
+        [1012689018, 2783926339, 1173575437, 875973109, 4048385024], // Doki Doki Destiny Set
+        [2641635769, 2537775152, 3601179224, 2896410378, 2421131125], // Jade Filament Set
         [
           3601179227, // Hermetic Robes
           3601179226, // Tempest Caller Robes
+          3094014459, // Blanka Helmet
         ]
       ],
     },
@@ -6483,6 +6489,7 @@ export const EVERVERSE_Y7_S25 = {
           3013531032, // Occupational Hazard (Ice Breaker)
           620653272, // Pocket Ace (Ace of Spades)
           3415496404, // Rowe's Legacy (Centrifuse)
+          4173887325, // Scorn Mechanica (Slayer's Fang)
           4067547603, // Shatterheart (Coldheart)
           1326838584, // Solid State (Quicksilver Storm)
           2417206937, // Vanagandr (Gjallarhorn)
@@ -6505,6 +6512,9 @@ export const EVERVERSE_Y7_S25 = {
       name: 'Emotes',
       season: 25,
       items: [
+        3819277880, // Bonus Stage
+        1879625121, // Square Off
+        266033973, // Venus Flytrapped
         1437648898, // Grill Master
         3514747882, // Metal Detector
         3919593928, // Fireteam Picnic
@@ -6522,12 +6532,16 @@ export const EVERVERSE_Y7_S25 = {
       season: 25,
       itemGroups: [
         [
+          2653404785, // Ansatsuken Ghost Shell
+          2653404786, // Delta Red Ghost
+          2653404784, // Kung Fu Ghost
+          2001163204, // Festive Lantern Shell
           2001163202, // Deep Whisper Shell
           2001163206, // Lepus Major Shell
           2001163200, // Restored Future Shell
           2001163203, // Avuncular Vagrant Shell
           2001163201, // Strandsplitter Shell
-          // 2001163207, // Loyal Rover Shell
+          2001163207, // Loyal Rover Shell
         ],
         [
           1807439485, // Cheeseburger Projection
@@ -6547,7 +6561,8 @@ export const EVERVERSE_Y7_S25 = {
         2801372708, // Retrostretch
         2801372711, // Derelict Duty
         2801372709, // Jade Weft
-        // 2801372707, // Dread Rover
+        2801372707, // Dread Rover
+        2801372704, // Lion Dance
       ],
     },
     {
@@ -6559,7 +6574,8 @@ export const EVERVERSE_Y7_S25 = {
         1576539040, // Golden Age Booster
         1576539043, // Kitbashed Flyer
         1576539041, // Stormweaver
-        // 1576539047, // Golden Age Skimmer
+        1576539047, // Ancient Solar Skiff
+        1576539044, // Kingsnake
       ],
     },
     {
@@ -6572,6 +6588,7 @@ export const EVERVERSE_Y7_S25 = {
         1364828723, // Mod Cerise
         1364828726, // Necrostatic
         1364828727, // Sanguis
+        1364828721, // Ultra Clean
       ],
     },
     {
@@ -6579,6 +6596,9 @@ export const EVERVERSE_Y7_S25 = {
       season: 25,
       items: [
         1187026582, // Rain of Arrows
+        2495830694, // Hadoken
+        2913094034, // Lightning Kick
+        4036491260, // Spinning Bird Kick
       ],
     },
   ],
@@ -7330,6 +7350,113 @@ export const FESTIVAL_OF_THE_LOST_2024 = {
         2752635126, // Lustrous Allure (Shader)
         1781585292, // Luminous Cocoon (Transmat Effect)
         1781585293, // Umbral Harbinger (Transmat Effect)
+      ],
+    },
+  ],
+};
+
+export const DAWNING_2024 = {
+  name: 'Dawning - 2024',
+  id: 'dawning-2024',
+  description: 'Acquirable during the 2024 Dawning event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 25,
+      items: [
+        1123433952, // Stay Frosty
+        1183116657, // Glacioclasm
+        1845372864, // Albedo Wing
+        3483485727, // Mistral Lift
+        1845978721, // Avalanche
+        601948197, // Zephyr
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 25,
+      itemGroups: [
+        [2660300386, 1958368075, 1362725637, 3474583133, 18743640], // Astral Stasis Drake Set
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 25,
+      itemGroups: [
+        [722346046, 4287182959, 527001801, 566818961, 1841270916], // Astral Stasis Drake Set
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 25,
+      itemGroups: [
+        [3793036417, 335988632, 1950047920, 3090681042, 1301763821], // Astral Stasis Drake Set
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 25,
+      itemGroups: [
+        [
+          4145541360, // Cozy Cat
+          2346836664, // Sad Tree
+          182537383, // Holiday Caroling
+          2111039903, // Holiday Dance
+          2464438595, // Snowball Toss
+          3256326692, // Hip Hop Squat
+          2962622602, // Whimsical Spin
+        ],
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 25,
+      itemGroups: [
+        [
+          2505678742, // Cocoa Shell
+          2505678740, // Frost Dragon Shell
+          2957208150, // Joyful Shell
+          2505678743, // Wintry Neigh-bor Shell
+
+        ],
+        [
+          4127241662, // Astral Stasis Drake
+          4127241663, // Festive Hatchling
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 25,
+      items: [
+        968669761, // Gift Wrapped
+        968669760, // Glowmobile
+        968669762, // Peppermint Condition
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 25,
+      items: [
+        1876000889, // Dawning Lights
+        1876000888, // Festive Stag
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 25,
+      items: [
+        3431752854, // Cooked (Finisher)
+        788073489, // Eva's Pride (Emblem)
+        788073491, // Confectionary Commander (Emblem)
+        788073490, // Epicurean Extraordinaire (Emblem)
+        788073493, // Handcrafted Hunter (Emblem)
+        2188135103, // Rime of the Season (Shader)
+        2985926431, // Sleigh Ride(Shader)
+        2985926430, // Tinsel (Shader)
+        1402876744, // Peppermint Burst (Transmat Effect)
+        1402876745, // Surprising Gift (Transmat Effect)
       ],
     },
   ],

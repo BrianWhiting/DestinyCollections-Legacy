@@ -317,7 +317,7 @@ export default ([
           },
           {
             name: 'Armor',
-            season: 24,
+            season: 25,
             itemGroups: [
               [
                 322173891, // Mask of Fealty
@@ -546,12 +546,13 @@ export default ([
         name: 'Episode: Revenant',
         id: 'year-seven-season-25',
         sections: [
-          // {
-          //   name: 'Exotic Weapon',
-          //   season: 25,
-          //   items: [
-          //   ],
-          // },
+          {
+            name: 'Exotic Weapon',
+            season: 25,
+            items: [
+              1047932517, // Slayer's Fang
+            ],
+          },
           {
             name: 'Pursuit Weapon',
             season: 25,
@@ -601,9 +602,11 @@ export default ([
             season: 25,
             items: [
               20991506, // Spectroscopic Shell (Ghost Shell)
+              1577330346, // Renunciation (Ship)
               3489448910, // Old Rancor (Sparrow)
               3508476925, // Curse Splitter (Emblem)
               3508476914, // Fell Revival (Emblem)
+              788073492, // Revenant Redress (Emblem)
             ],
           },
         ],
@@ -702,6 +705,7 @@ export default ([
     sets: [
       eververseAndEvents.SOLSTICE_2024,
       eververseAndEvents.FESTIVAL_OF_THE_LOST_2024,
+      eververseAndEvents.DAWNING_2024,
     ],
   },
   {
@@ -830,7 +834,6 @@ export default ([
     sets: [
       eververseAndEvents.EVERVERSE_Y7_S24,
       eververseAndEvents.EVERVERSE_Y7_S25,
-      // eververseAndEvents.EVERVERSE_Y7_S26,
     ],
   },
   {
