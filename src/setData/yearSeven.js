@@ -23,6 +23,13 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 26,
+            items: [
+              694275488, // Cynosure
+            ],
+          },
+          {
             name: 'Nightfall: The Ordeal Weapons',
             season: 24,
             itemGroups: [
@@ -59,6 +66,20 @@ export default ([
             ],
           },
           {
+            name: 'Nightfall: The Ordeal Weapons',
+            season: 26,
+            itemGroups: [
+              [
+                2876244791, // The Palindrome
+                3922217119, // Lotus-Eater
+              ],
+              [
+                4077588826, // The Palindrome (Adept)
+                2697143634, // Lotus-Eater (Adept)
+              ],
+            ],
+          },
+          {
             name: 'Hunter Armor',
             season: 24,
             items: [1740966079, 1674833286, 2870974250, 1233862528, 3507791931], // Wall-watcher Set
@@ -89,6 +110,14 @@ export default ([
               2728125437, // Graffik (Shader)
             ],
           },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              1517516184, // Vanguard Sights Projection (Ghost Projection)
+              2039338164, // Vanguard Allegiant (Shader)
+            ],
+          },
         ],
       },
       {
@@ -109,6 +138,14 @@ export default ([
             itemGroups: [
               [1051949956], // Anonymous Autumn
               [2035738085], // Deadlock
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 26,
+            itemGroups: [
+              [157601190], // Joxer's Longsword
+              [3218364298], // Redrix's Estoc
             ],
           },
           {
@@ -144,6 +181,15 @@ export default ([
               3508476915, // Pitiless (Emblem)
             ],
           },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              3962705809, // Crucible Sights Projection (Ghost Projection)
+              1656799465, // Shaxx's Preferred (Shader)
+              3992231372, // Winner's Circle (Emblem)
+            ],
+          },
         ],
       },
       {
@@ -162,6 +208,13 @@ export default ([
             season: 25,
             items: [
               2199554524, // Bygones
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 26,
+            items: [
+              267672635, // Backfang
             ],
           },
           {
@@ -195,6 +248,14 @@ export default ([
               1563709621, // Iridocytes (Shader)
             ],
           },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              3928800496, // Gambit Sights Projection (Ghost Projection)
+              1619593404, // Gambit Evasive (Shader)
+            ],
+          },
         ],
       },
       {
@@ -219,6 +280,14 @@ export default ([
             items: [
               480368036, // Tinasha's Mastery
               2896109856, // Archon's Thunder
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 26,
+            items: [
+              3437370193, // Peacebond
+              1968711238, // Warlord's Spear
             ],
           },
           {
@@ -250,6 +319,14 @@ export default ([
             items: [
               3508476920, // Canis Lupus (Emblem)
               2959387570, // Cruel Patina (Shader)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              3992231375, // Saladin's Pride (Emblem)
+              425276569, // Banner's Bearer (Shader)
             ],
           },
         ],
@@ -288,6 +365,45 @@ export default ([
                 2378785953, // Yesterday's Question (Adept)
                 303107619, // Tomorrow's Answer (Adept)
               ],
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 26,
+            itemGroups: [
+              [
+                3436626079, // Exalted Truth
+                1893967086, // Keen Thistle
+              ],
+              [
+                1201528146, // Exalted Truth (Adept)
+                3503560035, // Keen Thistle (Adept)
+              ],
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 26,
+            items: [1435559164, 2832013173, 2641704939, 113167959, 1381405058], // Cat-Eye Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 26,
+            items: [511773064, 4154074649, 1054377087, 2751189771, 2725889934], // Jackal-Heart Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 26,
+            items: [1479465109, 155308388, 792171868, 1661393678, 2078005457], // Falcon-Wing Set
+          },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              3803133794, // Khufu Shell (Ghost Shell)
+              3449261808, // Sacred Barque (Ship)
+              33339334, // Amulet-S (Sparrow)
+              3992231361, // Lighthouse-Keeper (Emblem)
             ],
           },
         ],
@@ -467,6 +583,82 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Sundered Doctrine',
+        id: 'year-seven-sundered-doctrine',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 26,
+            items: [331231237], // Finality's Auger
+          },
+          {
+            name: 'Weapons',
+            season: 26,
+            items: [
+              2485881870, // Unloved
+              1303313141, // Unsworn
+              2226158470, // Unworthy
+              3360937899, // Unvoiced
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 26,
+            items: [2146870895, 431596278, 4052335546, 1643875408, 3276331403], // Flain Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 26,
+            items: [3781388955, 945703242, 380371582, 3897001828, 4004965895], // Flain Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 26,
+            items: [2549679488, 115752785, 3300886791, 4241869859, 187348246], // Flain Set
+          },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              2993751041, // Future Proof (Sparrow)
+              3992231369, // Unsounded Depths (Emblem)
+              3992231368, // Pyramid's Pilot (Emblem)
+              3992231360, // Last Erasure (Emblem)
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Vault of Glass',
+        id: 'year-seven-vault-of-glass',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 26,
+            items: [
+              4184168210, // Fatebringer
+              3844610113, // Praedyth's Revenge
+              3444688218, // Vision of Confluence
+              694500607, // Found Verdict
+              3654744298, // Corrective Measure
+              2265407516, // Hezen Vengeance
+            ],
+          },
+          {
+            name: 'Weapons (Timelost)',
+            season: 26,
+            items: [
+              4219826183, // Fatebringer (Timelost)
+              2362652544, // Praedyth's Revenge (Timelost)
+              337578911, // Vision of Confluence (Timelost)
+              851296754, // Found Verdict (Timelost)
+              2334480463, // Corrective Measure (Timelost)
+              3623686757, // Hezen Vengeance (Timelost)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -611,6 +803,82 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Episode: Heresy',
+        id: 'year-seven-season-26',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 26,
+            items: [
+              1481594633, // Barrow-Dyad
+            ],
+          },
+          {
+            name: 'Pursuit Weapon',
+            season: 26,
+            itemGroups: [[1824586582], [3408181708, 3408181710, 3408181711]], // Resounding and Ornaments
+          },
+          {
+            name: 'Weapons',
+            season: 26,
+            itemGroups: [
+              [
+                3229982889, // Adamantite
+                4028298892, // Psychopomp
+                727781522, // Eyes Unveiled
+                1757177186, // Watchful Eye
+                547165496, // Abyssal Edge
+              ],
+              [
+                1390080550, // False Promises
+                690341468, // Whispering Slab
+                558794124, // Cold Denial
+                342027677, // Hollow Words
+                1587953057, // Temptation's Hook
+              ],
+            ],
+          },
+          {
+            name: 'Weapons (Adept)',
+            season: 26,
+            itemGroups: [
+              [
+                3485029080, // Adamantite (Adept)
+                2553380021, // Psychopomp (Adept)
+                282549639, // Eyes Unveiled (Adept)
+                737409399, // Watchful Eye (Adept)
+                2712683313, // Abyssal Edge (Adept)
+              ],
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 26,
+            items: [2566602359, 1640013310, 1031550130, 2483956312, 1202333507], // Apostate's Blade Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 26,
+            items: [3591493331, 1125973474, 404887494, 3170119196, 722878895], // Apostate's Blade Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 26,
+            items: [478608026, 2715879651, 3371603501, 341892117, 1485514784], // Apostate's Blade Set
+          },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              1620403517, // Coronation (Ghost Shell)
+              576914489, // Charon's Toll (Sparrow)
+              3992231370, // Royal Court (Emblem)
+              3992231373, // The Wheel (Emblem)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -677,23 +945,6 @@ export default ([
               439240927, // Reaching Within (Shader)
               2847579027, // Victorious Oddment (Emblem)
               2847579024, // Wander On (Emblem)
-            ],
-          },
-          {
-            name: 'Preorder & Annual Pass Edition Bonuses',
-            season: 24,
-            items: [
-              3561203890, // Tesselation
-              1645318917, // Penrose Gilt (Tesselation Ornament)
-              1350491133, // Nacre (Ship)
-              1289092817, // Pyramidic Vessel (Ship)
-              2525637070 , // Unified Theory (Sparrow)
-              2413351959, // Argent Turbo (Sparrow)
-              210874516, // Final Shell (Ghost Shell)
-              1254994288, // Arcology Vault Shell (Ghost Shell)
-              3665453361, // Abstract Meditation (Emote)
-              54004492, // Paracausal Path (Emblem)
-              2790542794, // Prismatic Horizon (Emblem)
             ],
           },
         ],
@@ -827,6 +1078,64 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Episode: Heresy',
+        id: 'year-seven-season-26-pass',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 26,
+            items: [
+              3725585710, // Lodestar
+              538751803, // Artificial Sun (Lodestar Ornament)
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 26,
+            itemGroups: [
+              [2385145062, 1357528247, 3068107265, 2741605465, 21782364], // Navigator's Raiment Set
+              [2385145063], // Navigator's Crown
+            ],
+          },
+          {
+            name: 'Titan Armor',
+            season: 26,
+            itemGroups: [
+              [1042900772, 607214589, 1329728131, 2931366687, 228551162], // Navigator's Raiment Set
+              [1042900773], // Navigator's Crown
+            ],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 26,
+            itemGroups: [
+              [38620037, 819296852, 3590621036, 1065458782, 1994412193], // Navigator's Raiment Set
+              [38620036], // Navigator's Crown
+            ],
+          },
+          {
+            name: 'Other',
+            season: 26,
+            items: [
+              907724400, // Contented Captain (Emote)
+              427144613, // Checkmate (Emote)
+              2398921588, // Resolute Command (Emote)
+              270222899, // Ambitious Grasp (Emote)
+              1391246437, // Written in Stone (Finisher)
+              2018965396, // Pelorus Shell (Ghost Shell)
+              1999764565, // Navigator Projection (Ghost Projection)
+              2569943136, // Scream-Eyed (Ship)
+              1764758326, // Endling Seek (Sparrow)
+              1731419282, // Dreadful Symmetry (Shader)
+              1731419283, // Shipwright's Finery (Shader)
+              1731419281, // Subsequence (Shader)
+              2133303452, // Heretical Entrance (Transmat Effect)
+              2133303453, // King's Wings Entrance (Transmat Effect)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -834,6 +1143,7 @@ export default ([
     sets: [
       eververseAndEvents.EVERVERSE_Y7_S24,
       eververseAndEvents.EVERVERSE_Y7_S25,
+      eververseAndEvents.EVERVERSE_Y7_S26,
     ],
   },
   {
@@ -867,6 +1177,16 @@ export default ([
               4200122994, // Veleda-F
             ],
           },
+          {
+            name: 'Weapons',
+            season: 26,
+            items: [
+              32287609, // Boondoggle Mk. 55
+              891996636, // Cruoris FR4
+              3776430252, // Admetus-D
+              751880654, // Qua Furor V
+            ],
+          },
         ],
       },
       {
@@ -878,6 +1198,41 @@ export default ([
             season: 25,
             items: [
               3158812152, // The Xûrfboard
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Preorder & Annual Pass Edition Bonuses',
+        id: 'year-seven-preorder',
+        sections: [
+          {
+            name: 'Extras',
+            season: 24,
+            items: [
+              3561203890, // Tesselation
+              1645318917, // Penrose Gilt (Tesselation Ornament)
+              1350491133, // Nacre (Ship)
+              1289092817, // Pyramidic Vessel (Ship)
+              2525637070 , // Unified Theory (Sparrow)
+              210874516, // Final Shell (Ghost Shell)
+              3665453361, // Abstract Meditation (Emote)
+              54004492, // Paracausal Path (Emblem)
+              2790542794, // Prismatic Horizon (Emblem)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 25,
+            items: [
+              1254994288, // Arcology Vault Shell (Ghost Shell)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              4068113907, // Arcological Scoot (Sparrow)
             ],
           },
         ],

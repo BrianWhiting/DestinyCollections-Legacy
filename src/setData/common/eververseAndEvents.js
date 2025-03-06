@@ -6604,6 +6604,200 @@ export const EVERVERSE_Y7_S25 = {
   ],
 };
 
+export const EVERVERSE_Y7_S26 = {
+  name: 'Episode: Heresy',
+  id: 'eververse-y7-s26',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 26,
+      itemGroups: [
+        [340877391, 2496009430, 1508081946, 3708288688, 731974763], // Covert Ranger Set
+        // [2712582684, 1175114637, 3698722645, 1820846903, 189162152], // Cryosphere Set
+        // [4095338204, 1196721749, 212489547, 2772843959, 2864173154], // Uncanny Conjurer Set
+        [
+          189162155, // Lacewing
+          2712582686, // Unobjective
+        ]
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 26,
+      itemGroups: [
+        [3701800877, 59499292, 1837686788, 3357394598, 2581413721], // Shock Enforcer Set
+        // [1140953886, 1499175527, 3153265419, 1058307937, 3790083098], // Cryosphere Set
+        // [3606173598, 2876146383, 4254490665, 3450646641, 1739826660], // Cryptic Magus Set
+        [
+          1140953885, // Solar Storm
+          1058307939, // Steady Virtue
+        ]
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 26,
+      itemGroups: [
+        [1240377862, 254337751, 3230501921, 2062872569, 4013006972], // Royal Protector Set
+        // [1230246907, 3001484226, 802574732, 1093530996, 3677384321], // Cryosphere Set
+        // [2781045543, 727644590, 2321708226, 3235180200, 2011738387], // Eerie Thaumaturge Set
+        [
+          802574734, // Helium Reactor
+          802574735, // Internal Epistemology
+        ]
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 26,
+      itemGroups: [
+        [
+          45772536, // Lunarpowered (Mothkeeper's Wraps)
+          3813154255, // Mechanopupil (Omnioculus)
+          3280501428, // Philosophic Filigree (Relativism)
+          1703346180, // Chain Piston (Synthoceps)
+          378918680, // Harrier (Pyrogale Gauntlets)
+          316107606, // Heart's Pledge (Stoicism)
+          2847972440, // Coaxial Vine (Briarbinds)
+          2955063537, // Warfire (Sunbracers)
+          3124580742, // Cursèd Chitin (Solipcism)
+        ],
+        [],
+        [
+          1960441750, // Breakshot (Sunshot)
+          2609637836, // Chainripper (Monte Carlo)
+          3178001277, // Death+∞ (Cerberus+1)
+          1426122122, // Fatal Howl (Dead Messenger)
+          1812118660, // Final Dictum (Ergo Sum)
+          4225634636, // Flower-Game Stamp (Finality's Auger)
+          1282339605, // Heavy Duty (Polaris Lance)
+          569609522, // High-Rolling Lowlife (Malfeasance)
+          2779903514, // Overgrown (Outbreak Perfected)
+          3145596224, // Serrate Oath (Eriana's Vow)
+          1948715072, // Strider's Pinion (Vigilance Wing)
+          3803099167, // The Cleaver (The Lament)
+          2539359118, // Time's Inlay (Vex Mythoclast)
+          2244041240, // Twin-Souled (Barrow-Dyad)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 26,
+      items: [
+        2171573392, // Claw Machine
+        2921308462, // Red Carpet
+        1601510957, // Remote Training Session
+        4291600440, // Victory Jam
+        1479573077, // Fated Duel
+        3493548831, // Group Photo
+        1243101200, // In the Picture
+        1479573076, // Infantry Practice
+        3983024056, // Rising Stars Dance
+        903836169, // Zoning Out
+        2107672258, // Bonsai
+        3541145072, // Inventory Management
+        30703745, // Lantern of Remembrance
+        3412122772, // Mechanically Minded
+        2077407080, // Most Huggable
+        2716681002, // Penguin Dance
+        2771616579, // Night Out Dance
+        947540634, // Dramatic Scream
+        1136956487, // Manicured
+        1394633595, // Stepped In It
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 26,
+      itemGroups: [
+        [
+          3361254696, // Coronal Aura Shell
+          426902517, // DS-2 Shell
+          3361254699, // Lumen Shell
+          3361254700, // Modded Shell
+          3361254697, // Network Shell
+          3361254702, // Ornithopter Shell
+          3361254703, // Shatter Shell
+          3361254701, // Tagged Shell
+        ],
+        [
+          2788754592, // Aces High Projection
+          2788754595, // Celestial Projection
+          2788754596, // Explosive Projection
+          2788754597, // Ship Projection
+          2788754602, // Throwie Projection
+          2788754598, // Tome Projection
+          2788754593, // Ursa Minor Projection
+          2788754599, // Vitamin-Filled Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 26,
+      items: [
+        2818858341, // Conflux Runner
+        2818858336, // Crimson Rocket
+        2818858340, // Eos Drive 11
+        2818858343, // Flitter Keel
+        2818858337, // Gatecrasher
+        1888607907, // Repulsorlift Jumpspeeder
+        2818858338, // Rotor Engine
+        2818858339, // Slipstream Stinger
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 26,
+      items: [
+        3106274811, // Advanced Prototype Jumpship
+        965145935, // Diamagnetic Hover
+        965145928, // Diesel Maximal
+        965145931, // Glacier Invincible
+        965145929, // Mural-04
+        965145933, // Partition Recoil
+        965145930, // Refit Kite
+        965145932, // Solar Spinnaker
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 26,
+      items: [
+        1087971715, // Ceramic Alloy
+        1087971716, // Cruelty Song
+        1087971726, // Dash of Brio
+        1087971712, // Mandate
+        1087971714, // Mogul of Paint
+        1087971713, // Oleaceae
+        1087971719, // Shadegleam
+        1087971718, // Vicious Alloy
+        1087971717, // Zeroes and Ones
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 26,
+      items: [
+        1015658233, // Confetti Entrance
+        1015658232, // Witchfire Entrance
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 26,
+      items: [
+        3263694991, // Beam of Light
+        3263694990, // No Ammo? No Problem
+        420564049, // Paracausal Pitch
+        420564050, // Riot Control
+        420564048, // Unlimited Power
+      ],
+    },
+  ],
+};
+
 export const GUARDIAN_GAMES_Y6 = {
   name: 'Guardian Games',
   id: 'year-six-guardian-games',
