@@ -957,6 +957,7 @@ export default ([
       eververseAndEvents.SOLSTICE_2024,
       eververseAndEvents.FESTIVAL_OF_THE_LOST_2024,
       eververseAndEvents.DAWNING_2024,
+      eververseAndEvents.GUARDIAN_GAMES_2025,
     ],
   },
   {

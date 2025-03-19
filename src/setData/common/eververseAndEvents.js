@@ -7655,3 +7655,103 @@ export const DAWNING_2024 = {
     },
   ],
 };
+
+export const GUARDIAN_GAMES_2025 = {
+  name: 'Guardian Games 2025',
+  id: 'guardian-games-2025',
+  description: 'Acquirable during the 2025 Guardian Games event.',
+  big: false,
+  sections: [
+    {
+      name: 'Weapons',
+      season: 26,
+      items: [
+        2595813005, // Taraxippos
+        55393445, // The Title
+        2029899814, // Keraunios
+        2666273249, // Hullabaloo
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 26,
+      itemGroups: [
+        [1021443313, 3932962120, 2158247744, 314979874, 1085403133], // Glory of Artemis Set
+        [3131849739], // Mantle of Contests
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 26,
+      itemGroups: [
+        [2453921511, 400623726, 455112322, 2483701864, 3974075603], // Honor of Hercules Set
+        [3161483583], // Mark of Contests
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 26,
+      itemGroups: [
+        [4048947954, 178757083, 716099381, 2923764557, 3708661256], // Favor of Zeus Set
+        [1555733772], // Bond of Contests
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 26,
+      items: [
+        1908170679, // Radiant Dance Rebellion
+        2297479091, // Applause and Accolades
+        3599131206, // Championship Victory
+        2268509068, // Lunar Shoes
+        723006641, // Petrified
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 26,
+      itemGroups: [
+        [
+          1652641563, // Halfpipe Shell
+          1652641560, // Hawker Shell
+          1652641561, // Hoplite Shell
+        ],
+        [
+          2186595191, // Contestant Projection
+          2186595190, // Microscopic Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 26,
+      items: [
+        3085024171, // Beloved Antique
+        3013191049, // Commemorative Steed
+        3085024169, // Heniokhos Anew
+        3085024168, // The Scrambler
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 26,
+      items: [
+        540791504, // Cariole Spectacular
+        540791505, // Winged Victory
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 26,
+      items: [
+        2159113266, // Shotput Through The Heart (Finisher)
+        117772190, // Godly Array (Shader)
+        2896897122, // Winning Look (Shader)
+        1367348577, // Elemental Contestant Entrance (Transmat Effect)
+        1367348576, // Shattered Records Entrance (Transmat Effect)
+        3992231374, // Podium's Apex (Emblem)
+        1611948523, //  (Emblem)
+      ],
+    },
+  ],
+};
