@@ -72,10 +72,12 @@ export default ([
               [
                 2876244791, // The Palindrome
                 3922217119, // Lotus-Eater
+                233635202, // Cruel Mercy
               ],
               [
                 4077588826, // The Palindrome (Adept)
                 2697143634, // Lotus-Eater (Adept)
+                2347178967, // Cruel Mercy (Adept)
               ],
             ],
           },
@@ -288,6 +290,7 @@ export default ([
             items: [
               3437370193, // Peacebond
               1968711238, // Warlord's Spear
+              2639921391, // Nature Reclaimed
             ],
           },
           {
@@ -659,6 +662,76 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Rite of the Nine',
+        id: 'year-seven-rite-of-the-nine',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 26,
+            itemGroups: [
+              [
+                2575844666, // Liminal Vigil
+                1206729100, // Wilderflight
+                4249949938, // Long Arm
+                3984556130, // Terminus Horizon
+              ],
+              [],
+              [
+                2059741649, // New Pacific Epitaph
+                2934305134, // Greasy Luck
+                4228149269, // No Survivors
+                291447487, // Cold Comfort
+              ],
+              [],
+              [
+                2226572694, // Judgment
+                3733988413, // Relentless
+                880829467, // Prosecutor
+                1976481399, // A Sudden Death
+              ],
+            ],
+          },
+          {
+            name: 'Weapons (Adept)',
+            season: 26,
+            itemGroups: [
+              [
+                1905934655, // Liminal Vigil (Adept)
+                559523765, // Wilderflight (Adept)
+                4239378215, // Long Arm (Adept)
+                2210806903, // Terminus Horizon (Adept)
+              ],
+              [],
+              [
+                233402416, // New Pacific Epitaph (Adept)
+                3210739171, // Greasy Luck (Adept)
+                189194532, // No Survivors (Adept)
+                1817605554, // Cold Comfort (Adept)
+              ],
+              [],
+              [
+                1987644603, // Judgment (Adept)
+                1827058652, // Relentless (Adept)
+                4025177550, // Prosecutor (Adept)
+                1626437786, // A Sudden Death (Adept)
+              ],
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 26,
+            items: [
+              1063872198, // Seer (Emblem)
+              1063872197, // Esper (Emblem)
+              1063872199, // Foretold (Emblem)
+              1063872195, // Immortality (Emblem)
+              1063872196, // Calibrated (Emblem)
+              2412474869, // Astrograph (Shader)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -825,7 +898,12 @@ export default ([
             itemGroups: [
               [
                 3229982889, // Adamantite
+                3269398063, // Refusal of the Call
+                3234363830, // Mirror Imago
                 4028298892, // Psychopomp
+                2291392465, // Anamnesis
+                3228630258, // Afterlight
+                2903168058, // Division
                 727781522, // Eyes Unveiled
                 1757177186, // Watchful Eye
                 547165496, // Abyssal Edge
@@ -845,7 +923,12 @@ export default ([
             itemGroups: [
               [
                 3485029080, // Adamantite (Adept)
+                25228802, // Refusal of the Call (Adept)
+                302039451, // Mirror Imago (Adept)
                 2553380021, // Psychopomp (Adept)
+                1536325168, // Anamnesis (Adept)
+                3953163559, // Afterlight (Adept)
+                3734001727, // Division (Adept)
                 282549639, // Eyes Unveiled (Adept)
                 737409399, // Watchful Eye (Adept)
                 2712683313, // Abyssal Edge (Adept)
@@ -872,9 +955,12 @@ export default ([
             season: 26,
             items: [
               1620403517, // Coronation (Ghost Shell)
+              4140447297, // Deinterlace (Ship)
               576914489, // Charon's Toll (Sparrow)
               3992231370, // Royal Court (Emblem)
               3992231373, // The Wheel (Emblem)
+              1611948520, // Enigmatology (Emblem)
+              3250524138, // Umbral Rumble (Shader)
             ],
           },
         ],

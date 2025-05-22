@@ -6613,8 +6613,8 @@ export const EVERVERSE_Y7_S26 = {
       season: 26,
       itemGroups: [
         [340877391, 2496009430, 1508081946, 3708288688, 731974763], // Covert Ranger Set
-        // [2712582684, 1175114637, 3698722645, 1820846903, 189162152], // Cryosphere Set
-        // [4095338204, 1196721749, 212489547, 2772843959, 2864173154], // Uncanny Conjurer Set
+        [2712582684, 1175114637, 3698722645, 1820846903, 189162152], // Verglas Stalker Set
+        [4095338204, 1196721749, 212489547, 2772843959, 2864173154], // Uncanny Conjurer Set
         [
           189162155, // Lacewing
           2712582686, // Unobjective
@@ -6626,8 +6626,8 @@ export const EVERVERSE_Y7_S26 = {
       season: 26,
       itemGroups: [
         [3701800877, 59499292, 1837686788, 3357394598, 2581413721], // Shock Enforcer Set
-        // [1140953886, 1499175527, 3153265419, 1058307937, 3790083098], // Cryosphere Set
-        // [3606173598, 2876146383, 4254490665, 3450646641, 1739826660], // Cryptic Magus Set
+        [1140953886, 1499175527, 3153265419, 1058307937, 3790083098], // Cracked Iceberg Set
+        [3606173598, 2876146383, 4254490665, 3450646641, 1739826660], // Cryptic Magus Set
         [
           1140953885, // Solar Storm
           1058307939, // Steady Virtue
@@ -6639,8 +6639,8 @@ export const EVERVERSE_Y7_S26 = {
       season: 26,
       itemGroups: [
         [1240377862, 254337751, 3230501921, 2062872569, 4013006972], // Royal Protector Set
-        // [1230246907, 3001484226, 802574732, 1093530996, 3677384321], // Cryosphere Set
-        // [2781045543, 727644590, 2321708226, 3235180200, 2011738387], // Eerie Thaumaturge Set
+        [1230246907, 3001484226, 802574732, 1093530996, 3677384321], // Cryosphere Set
+        [2781045543, 727644590, 2321708226, 3235180200, 2011738387], // Eerie Thaumaturge Set
         [
           802574734, // Helium Reactor
           802574735, // Internal Epistemology
@@ -6658,6 +6658,7 @@ export const EVERVERSE_Y7_S26 = {
           1703346180, // Chain Piston (Synthoceps)
           378918680, // Harrier (Pyrogale Gauntlets)
           316107606, // Heart's Pledge (Stoicism)
+          316107607, // Heart's Purity (Stoicism)
           2847972440, // Coaxial Vine (Briarbinds)
           2955063537, // Warfire (Sunbracers)
           3124580742, // Cursèd Chitin (Solipcism)
@@ -6720,6 +6721,7 @@ export const EVERVERSE_Y7_S26 = {
           3361254702, // Ornithopter Shell
           3361254703, // Shatter Shell
           3361254701, // Tagged Shell
+          183861275, // Inferno Shell
         ],
         [
           2788754592, // Aces High Projection
@@ -6745,6 +6747,7 @@ export const EVERVERSE_Y7_S26 = {
         1888607907, // Repulsorlift Jumpspeeder
         2818858338, // Rotor Engine
         2818858339, // Slipstream Stinger
+        3105350133, // Crescent Infiltrator
       ],
     },
     {
@@ -6759,6 +6762,7 @@ export const EVERVERSE_Y7_S26 = {
         965145933, // Partition Recoil
         965145930, // Refit Kite
         965145932, // Solar Spinnaker
+        3063003415, // Silent Vendetta
       ],
     },
     {
