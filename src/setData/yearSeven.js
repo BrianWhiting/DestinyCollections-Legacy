@@ -575,13 +575,13 @@ export default ([
             name: 'Weapons',
             season: 25,
             items: [
-              3621336854, // Accrued Redemption
-              2241507890, // Sacred Provenance
-              1992309064, // Reckless Oracle
-              2720651699, // Zealot's Reward
-              963574173, // Ancient Gospel
-              2145441168, // Prophet of Doom
-              147444292, // Omniscient Eye
+              4095896073, // Accrued Redemption
+              2408405461, // Sacred Provenance
+              3385326721, // Reckless Oracle
+              2209003210, // Zealot's Reward
+              48643186, // Ancient Gospel
+              4020742303, // Prophet of Doom
+              3454326177, // Omniscient Eye
             ],
           },
         ],
