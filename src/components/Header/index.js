@@ -20,7 +20,8 @@ function isOverflowing(el) {
 
 const link = (name, to) => ({ name, to });
 const LINKS = [
-  link('Year 7', '/'),
+  link('Year 8', '/'),
+  link('Year 7', '/year-7'),
   link('Year 6', '/year-6'),
   link('Year 5', '/year-5'),
   link('Year 4', '/year-4'),

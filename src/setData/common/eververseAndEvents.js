@@ -7759,3 +7759,284 @@ export const GUARDIAN_GAMES_2025 = {
     },
   ],
 };
+
+export const EVERVERSE_Y8_S27A = {
+  name: 'The Edge of Fate',
+  id: 'eververse-y8-s27a',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 27,
+      itemGroups: [
+        [4005487778, 3345029003, 767640901, 100242589, 4184557208], // Malwear Set
+        [4005487779, 3345029002, 767640900, 100242588, 4184557209], // Blackletter Set
+        [4005487776, 3345029001, 767640903, 100242591, 4184557210], // Gladius Set
+        [
+          4175152167, // Optica Lion Mask
+          3345029000, // Pretender's Grips
+        ]
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 27,
+      itemGroups: [
+        [1464833302, 2668926951, 3765389329, 1421732649, 1665851948], // Malwear Set
+        [1464833303, 2668926950, 3765389328, 1421732648, 1665851949], // Blackletter Set
+        [1464833300, 2668926949, 3765389331, 1421732651, 1665851950], // Gladius Set
+        [
+          3719206411, // Optica Lion Helm
+          1421732653, // Wormgod Strides
+        ]
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 27,
+      itemGroups: [
+        [4205001479, 2151600526, 155141794, 364272008, 3674001907], // Malwear Set
+        [4205001478, 2151600527, 155141795, 364272009, 3674001906], // Blackletter Set
+        [4205001477, 2151600524, 155141792, 364272010, 3674001905], // Gladius Set
+        [
+          1887800372, // Optica Lion Cowl
+          2151600522, // Pixeltouch
+        ]
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 27,
+      itemGroups: [
+        [
+          1442979870, // Europan Plate (Renewal Grasps)
+          4253765446, // Pretender's Crown (Wormhusk Crown)
+          4155611663, // Windblasted (Icefall Mantle)
+          1655894006, // Wormgod Prophet (Wormgod Caress)
+          391381131, // Pixelsight (Speaker's Sight)
+          2100126510, // Tactihive (Verity's Brow)
+        ],
+        [],
+        [
+          4008804369, // Earth's Shadow (Khvostov 7G-0X)
+          1277605939, // Oracular (Conditional Finality)
+          4058838904, // Leotechno (Fighting Lion)
+          2764916656, // Mag Spike (Graviton Spike)
+          1059427817, // Sweet-Spoken (Ergo Sum)
+          1380830409, // Synthetic Connection (Buried Bloodline)
+          1649009138, // Without Ceremony (Ice Breaker)
+          1345240784, // Bray Reductive (Microcosm)
+          2972633230, // Starspin (Whirling Ovation)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 27,
+      items: [
+        4025877494, // Coffee Break
+        4025877493, // Fort Me-Time
+        4025877490, // I'm a Lumberjack
+        4025877495, // Network Purrotocol
+        4025877492, // Supreme Slider
+        4025877491, // Yee-Haw
+        1750041405, // Got a Light?
+        1750041400, // Life of the Party
+        1750041403, // Pie Me
+        1750041401, // Pointed Offering
+        1750041402, // Them's the Breaks
+        1971006831, // Arthurian Tale
+        1971006830, // Coffee Talk
+        1971006825, // Kitten Shimmy
+        1971006827, // Lullaby
+        1971006828, // Pied Piper
+        1971006829, // Show Off
+        1971006824, // Wind Up
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 27,
+      itemGroups: [
+        [
+          2193035135, // Conditional Shell
+          2193035129, // Devouring Shell
+          2193035133, // Dropped Beat Shell
+          2193035132, // Leo-Fi Shell
+          2193035128, // Net-Purr Shell
+          2193035130, // Titan's Command Shell
+          2193035134, // Wild Containment Shell
+        ],
+        [
+          2182283517, // Attack! Projection
+          2182283513, // Cool Kakapo Projection
+          2182283515, // Fighting Li-ion Projection
+          2182283512, // Glimmerama Projection
+          2182283518, // Gourmet Projection
+          2182283519, // Nose Goes Projection
+          2182283514, // Rolling Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 27,
+      items: [
+        8364900, // BST-77 Containment Transport
+        8364903, // Cyber Jockey
+        8364902, // Face of the Lion
+        8364898, // Neon Scratch
+        8364901, // One End
+        8364899, // Snarling Mask
+        8364896, // The Stalwart
+        4152333595, // Overdrive Drift
+
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 27,
+      items: [
+        48058298, // Confidence of Command
+        48058297, // Daemonflight
+        48058300, // Leonine Fidelity
+        48058296, // Purrfect Splice
+        48058303, // Singular Condition
+        48058301, // Soundspeed Skipper
+        48058302, // Unleashed
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 27,
+      items: [
+        2614305326, // Primer
+        2857291468, // Chill Beats
+        2857291466, // Petrified Opal
+        2857291464, // Roller Rink
+        2857291467, // Rubellite
+        2857291465, // Sakura
+        2857291469, // Solid Slate
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 27,
+      items: [
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 27,
+      items: [
+        3137705395, // Completely Trashed
+        3137705392, // Crossfaded
+        3137705393, // Dink Fast
+        3137705397, // Green Thump
+        3137705394, // Keyboard Warrior
+      ],
+    },
+    {
+      name: 'Holochips',
+      season: 27,
+      items: [
+        80338526, // Infernal
+      ],
+    },
+  ],
+};
+
+export const SOLSTICE_2025 = {
+  name: 'Solstice - 2025',
+  id: 'solstice-2025',
+  sections: [
+    {
+      name: 'Weapons',
+      season: 27,
+      items: [
+        4019651319, // Festival Flight
+        2631466936, // Fortunate Star
+        3293207827, // Yeartide Apex
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 27,
+      itemGroups: [
+        [3755408274, 3268422857, 861860247, 3130152719, 1376512508], // Lustrous (Unkindled) Set
+        [1209319450, 3446591075, 3643047597, 1072603541, 1756958880], // Lustrous Set
+        [989310394, 3226685059, 3563098445, 1277051957, 1718586432], // Seaside Celebration Set
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 27,
+      itemGroups: [
+        [2488007584, 4261618303, 2589289009, 3510701861, 821031610], // Lustrous (Unkindled) Set
+        [3585698380, 2739996165, 2901472731, 2662868359, 1641172978], // Lustrous Set
+        [83207822, 1532971903, 1622764089, 454222017, 2936930036], // Seaside Celebration Set
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 27,
+      itemGroups: [
+        [3607796223, 3863829688, 1133567616, 1977129966, 4180444323], // Lustrous (Unkindled) Set
+        [1025347717, 1806024532, 1809917548, 2052186462, 213708705], // Lustrous Set
+        [1630553967, 4210246646, 2135043770, 1127558480, 1359039627], // Seaside Celebration Set
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 27,
+      items: [
+        2322759918, // Ice Cream Scream
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 27,
+      itemGroups: [
+        [
+          2098788836, // Grillmaster Shell
+          158426788, // Twin-Hull Shell
+        ],
+        [
+          3426743647, // Vaporwave Wave Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 27,
+      items: [
+        3845888162, // Doubled Outrigger
+        340680574, // Titanium Tyrant
+        4216207299, // Megalodasher
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 27,
+      items: [
+        3557577228, // Flying Ace
+        2286806200, // Kismet Skim
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 27,
+      items: [
+        225456309, // Cool Down (Finisher)
+        3078369201, // Bioluminesce (Shader)
+        3078369203, // Duneshadow (Shader)
+        2417955889, // Interference (Shader)
+        3078369200, // Magmatic (Shader)
+        3078369205, // Reefwatcher (Shader)
+        3078369202, // Springtide Stamp (Shader)
+        1479330385, // Fiery Spirit (Transmat Effect)
+        4178714187, // The Luster (Emblem)
+        3317961966, // Flutter By (Holochip)
+      ],
+    },
+  ],
+};
