@@ -7962,7 +7962,6 @@ export const SOLSTICE_2025 = {
       name: 'Hunter Armor',
       season: 27,
       itemGroups: [
-        [3755408274, 3268422857, 861860247, 3130152719, 1376512508], // Lustrous (Unkindled) Set
         [1209319450, 3446591075, 3643047597, 1072603541, 1756958880], // Lustrous Set
         [989310394, 3226685059, 3563098445, 1277051957, 1718586432], // Seaside Celebration Set
       ],
@@ -7971,7 +7970,6 @@ export const SOLSTICE_2025 = {
       name: 'Titan Armor',
       season: 27,
       itemGroups: [
-        [2488007584, 4261618303, 2589289009, 3510701861, 821031610], // Lustrous (Unkindled) Set
         [3585698380, 2739996165, 2901472731, 2662868359, 1641172978], // Lustrous Set
         [83207822, 1532971903, 1622764089, 454222017, 2936930036], // Seaside Celebration Set
       ],
@@ -7980,7 +7978,6 @@ export const SOLSTICE_2025 = {
       name: 'Warlock Armor',
       season: 27,
       itemGroups: [
-        [3607796223, 3863829688, 1133567616, 1977129966, 4180444323], // Lustrous (Unkindled) Set
         [1025347717, 1806024532, 1809917548, 2052186462, 213708705], // Lustrous Set
         [1630553967, 4210246646, 2135043770, 1127558480, 1359039627], // Seaside Celebration Set
       ],
