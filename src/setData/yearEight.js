@@ -243,7 +243,7 @@ export default ([
     name: 'Destinations',
     sets: [
       {
-        name: 'Kepler-22b',
+        name: 'Kepler, The Oort Cloud',
         id: 'year-eight-kepler',
         sections: [
           {

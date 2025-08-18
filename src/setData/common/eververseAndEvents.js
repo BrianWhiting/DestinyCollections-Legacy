@@ -7987,6 +7987,7 @@ export const SOLSTICE_2025 = {
       season: 27,
       items: [
         2322759918, // Ice Cream Scream
+        225456309, // Cool Down
       ],
     },
     {
@@ -8023,7 +8024,6 @@ export const SOLSTICE_2025 = {
       name: 'Extras',
       season: 27,
       items: [
-        225456309, // Cool Down (Finisher)
         3078369201, // Bioluminesce (Shader)
         3078369203, // Duneshadow (Shader)
         2417955889, // Interference (Shader)
