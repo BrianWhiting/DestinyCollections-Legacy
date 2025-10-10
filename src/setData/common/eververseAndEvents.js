@@ -8037,3 +8037,270 @@ export const SOLSTICE_2025 = {
     },
   ],
 };
+
+export const EVERVERSE_Y8_S27B = {
+  name: 'Ash & Iron',
+  id: 'eververse-y8-s27b',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 27,
+      itemGroups: [
+        [3679474760, 1088003009, 1582463881, 4077910011, 3284561380], // Taken Knife Set
+        [3679474765, 1088003012, 1582463884, 4077910014, 3284561377], // Jade Rabbit Set
+        [
+          1582463883, // Renewal Vest
+          1582463882, // Prismscatter Cuirass
+        ]
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 27,
+      itemGroups: [
+        [1834458042, 3335316331, 1858642591, 2374528261, 1188269734], // Taken Knife Set
+        [1834458047, 3335316334, 1858642586, 2374528256, 1188269731], // Jade Rabbit Set
+        [
+          1858642588, // Prismscatter Plate
+          1834458040, // Icefall Helm
+        ]
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 27,
+      itemGroups: [
+        [1318336711, 715074198, 1361869536, 2099254712, 2568935229], // Taken Knife Set
+        [1318336706, 715074195, 1361869541, 2099254717, 2568935224], // Jade Rabbit Set
+        [
+          1318336708, // Prismscatter Cover
+          1361869538, // Verity's Robes
+        ]
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 27,
+      itemGroups: [
+        [
+          750667687, // Frosted Retinue (Mask of Fealty)
+          1928689292, // Wood-Weaver (Moirai)
+          3436468308, // Regalia of Chios (Melas Panoplia)
+          179139340, // Explosive-Reactive Brigandine (Blastwave Striders)
+          3750348472, // Benevolent Scales (Eunoia)
+          3880015086, // Kelvin Below (Rime-coat Raiment)
+        ],
+        [],
+        [
+          3541765687, // Cloud Render (Sturm)
+          2785409843, // Illuminant (Alethonym)
+          657879882, // Splintered Mirror (Wicked Implement)
+          3190700609, // Stave of Snow (Ager's Scepter)
+          2737100193, // Idol of Rabbits (Devil's Ruin)
+          78973341, // Wingbeat Hymn (Choir of One)
+          2936056926, // Skullsplitter (Wolfsbane)
+          4130628226, // The Harpoon (Tractor Cannon)
+        ],
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 27,
+      items: [
+        3234481163, // Bird Feeder
+        3234481161, // Easin' Up
+        3234481160, // Raising Iron
+        2540209378, // Toy Treads
+        1219436312, // Hot Toss
+        695820638, // In the Bag
+        695820637, // Keep Up
+        695820636, // Topple the Tower
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 27,
+      itemGroups: [
+        [
+          1033916544, // Indigo Strider Shell
+          1033916548, // Polynya Shell
+          1033916549, // Quicksilver Squall Shell
+          1033916546, // Supernova Shell
+          1033916547, // Witchweed Shell
+          1033916551, // Wreckscrapper Shell
+        ],
+        [
+          3762262462, // Coney Pink Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 27,
+      items: [
+        993333541, // Bladeswell
+        993333540, // Indigo Sprinter
+        993333542, // Particle Jet
+        993333537, // Quicksilver Tempest
+        808779764, // Ruination
+        993333539, // Smithereen
+        993333543, // Tacheo Striga
+        993333536, // Windsled
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 27,
+      items: [
+        2043847337, // Cyclogenesis
+        2043847342, // Gravity Wave
+        2043847336, // Ice Pick
+        2043847340, // Indigo Wing
+        2043847343, // Null Scythe
+        2043847339, // Star Scrapper
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 27,
+      items: [
+        1694958152, // Becquerelled
+        1694958159, // Coney Pink Print
+        1694958153, // Infinidescence
+        1694958154, // Loyal Scales
+        1694958158, // Nothing Given
+        1694958155, // Spring Streets
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 27,
+      items: [
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 27,
+      items: [
+        3064259653, // Armaments Deployed
+        2153662578, // Phalanx Blast
+        1998779811, // Understood Ending
+      ],
+    },
+    {
+      name: 'Holochips',
+      season: 27,
+      items: [
+        1937857104, // Stag Lord
+        1937857105, // Phosphor Ascent
+      ],
+    },
+  ],
+};
+
+export const FESTIVAL_OF_THE_LOST_2025 = {
+  name: 'Festival of the Lost - 2025',
+  id: 'festival-of-the-lost-2025',
+  sections: [
+    {
+      name: 'Weapons',
+      season: 27,
+      items: [
+        1175295126, // Hushed Whisper
+        3431536253, // Gunburn
+        3328019216, // Arcane Embrace
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 27,
+      itemGroups: [
+        [2455898712, 2919599145, 3201503919, 2745609979, 619729470], // Veiled Haunting Set
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 27,
+      itemGroups: [
+        [2053705146, 4291079811, 3017453901, 2341446709, 1172941888], // Masked Milliner's Set
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 27,
+      itemGroups: [
+        [3078567075, 4174632306, 2189749430, 280903308, 1560953183], // Formal Shadow Set
+      ],
+    },
+    {
+      name: 'Masks',
+      season: 27,
+      items: [
+        444302067, // Drop Pod Mask
+        2883258894, // Failsafe Mask
+        2883258885, // Fungal Mask
+        2883258881, // Grim Mask
+        2883258883, // Lodi Mask
+        2883258882, // Orin Mask
+        2883258880, // Oryx Mask
+        444302066, // Spicy Ramen Mask
+        444302065, // Weasel Error Mask
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 27,
+      items: [
+        2230659790, // Looking for Loot
+        1143897057, // Pincushion Poking
+        3850287637, // Scaled Constriction
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 27,
+      itemGroups: [
+        [
+          2798209985, // Ghastly Flight Shell
+          2798209984, // Pink Puff Plush Shell
+          1470356892, // Slasher Shell
+        ],
+        [
+          552281859, // Messenger Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 27,
+      items: [
+        2833210534, // Candy Bone
+        4282413899, // Ghastly Night
+        3896528758, // Plushosaurus
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 27,
+      items: [
+        3070846922, // Beautied Beast
+        3206549834, // Skira's Gaze
+        3070846923, // Winged Runner
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 27,
+      items: [
+        3344147839, // Acherontia (Shader)
+        3344147836, // Afterlife Ward (Shader)
+        3344147837, // Corvinity (Shader)
+        3344147835, // Fogreach (Shader)
+        3344147838, // Radial Shatter (Shader)
+        3367423699, // Bones Akimbo (Transmat Effect)
+        2565108496, // Honor for the Living (Emblem)
+        758932444, // Terrordactyl (Holochip)
+      ],
+    },
+  ],
+};
