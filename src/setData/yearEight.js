@@ -84,6 +84,13 @@ export default ([
             season: 27,
             items: [545935602, 970712027, 2046361909, 3715719501, 743956488], // Bushido Set
           },
+          {
+            name: 'Extras',
+            season: 27,
+            items: [
+              3282118732, // One Way Out (Emblem)
+            ],
+          },
         ],
       },
       {
