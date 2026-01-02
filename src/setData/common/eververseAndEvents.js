@@ -8304,3 +8304,279 @@ export const FESTIVAL_OF_THE_LOST_2025 = {
     },
   ],
 };
+
+export const EVERVERSE_Y8_S28A = {
+  name: 'Renegades',
+  id: 'eververse-y8-s28a',
+  sections: [
+    {
+      name: 'Hunter Armor',
+      season: 28,
+      itemGroups: [
+        [2896937063, 843639278, 749236994, 2926717416, 4268200275], // Singular Mercenary Set
+        [827288101, 1566388212, 1667784972, 1854126846, 3900509249], // Valkyrie's Descent Set
+        [
+          126473982, // Exquisite Weapon Display
+          1566388215, // Auspicious Prickle Strides
+          3900509251, // Dragon's Mane
+        ]
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 28,
+      itemGroups: [
+        [2282031189, 957874468, 2794564380, 2888520398, 209991313], // Devoted Warrior Set
+        [3403633271, 2477044222, 3347558578, 3320987224, 3518341955], // Valkyrie's Descent Set
+        [
+          3284585700, // Exquisite Weapon Display
+          3403633268, // Hypergolic Cranium
+          3518341953, // Sand Scoured
+        ]
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 28,
+      itemGroups: [
+        [3297025918, 2525421999, 2704409097, 2675464657, 189745092], // Noble Partisan Set
+        [2622805186, 1962449707, 747777893, 3437088061, 3698660024], // Valkyrie's Descent Set
+        [
+          315371399, // Exquisite Weapon Display
+          747777894, // Triplicate Nornwear Robes
+          3437088063, // Electro-Fluorite
+        ]
+      ],
+    },
+    {
+      name: 'Ornaments',
+      season: 28,
+      itemGroups: [
+        [
+          1386985379, // Auspicious Prickle (Fortune's Favor)
+          1919716545, // Dragon's Might (The Dragon's Shadow)
+          3381547501, // Hypergolic Ribcage (Praxic Vestment)
+          301639950, // Grit Blasted (Peacekeepers)
+          3449458226, // Triplicate Nornwear (Deimosuffusion)
+          3473886614, // Electro-Brass (Nothing Manacles)
+        ],
+        [],
+        [
+          202527151, // Anointed (Necrochasm)
+          1534363612, // Nerium Oleander (Osteo Striga)
+          67652813, // Collapse Dynamic (Graviton Lance)
+          1992979813, // Gilded Birthright (Heirloom)
+          806209283, // Hawkesbury Devil (Tarrabah)
+          3393068241, // Korosec's Fear (Centrifuse)
+          3417548187, // Executive Aide (D.A.R.C.I.)
+        ],
+        [],
+        [
+          107372146, // Golden Age Hilt (Praxic Blade)
+          898360256, // Dark Matter Crystal: Gradient (Praxic Blade Crystal)
+          107372147, // Kingsblade (Praxic Blade)
+          898360257, // Dark Matter Crystal: White (Praxic Blade Crystal)
+          107372144, // Royal Guard Hilt (Praxic Blade)
+          898360259, // Dark Matter Crystal: Purple (Praxic Blade Crystal)
+        ]
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 28,
+      items: [
+        642361517, // Bee Wary
+        642361516, // Best-Seller
+        2242021422, // Under the Blossoms
+        2546301093, // Winning Beat
+        363485652, // Fairy Godmother
+        363485653, // Saw What?
+        363485654, // Twelve-Pounder
+        1444566706, // Classy Tag
+        1444566705, // Confetti Cannon
+        1444566704, // Dunce Cap
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 28,
+      itemGroups: [
+        [
+          3850767911, // Ancient Splendor Shell
+          3850767904, // Beanie Shell
+          3850767909, // Blazing Conqueror Shell
+          3722566353, // Field Transcriber Shell
+          3850767907, // Luminous Equine Shell
+          100834013, // Mechanical Assassin Shell
+          3850767905, // Pelagic Shell
+          3850767908, // Tyrian Shell
+          3850767910, // War Beast Shell
+        ],
+        [
+          3368572186, // Personal Assistant Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 28,
+      items: [
+        39786808, // Ametrine SP-11
+        39786809, // Enactine Push
+        39786815, // Festival Leap
+        39786812, // Forewing
+        39786811, // Lap of Luxury
+        1649773431, // Marshal's Colt
+        // 591295945, // Mobile Array
+        4150200200, // Skatepunk
+        39786810, // Speedbeast
+        39786813, // Wavetype Hunter
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 28,
+      items: [
+        1961738947, // Baroque Pearl
+        991808355, // Cargo Runner
+        1961738946, // Cry Havoc
+        3805214801, // Dynamic Equivalence
+        1961738949, // Mutable Sepia
+        1961738944, // Quickdagger
+        1961738948, // Skitchrider
+        1961738945, // Swift Eidetic
+        1961738951, // The Racehorse
+      ],
+    },
+    {
+      name: 'Shaders',
+      season: 28,
+      items: [
+        919688653, // Archimedes Pine
+        919688647, // Careful Careful
+        919688651, // Digi-Teal
+        445256941, // Discreet Cobalt
+        919688654, // Freestyle
+        919688646, // Low Alert
+        919688648, // New Growth
+        919688655, // Occultation
+        919688649, // Royal-Clad
+        919688650, // True Moss
+      ],
+    },
+    {
+      name: 'Transmat Effects',
+      season: 28,
+      items: [
+      ],
+    },
+    {
+      name: 'Finishers',
+      season: 28,
+      items: [
+        1717042024, // Autonomous Counterstrike
+        3313112374, // Boom!
+      ],
+    },
+    {
+      name: 'Holochips',
+      season: 28,
+      items: [
+        1779246981, // Aurochs
+        1779246980, // Color Bearer
+      ],
+    },
+  ],
+};
+
+export const DAWNING_2025 = {
+  name: 'Dawning - 2025',
+  id: 'dawning-2025',
+  sections: [
+    {
+      name: 'Weapons',
+      season: 28,
+      items: [
+        2922964484, // Permafrost
+        3685829362, // Fimbulwinter Stitch
+        766122634, // Mistral Lift
+      ],
+    },
+    {
+      name: 'Hunter Armor',
+      season: 28,
+      itemGroups: [
+        [3320612381, 1783144332, 3921554260, 2428876598, 411993769], // Polar Wolf Set
+      ],
+    },
+    {
+      name: 'Titan Armor',
+      season: 28,
+      itemGroups: [
+        [3472194867, 1431132354, 2905834150, 3475278204, 3648282895], // Polar Wolf Set
+      ],
+    },
+    {
+      name: 'Warlock Armor',
+      season: 28,
+      itemGroups: [
+        [1533935492, 1098249309, 3217260771, 3422298367, 2116083674], // Polar Wolf Set
+      ],
+    },
+    {
+      name: 'Emotes',
+      season: 28,
+      items: [
+        1114225063, // Steamy-bara
+        3426701406, // Toboggan Buddies
+        2319580354, // Puck Drill
+      ],
+    },
+    {
+      name: 'Ghosts',
+      season: 28,
+      itemGroups: [
+        [
+          2770988335, // Delicate Shell
+          1551213059, // Painted Elytra Shell
+        ],
+        [
+          3766589202, // Mistletoe Projection
+        ],
+      ],
+    },
+    {
+      name: 'Sparrows',
+      season: 28,
+      items: [
+        1194085652, // Lupine Aurora
+        3220992341, // Winter Sledge
+        1378639429, // Porcelain Gorgeous
+      ],
+    },
+    {
+      name: 'Ships',
+      season: 28,
+      items: [
+        244316917, // Soaring Kaolin
+        3314030149, // Wingswept
+      ],
+    },
+    {
+      name: 'Extras',
+      season: 28,
+      items: [
+        3579036047, // Ceramic Gloss (Shader)
+        3579036046, // Deco Curve (Shader)
+        3579036040, // Old Agate (Shader)
+        3579036045, // Snowbound (Shader)
+        3579036044, // The North (Shader)
+        362494424, // Winterberry (Shader)
+        2680217527, // Hibernal Solstice (Emblem)
+        3447207572, // Northern Lights (Transmat Effect)
+        599777086, // Ether Cane Pain (Finisher)
+        1336181349, // Aurora (Holochip)
+      ],
+    },
+  ],
+};

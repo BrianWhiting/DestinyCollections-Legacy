@@ -27,11 +27,33 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              2875763009, // Nox Sidereal IV
+              1402874079, // Hawthorne's Field-Forged Shotgun
+              3421075982, // Something Something
+              3201200906, // Monody-44
+              1685533876, // Motif-41
+              1242785638, // Sarpedon-D
+              1763361847, // Evening SI4
+              3615748501, // A Good Shout
+              2344383760, // Eighty-Six
+            ],
+          },
+          {
             name: 'Hunter Armor',
             season: 27,
             itemGroups: [
               [2292070913, 3129990424, 503854896, 1589715538, 4150538093], // Techsec Set
               [2941172034, 2280816555, 2348082405, 3755454909, 1003997240], // Smoke Jumper Set
+            ]
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            itemGroups: [
+              [3173749166, 4199055647, 2849508185, 3120202721, 293267476], // Ferropotent Set
             ]
           },
           {
@@ -43,11 +65,25 @@ export default ([
             ],
           },
           {
+            name: 'Titan Armor',
+            season: 28,
+            itemGroups: [
+              [3031404418, 2370945771, 3554497829, 3462703357, 2676446840], // Ferropotent Set
+            ],
+          },
+          {
             name: 'Warlock Armor',
             season: 27,
             itemGroups: [
               [2082858804, 489126477, 4052965875, 1159925519, 1963424554], // Techsec Set
               [3577550601, 986078848, 3788059976, 63899322, 1619647653], // Smoke Jumper Set
+            ],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 28,
+            itemGroups: [
+              [1066619413, 4037429988, 4066564572, 1248547982, 1057430865], // Ferropotent Set
             ],
           },
         ],
@@ -70,9 +106,24 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              260532765, // Duty Bound
+              827835657, // Horror's Least
+              3556730800, // Psi Aeterna IV
+              4104613038, // Oxygen SR3
+            ],
+          },
+          {
             name: 'Hunter Armor',
             season: 27,
             items: [1465235089, 81786728, 1154629600, 1183125954, 464665629], // Bushido Set
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            items: [1343009820, 2697887125, 1604556427, 445076215, 385833378], // Swordmaster's Set
           },
           {
             name: 'Titan Armor',
@@ -80,9 +131,19 @@ export default ([
             items: [407922163, 2195895938, 2199272806, 4281618492, 2517367247], // Bushido Set
           },
           {
+            name: 'Titan Armor',
+            season: 28,
+            items: [1883377784, 2347181257, 262826703, 2639123099, 1934339678], // Swordmaster's Set
+          },
+          {
             name: 'Warlock Armor',
             season: 27,
             items: [545935602, 970712027, 2046361909, 3715719501, 743956488], // Bushido Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 28,
+            items: [3520307277, 4172973116, 1504698788, 3558781766, 2248528889], // Swordmaster's Set
           },
           {
             name: 'Extras',
@@ -111,11 +172,30 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 28,
+            itemGroups: [
+              [
+                2297554989, // Riptide
+                4118334987, // Mos Athanor IV
+                337893613, // Qua Vinctus IV
+              ],
+              [3620277039], // Peculiar Charm
+            ],
+          },
+          {
             name: 'Hunter Armor',
             season: 27,
             itemGroups: [
               [4112577340, 1172384181, 2752429099, 2748506263, 1109145282], // Last Discipline Set
               [2571112423, 517814638, 438409602, 2600892776, 3957372883], // Disaster Corps Set
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            itemGroups: [
+              [2039591531, 361848666, 217940910, 1618320532, 536035447], // Wild Anthem Set
             ],
           },
           {
@@ -127,6 +207,13 @@ export default ([
             ],
           },
           {
+            name: 'Titan Armor',
+            season: 28,
+            itemGroups: [
+              [2278464039, 225063086, 1644825026, 2732598696, 1334855187], // Wild Anthem Set
+            ],
+          },
+          {
             name: 'Warlock Armor',
             season: 27,
             itemGroups: [
@@ -135,10 +222,24 @@ export default ([
             ],
           },
           {
+            name: 'Warlock Armor',
+            season: 28,
+            itemGroups: [
+              [1930651768, 2394455241, 2134373071, 2686397083, 3805886046], // Wild Anthem Set
+            ],
+          },
+          {
             name: 'Extras',
             season: 27,
             items: [
               2565108509, // Great Pulse (Emblem)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              2680217528, // Ever Higher (Emblem)
             ],
           },
         ],
@@ -152,6 +253,13 @@ export default ([
             season: 27,
             items: [
               1917334929, // Finite Impactor
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              2370525224, // Reghusk's Pledge
             ],
           },
           {
@@ -176,6 +284,14 @@ export default ([
               2565108499, // Intergalactic Wisdom (Emblem)
             ],
           },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              2680217529, // Pack Howl (Emblem)
+              3524372837, // Iron Bananer (Shader)
+            ],
+          },
         ],
       },
       {
@@ -195,9 +311,25 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              2263462407, // Corundum Hammer
+              2269779982, // Astral Horizon
+              2872063099, // The Immortal
+              877384, // The Martlet
+              3805679279, // Cataphract GL3
+            ],
+          },
+          {
             name: 'Hunter Armor',
             season: 27,
             items: [2962027628, 2116325413, 1590014587, 2463655079, 4241698066], // Twofold Crown Set
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            items: [2838679265, 3676598776, 4096683536, 1711866418, 3023838797], // New Demotic Set
           },
           {
             name: 'Titan Armor',
@@ -205,9 +337,28 @@ export default ([
             items: [1330142838, 2534133191, 1230148081, 1286938889, 3384001164], // Twofold Crown Set
           },
           {
+            name: 'Titan Armor',
+            season: 28,
+            items: [1019345429, 3990156004, 2195018204, 1201273998, 3480851793], // New Demotic Set
+          },
+          {
             name: 'Warlock Armor',
             season: 27,
             items: [85371703, 3453853118, 2896769138, 3873235480, 3533586691], // Twofold Crown Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 28,
+            items: [2214884208, 1971091137, 4154731415, 3041479219, 1988083558], // New Demotic Set
+          },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              839324154, // Hieratic Shell (Ghost Shell)
+              3800841776, // Sunchaser (Sparrow)
+              1924030216, // Chitin King (Ship)
+            ],
           },
         ],
       },
@@ -229,14 +380,26 @@ export default ([
             ],
           },
           {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              4069880346, // Gizmo Weft
+              527989828, // Action Item
+              3481382332, // King Orfeo
+              2246386812, // The Heron
+              474671201, // Micromort
+            ],
+          },
+          {
             name: 'Extras',
             season: 27,
             items: [
               4178714180, // Armsmaster (Emblem)
               4178714181, // Heavier Duty (Emblem)
               2565108498, // Simmered Down (Emblem)
+              2565108502, // First of the New (Emblem)
+              2565108503, // Unwoven Tangle (Emblem)
               912845486, // Desert Burnish (New Malpais Ornament)
-              3928027068, // Baroque Shell (Ghost Shell)
               3798859489, // Supersonic Shell (Ghost Shell)
               3167518920, // Call to Arms Projection (Ghost Projection)
               3733061403, // Chromium-24 (Ship)
@@ -244,13 +407,27 @@ export default ([
               3670201162, // Battlefield Burnish (Shader)
               3670201163, // Field Alert (Shader)
               114843110, // Burning Determination (Transmat Effect)
-              114843111, // Coat of Arms (Transmat Effect)
               2986944804, // Captain's Clash (Finisher)
-              2565108502, // First of the New (Emblem)
-              2565108503, // Unwoven Tangle (Emblem)
               2540822598, // Seraphim Age Mask (Hunter Helmet Ornament)
               963045244, // Seraphim Age Helm (Titan Helmet Ornament)
               1761695349, // Seraphim Age Cover (Warlock Helmet Ornament)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              2680217525, // Devrim's Favor (Emblem)
+              2680217526, // Locked, Loaded (Emblem)
+              595355909, // Sublime Companionship (Service of Luzaku Ornament)
+              2647459405, // Framework Shell (Ghost Shell)
+              1075917863, // Clinkerbuilt Bomber (Ship)
+              2364111571, // Ride-Along Ram (Sparrow)
+              471779234, // Bannered Arrival (Transmat Effect)
+              1504831280, // Axe-cuse Me! (Finisher)
+              3744992738, // Radiant Plume (Hunter Helmet Ornament)
+              1760084440, // Radiant Plume (Titan Helmet Ornament)
+              1797765441, // Radiant Plume (Warlock Helmet Ornament)
             ],
           },
         ],
@@ -274,28 +451,44 @@ export default ([
               ],
             ],
           },
+          {
+            name: 'Armor',
+            season: 28,
+            itemGroups: [
+              [
+                4010324161, // Fortune's Favor
+              ],
+              [
+                4184605701, // Praxic Vestment
+              ],
+              [
+                1479082657, // Deimosuffusion
+              ],
+            ],
+          },
         ],
       },
       {
-        name: 'Exotic Mission: Heliostat',
-        id: 'year-eight-exotic-mission-heliostat',
+        name: 'Exotic Missions',
+        id: 'year-eight-exotic-missions',
         sections: [
           {
-            name: 'Exotic Weapon',
+            name: 'Heliostat',
             season: 27,
             items: [
               1753923263, // Wolfsbane
+              2565108497, // Overgrown Warzone (Emblem)
             ],
           },
           {
-            name: 'Extras',
-            season: 27,
+            name: 'Fire & Ice',
+            season: 28,
             items: [
-              2565108497, // Overgrown Warzone (Emblem)
+              3049715579, // Praxic Blade
             ],
-          }
+          },
         ],
-      }
+      },
     ],
   },
   {
@@ -367,6 +560,61 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Equilibrium',
+        id: 'year-eight-equilibrium',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 28,
+            items: [
+              1685137410, // Heirloom
+            ],
+          },
+          {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              4062069077, // Conspiracy Honed
+              1863583117, // Zealous Ideal
+              2873508409, // High Tyrant
+              71057630, // Voltaic Shade
+              1085743380, // Sullen Claw
+              
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            items: [112779239, 2354448750, 1867581826, 142559592, 1091577811], // Sage Protector Set
+          },
+          {
+            name: 'Titan Armor',
+            season: 28,
+            items: [4118260899, 919358834, 279565494, 1320597132, 3945736543], // Sage Protector Set
+          },
+          {
+            name: 'Warlock Armor',
+            season: 28,
+            items: [1786011928, 2249815529, 640369263, 2541757371, 1887527934], // Sage Protector Set
+          },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              1773007617, // Dark Matter Crystal: Taken (Praxic Blade Crystal)
+              // 1370484808, // Modified NLS Courier (Ship)
+              4104431769, // Arid Rambler (Sparrow)
+              2043430167, // Static Data Shell (Ghost Shell)
+              2680217522, // Dredgen's Descent (Emblem)
+              2680217523, // Imperium's Adversary (Emblem)
+              748692000, // Stand Alone (Emblem)
+              809980656, // Imperium Parade (Shader)
+              809980657, // Praxic Drape (Shader)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -427,6 +675,69 @@ export default ([
               169598448, // Master of Science (Shader)
               4178714188, // AION Effigy (Emblem)
               4178714189, // Emissary Waft (Emblem)
+            ],
+          },
+        ],
+      },
+      {
+        name: 'Lawless Frontier',
+        id: 'year-eight-lawless-frontier',
+        sections: [
+          {
+            name: 'Weapons',
+            season: 28,
+            items: [
+              3146657388, // Modified B-7 Pistol
+              3984776322, // All or Nothing
+              1419158093, // M-17 "Fast Talker"
+              3146657389, // Uncivil Discourse
+              2819552809, // Compact Defender
+              3661051060, // Refurbished A499
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            itemGroups: [
+              [2158178052, 1722491869, 3531425635, 4046540927, 2430248538], // Shrewd Survivor Set
+              [1953372754, 2419726011, 365930261, 828189485, 3358389096], // Thriving Survivor Set
+            ],
+          },
+          {
+            name: 'Titan Armor',
+            season: 28,
+            itemGroups: [
+              [2051364144, 1849147777, 2629237079, 3343993331, 462589222], // Shrewd Survivor Set
+              [2891930926, 3917237407, 3093390809, 2838384481, 537150100], // Thriving Survivor Set
+            ],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 28,
+            itemGroups: [
+              [2263018101, 938861252, 3475188156, 2869507310, 932088625], // Shrewd Survivor Set
+              [1616916151, 690430270, 3781374706, 1109812632, 123224963], // Thriving Survivor Set
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              1686227561, // Ringleader (Ship)
+              2303244097, // Desertwear (Shader)
+              183163672, // Piker Pride (Shader)
+              183163674, // Totality Chic (Shader)
+              183163673, // Vex Affect (Shader)
+              2680217521, // Red Planet (Emblem)
+              2680217520, // Tharsis Offbeat (Emblem)
+              1773007618, // Dark Matter Crystal: Blue
+              1773007621, // Dark Matter Crystal: Cyan
+              1773007620, // Dark Matter Crystal: Green
+              1773007619, // Dark Matter Crystal: Indigo
+              1773007616, // Dark Matter Crystal: Magenta
+              1773007623, // Dark Matter Crystal: Orange
+              1773007622, // Dark Matter Crystal: Red
+              1773007630, // Dark Matter Crystal: Yellow
             ],
           },
         ],
@@ -548,6 +859,62 @@ export default ([
           },
         ],
       },
+      {
+        name: 'Renegades',
+        id: 'year-eight-reward-pass-3',
+        sections: [
+          {
+            name: 'Exotic Weapon',
+            season: 28,
+            items: [
+              4284533075, // Service of Luzaku
+              595355908, // Absinthium (Service of Luzaku Ornament)
+            ],
+          },
+          {
+            name: 'Hunter Armor',
+            season: 28,
+            itemGroups: [
+              [3473359326, 2277297935, 2404621161, 2893374897, 3718787108], // Aedile's Set
+              [3978209571], // Aedile's Coronet
+            ],
+          },
+          {
+            name: 'Titan Armor',
+            season: 28,
+            itemGroups: [
+              [1618255916, 814130405, 1865126715, 736899431, 646403538], // Aedile's Set
+              [2646977909], // Aedile's Coronet
+            ],
+          },
+          {
+            name: 'Warlock Armor',
+            season: 28,
+            itemGroups: [
+              [1208817341, 3966316588, 1661065076, 741538902, 2404895049], // Aedile's Set
+              [3417512518], // Aedile's Coronet
+            ],
+          },
+          {
+            name: 'Other',
+            season: 28,
+            items: [
+              3415386970, // Dialed In (Emote)
+              2313740705, // Behold! (Emote)
+              2306016909, // Deadly Trap (Finisher)
+              4109206892, // Visionary Shell (Ghost Shell)
+              958782893, // Celebrant Projection (Ghost Projection)
+              703861208, // Gloryseeker (Ship)
+              74323264, // Prison of Crumbled Forms (Sparrow)
+              3923596506, // Fresh-Faced (Shader)
+              3923596505, // Rustworn (Shader)
+              3923596507, // Worn Interference (Shader)
+              1457233893, // Phalanx Entrance (Transmat Effect)
+              1457233892, // Wireframe Entrance (Transmat Effect)
+            ],
+          },
+        ],
+      },
     ],
   },
   {
@@ -555,6 +922,7 @@ export default ([
     sets: [
       eververseAndEvents.SOLSTICE_2025,
       eververseAndEvents.FESTIVAL_OF_THE_LOST_2025,
+      eververseAndEvents.DAWNING_2025,
     ],
   },
   {
@@ -562,6 +930,7 @@ export default ([
     sets: [
       eververseAndEvents.EVERVERSE_Y8_S27A,
       eververseAndEvents.EVERVERSE_Y8_S27B,
+      eververseAndEvents.EVERVERSE_Y8_S28A,
     ],
   },
   {
@@ -590,6 +959,13 @@ export default ([
               3992231371, // External Sights (Emblem)
               4209233853, // Crystal Lattice (Ship)
               2749722041, // Renegade Leader (Ship)
+            ],
+          },
+          {
+            name: 'Extras',
+            season: 28,
+            items: [
+              3717489385, // Winged Geode
             ],
           },
         ],
